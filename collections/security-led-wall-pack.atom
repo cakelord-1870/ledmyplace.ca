@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/security-led-wall-pack.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2018-12-18T10:54:51-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925494767705</id>
+    <published>2018-12-18T10:54:51-05:00</published>
+    <updated>2018-12-18T10:54:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1-pack-120v-24w-security-light-double-head-2000lm-5000k-50000h-pir-etl-es"/>
+    <title>24W Security Light Double-head 2000LM 5000K 50000H, PIR, ETL, DLC</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_e2c84aa3-1640-497c-9eb0-c90fba01f592.jpg?v=1615415677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            70.18 - 536.25
+            <a href="https://ledmyplace.ca/products/1-pack-120v-24w-security-light-double-head-2000lm-5000k-50000h-pir-etl-es">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amplify the charm of your outdoor with LEDMyplace's Premium Quality LED Wall Pack Lights. This LED wall pack light fixture can be used as security lighting around your property. These wall pack lights are off 24 Watt that gets operated on an AC input of 120V - 277V Volts. It delivers 2000 lumens with CCT of 5000K that can easily replace the halogen lamp of 85 Watt flawlessly and are perfect for illuminating outdoor spaces. ETL and DLC Certified clear T8 4ft LED Tube Light without ballast are eligible for the rebate. This long-lasting fixture meets the industry-standard IP54 rating and comes with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 Lumens</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>85W Eq.</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>IP64 Rated</s:tag>
+    <s:tag>Security</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>WP001</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925494767705</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">70.18</s:price>
+      <s:sku>WEN-SECURITY-24W-5000K.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925494767705</id>
+      <title>8-Pack</title>
+      <s:price currency="CAD">536.25</s:price>
+      <s:sku>WEN-SECURITY-24W-5000K.8pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

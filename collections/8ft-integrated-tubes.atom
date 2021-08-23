@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/8ft-integrated-tubes.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2018-12-17T17:59:12-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/420623712287</id>
+    <published>2018-12-17T17:59:12-05:00</published>
+    <updated>2018-12-17T17:59:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/60w-led-tube-integrated-t8-8ft-5000k-frosted-100-277v"/>
+    <title>60 Watt LED Integrated Tube, T8 8 Feet - 210W Equivalent, 5000K Frosted, Linkable - Extendable Design - Basement Lighting</title>
+    <s:type>LED Tubes Integrated</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_cb4b66c3-4edb-4a2a-979b-deef70e6fde9.jpg?v=1620333115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes Integrated<br>
+        <strong>Price: </strong>
+            54.06 - 1019.20
+            <a href="https://ledmyplace.ca/products/60w-led-tube-integrated-t8-8ft-5000k-frosted-100-277v">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These 60W T8 LED integrated Tube fixtures to come with a two-row clear finish with a CCT of 5000K. These light fixtures are designed to withstand and function in a voltage range of 100-277V. With a lumen output of 7200 Lumens, these tubes can easily replace 210W fluorescents. Comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. A complete lighting fixture in itself these LED integrated tubes are practical, durable, and eco-friendly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-277 V</s:tag>
+    <s:tag>210W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>7200 lumens</s:tag>
+    <s:tag>8 Feet</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Billboard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>IP40 Rated</s:tag>
+    <s:tag>IT001</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Replaces 210 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420623712287</id>
+      <title>1-PACK</title>
+      <s:price currency="CAD">54.06</s:price>
+      <s:sku>WEN-8FT-INT-60W-5000K-F.1pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420623712287</id>
+      <title>4-PACK</title>
+      <s:price currency="CAD">216.24</s:price>
+      <s:sku>WEN-8FT-INT-60W-5000K-F.4pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420623712287</id>
+      <title>10-PACK</title>
+      <s:price currency="CAD">519.79</s:price>
+      <s:sku>WEN-8FT-INT-60W-5000K-F.10pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420623712287</id>
+      <title>20-PACK</title>
+      <s:price currency="CAD">1019.20</s:price>
+      <s:sku>WEN-8FT-INT-60W-5000K-F.20pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297248555039</id>
+    <published>2017-11-07T14:53:30-05:00</published>
+    <updated>2017-11-07T14:53:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/60w-t8-8ft-v-shape-led-tube-integrated-5000k-clear-100-277v"/>
+    <title>60W Integrated V Shape LED Tube, 8ft, 7200 Lumens 5000K Clear, Linkable T8 Integrated Fixture - Under Cabinet - Ceiling Lighting</title>
+    <s:type>LED Tubes Integrated</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2020_07_30T14_16_29_804Z.png?v=1620333165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes Integrated<br>
+        <strong>Price: </strong>
+            54.06 - 1019.20
+            <a href="https://ledmyplace.ca/products/60w-t8-8ft-v-shape-led-tube-integrated-5000k-clear-100-277v">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These 60W T8 LED integrated Tube fixtures to come with a two-row clear finish with a CCT of 5000K. These light fixtures are designed to withstand and function in a voltage range of 100-277V. With a lumen output of 7200 Lumens, these tubes can easily replace 210W fluorescents. Comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. A complete lighting fixture in itself these LED integrated tubes are practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>180 Degree Beam Angle</s:tag>
+    <s:tag>210W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>7200 lumens</s:tag>
+    <s:tag>8 Feet</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Billboard Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>IP40 Rated</s:tag>
+    <s:tag>IT007</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 210 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297248555039</id>
+      <title>1-PACK</title>
+      <s:price currency="CAD">54.06</s:price>
+      <s:sku>WEN-8FT-INT-60W-V-5000-C.1pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297248555039</id>
+      <title>4-PACK</title>
+      <s:price currency="CAD">216.24</s:price>
+      <s:sku>WEN-8FT-INT-60W-V-5000-C.4pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297248555039</id>
+      <title>10-PACK</title>
+      <s:price currency="CAD">519.79</s:price>
+      <s:sku>WEN-8FT-INT-60W-V-5000-C.10pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297248555039</id>
+      <title>20-PACK</title>
+      <s:price currency="CAD">1019.20</s:price>
+      <s:sku>WEN-8FT-INT-60W-V-5000-C.20pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705080779</id>
+    <published>2017-08-03T14:09:55-04:00</published>
+    <updated>2017-08-03T14:09:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/60w-led-tube-integrated-2-row-t8-8ft-6500k"/>
+    <title>T8 8ft, 60 Watt V Shape LED Integrated Tube 6500K Clear, 210W Equivalent, 7200 Lumens, 100-277V, Plug and Play, Commercial LED Lighting</title>
+    <s:type>LED Tubes Integrated</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2020_07_30T14_16_29_804Z_472a03c4-da92-4a71-ba50-7728a70bdc2a.png?v=1620333196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes Integrated<br>
+        <strong>Price: </strong>
+            54.06 - 1019.20
+            <a href="https://ledmyplace.ca/products/60w-led-tube-integrated-2-row-t8-8ft-6500k">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>These 60W T8 LED integrated Tube fixtures to come with a two-row clear finish with a CCT of 6500K. These light fixtures are designed to withstand and function in a voltage range of 100-277V. With a lumen output of 7200 Lumens, these tubes can easily replace 210W fluorescents. Comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. A complete lighting fixture in itself these LED integrated tubes are practical, durable, and eco-friendly.</p>
+<ul></ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>210W Eq.</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>6500K</s:tag>
+    <s:tag>7200 lumens</s:tag>
+    <s:tag>8 Feet</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Billboard Lighting</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>IP40 Rated</s:tag>
+    <s:tag>IT016</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Replaces 210 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705080779</id>
+      <title>1pc</title>
+      <s:price currency="CAD">54.06</s:price>
+      <s:sku>WEN-8FT-INT-60W-6500K-C.1pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705080779</id>
+      <title>4pcs</title>
+      <s:price currency="CAD">216.24</s:price>
+      <s:sku>WEN-8FT-INT-60W-6500K-C.4pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705080779</id>
+      <title>10pcs</title>
+      <s:price currency="CAD">519.79</s:price>
+      <s:sku>WEN-8FT-INT-60W-6500K-C.10pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705080779</id>
+      <title>20pcs</title>
+      <s:price currency="CAD">1019.20</s:price>
+      <s:sku>WEN-8FT-INT-60W-6500K-C.20pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/ballast-compatible-with-ballast-only.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:17:11-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705084427</id>
+    <published>2019-11-12T05:17:11-05:00</published>
+    <updated>2019-11-12T05:17:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-22w-2row-led-tube-2800-lumens-6500k-clear-cover"/>
+    <title>Ballast Compatible T8 4ft 20W LED Tube 2800 Lumens 6500K Clear</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_3fd9fc86-818d-4479-88be-97967ec2a8a9.jpg?v=1626793257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            17.53 - 1558.05
+            <a href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-22w-2row-led-tube-2800-lumens-6500k-clear-cover">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="grid__item medium-up--four-sixths" data-mce-fragment="1">
+<div class="product_overview_content" data-mce-fragment="1" itemprop="description">
+<p data-mce-fragment="1">In LEDMyplace our Ballast Compatible T8 4ft 20W LED Tube with 6500K color temperature and a CRI of &gt;80 can deliver lumens up to 2800. It is an excellent substitute for T8, T10 &amp; T12 fluorescent tubes. This 20W can safely and easily replace a fluorescent tube of 70W and bring energy-savings of 50W. Thus, a lower utility bill for you every month. This 20W can work with ballast and hence the existing fluorescent tube should be taken out and the LED tube must be put in its place. However, you must ask us for a ballast compatibility list. These 20W LED tubes are housed in rugged die-cast aluminum for efficient heat dissipation. For the standard ceiling height, these LED tubes having a beam angle of 180 degrees, emit enough bright light, have a long lifespan, and have a shatterproof coating unlike the fluorescent tubes that were of inferior light quality, typically low lifespan, and usually with no shatterproof. One of the best things about LED tubes from LEDMyplace is they are ETL listed.</p>
+</div>
+</div>
+<div class="grid__item medium-up--two-sixths" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-277 V</s:tag>
+    <s:tag>20 Watt</s:tag>
+    <s:tag>2800 Lumens</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>6500K</s:tag>
+    <s:tag>70W Eq.</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>ETL</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Replace 70 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB060</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084427</id>
+      <title>1pc</title>
+      <s:price currency="CAD">17.53</s:price>
+      <s:sku>BCWEN-T8F1222T02(6500K).1pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084427</id>
+      <title>4pcs</title>
+      <s:price currency="CAD">70.12</s:price>
+      <s:sku>BCWEN-T8F1222T02(6500K).4pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084427</id>
+      <title>25pcs</title>
+      <s:price currency="CAD">413.89</s:price>
+      <s:sku>BCWEN-T8F1222T02(6500K).25pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084427</id>
+      <title>100pcs</title>
+      <s:price currency="CAD">1558.05</s:price>
+      <s:sku>BCWEN-T8F1222T02(6500K).100pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705072459</id>
+    <published>2019-11-12T05:17:09-05:00</published>
+    <updated>2019-11-12T05:17:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-20w-led-tube-2800-lumens-5000k-frosted-cover"/>
+    <title>Ballast Compatible T8 4ft 20W LED Tube 2800 Lumens 5000K Frosted</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_7b97e24d-d56d-442d-93cd-7f1caf0fc663.jpg?v=1626793171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            17.53 - 1558.05
+            <a href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-20w-led-tube-2800-lumens-5000k-frosted-cover">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Ballast compatible LED tube comes in a frosted tube and provides up to 2800 lumens of brightness. With a CCT of 5000K and a CRI up to 80. These Ballast Compatible LED tubes can deliver daylight white light with ample brightness. It is an ideal replacement for older power-consuming T8, T10, and T12 fluorescent tubes. Our 20W LED tube light fixture can safely and easily replace a fluorescent tube that consumes 70W. These 20W LED tubes are housed in rugged die-cast aluminum for efficient heat dissipation. For the standard ceiling height, these LED tubes have a beam angle of 180°, emit enough bright light, have a long lifespan of about 50,000 hours, and have a shatterproof coating, unlike the inferior quality fluorescent tubes. One of the best things about LED tubes from LEDMyplace is they are ETL &amp;amp; DLC listed making them safe and hazard-proof for domestic and commercial applications.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-277 V</s:tag>
+    <s:tag>20 Watt</s:tag>
+    <s:tag>2800 Lumens</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>70W Eq.</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>ETL</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Hybrid</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 70 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB026</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705072459</id>
+      <title>1pc</title>
+      <s:price currency="CAD">17.53</s:price>
+      <s:sku>WENT84DUA-20WB-D-50M.1pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705072459</id>
+      <title>4pcs</title>
+      <s:price currency="CAD">70.12</s:price>
+      <s:sku>WENT84DUA-20WB-D-50M.4pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705072459</id>
+      <title>25pcs</title>
+      <s:price currency="CAD">413.89</s:price>
+      <s:sku>WENT84DUA-20WB-D-50M.25pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705072459</id>
+      <title>100pcs</title>
+      <s:price currency="CAD">1558.05</s:price>
+      <s:sku>WENT84DUA-20WB-D-50M.100pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/420626563103</id>
+    <published>2019-11-12T05:17:07-05:00</published>
+    <updated>2019-11-12T05:17:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-20w-led-tube-2800-lumens-4000k-frosted-cover"/>
+    <title>Ballast Compatible T8 4FT 20W LED Tube 2800 Lumens 4000K Frosted Cover</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_435934ec-b436-4e92-8279-7e9f5f29714c.jpg?v=1626793317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            17.53 - 1558.05
+            <a href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-20w-led-tube-2800-lumens-4000k-frosted-cover">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">In LEDMyplace our </span>4ft LED tube <span data-mce-fragment="1">of 20W with a frosted cover available in 4000K color temperature and having a CRI of &gt;80  can deliver lumens up to 2800. These 4ft LED tube can easily replace T8, T10 &amp; T12 fluorescent tubes of 70W and bring an energy-savings of 50W. Thus, they make a lower utility bill for you every month. This Frosted Cover indoor 20W tube is ballast compatible and it’s just that you need to check with the manufacturer for the ballast compatibility list. These 20W LED tubes are housed in rugged die-cast aluminum for efficient heat dissipation. For the standard ceiling height, these LED Tubes having a beam angle of &gt;180 degrees emit enough bright light, have a long lifespan, and have a shatterproof coating, unlike the fluorescent tubes that were of inferior light quality, typically low lifespan, and usually with no shatter proofing. One of the best things about LED tubes from LEDMyplace is they are ETL &amp; DLC listed, these listings make you eligible for a handsome rebate along with 5 years of warranty. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-277 V</s:tag>
+    <s:tag>20 Watt</s:tag>
+    <s:tag>2800 Lumens</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>70W Eq.</s:tag>
+    <s:tag>AC100- 277V</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>ETL</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Hybrid</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 70 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB010</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420626563103</id>
+      <title>1-PACK</title>
+      <s:price currency="CAD">17.53</s:price>
+      <s:sku>WENT84DUA-20WB-D-40M.1pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420626563103</id>
+      <title>4-PACK</title>
+      <s:price currency="CAD">70.12</s:price>
+      <s:sku>WENT84DUA-20WB-D-40M.4pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420626563103</id>
+      <title>25-PACK</title>
+      <s:price currency="CAD">413.89</s:price>
+      <s:sku>WENT84DUA-20WB-D-40M.25pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420626563103</id>
+      <title>100-PACK</title>
+      <s:price currency="CAD">1558.05</s:price>
+      <s:sku>WENT84DUA-20WB-D-40M.100pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705084811</id>
+    <published>2019-11-12T05:17:05-05:00</published>
+    <updated>2019-11-12T05:17:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-20w-2row-led-tube-2800-lumens-5000k-clear-cover"/>
+    <title>Ballast Compatible T8 4ft 20W LED Tube 2800 Lumens 5000K Clear</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_a1fde7f3-5461-4ae3-b965-ce8c4a40676b.jpg?v=1626793099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            17.53 - 1558.05
+            <a href="https://ledmyplace.ca/products/ballast-compatible-t8-4ft-20w-2row-led-tube-2800-lumens-5000k-clear-cover">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">In LEDMyplace, our 4ft 20W LED tube as a clear tube with 5000K color temperature and a CRI of &gt;80 can deliver lumens up to 2800. It is an excellent substitute for T8, T10 &amp; T12 fluorescent tubes. This 20W can safely and easily replace a fluorescent tube of 70W and bring an energy-savings of 50W. Thus, a lower utility bill for you every month. This 20W can work with ballast and hence the existing fluorescent tube should be taken out and the LED tube must be put in its place. However, you must ask us for a ballast compatibility list. These 20W LED tubes are housed in rugged die-cast aluminum for efficient heat dissipation. For the standard ceiling height, these LED tubes having a beam angle of 180 degrees emit enough bright light, have a long lifespan, and have a shatterproof coating unlike the fluorescent tubes that were of inferior light quality, typically low lifespan, and usually with no shatterproof. One of the best things about LED tubes from LEDMyPlace is they are ETL &amp; DLC listed, these listings make you eligible for a handsome rebate along with 5 years of warranty.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 Watt</s:tag>
+    <s:tag>2800 Lumens</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>70W Eq.</s:tag>
+    <s:tag>Ballast Bypass</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Hybrid</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Replaces 50 Watt</s:tag>
+    <s:tag>Replaces 70 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB064</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084811</id>
+      <title>1pc</title>
+      <s:price currency="CAD">17.53</s:price>
+      <s:sku>BCWEN-T8F1222T02(5000K).1pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084811</id>
+      <title>4pcs</title>
+      <s:price currency="CAD">70.12</s:price>
+      <s:sku>BCWEN-T8F1222T02(5000K).4pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084811</id>
+      <title>25pcs</title>
+      <s:price currency="CAD">413.89</s:price>
+      <s:sku>BCWEN-T8F1222T02(5000K).25pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705084811</id>
+      <title>100pcs</title>
+      <s:price currency="CAD">1558.05</s:price>
+      <s:sku>BCWEN-T8F1222T02(5000K).100pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013200154713</id>
+    <published>2019-03-04T16:45:15-05:00</published>
+    <updated>2019-03-04T16:45:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/t8-4ft-led-tube-light-glass-18w-4000k-1800-lumens-clear-plug-n-play"/>
+    <title>T8 4ft LED Tube Light Glass, 18W, 4000K, 1800 Lumens, Clear, Plug N Play (Check Compatibility List; Not Compatible with all ballasts)</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/01_4fe558bf-700e-4a91-ab38-ec8ffbe272cc.jpg?v=1626796136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            113.78 - 227.57
+            <a href="https://ledmyplace.ca/products/t8-4ft-led-tube-light-glass-18w-4000k-1800-lumens-clear-plug-n-play">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The internal driver in plug-and-play LED tubes, also known as ballast compatible ( check with our ballast compatibility list) or "Type A" tubes, allows them to operate with a linear fluorescent ballast. These 18 Watts T8 LED Plug and play Tube fixtures come with a clear glass finish. These plug-and-play tubes deliver an output of 1800 Lumens with a CCT of 4000 K. These light fixtures are designed to withstand and function in a voltage range of 120-277V. These tubes come with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. Plug and play eliminate the need for expensive electrical jobs, providing customers with greater versatility and convenience.<br><br></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18 Watt</s:tag>
+    <s:tag>1800 Lumens</s:tag>
+    <s:tag>3 Year Warranty</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Replace 64 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB013</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013200154713</id>
+      <title>15-Pack</title>
+      <s:price currency="CAD">113.78</s:price>
+      <s:sku>WEN-T8GA1218T-40-A.15pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013200154713</id>
+      <title>30-Pack</title>
+      <s:price currency="CAD">227.57</s:price>
+      <s:sku>WEN-T8GA1218T-40-A.30pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/468953530399</id>
+    <published>2018-03-16T17:11:59-04:00</published>
+    <updated>2018-03-16T17:11:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/t8-4ft-led-tube-light-glass-18w-6500k-clear-t8-led-plug-and-play"/>
+    <title>T8 4ft LED Tube Light Glass, 18W, 6500K, Clear, T8 LED Plug and Play, Ballast Compatible (Check Compatibility List; Not Compatible with all ballasts)</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/01_6f25e4bb-9439-442b-80f8-4f1f42069b53.jpg?v=1626795834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            99.76 - 199.52
+            <a href="https://ledmyplace.ca/products/t8-4ft-led-tube-light-glass-18w-6500k-clear-t8-led-plug-and-play">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The internal driver in plug-and-play LED tubes, also known as ballast compatible ( check with our ballast compatibility list) or "Type A" tubes, allows them to operate with a linear fluorescent ballast. These 18 Watts T8 LED Plug and play Tube fixtures come with a clear glass finish. These plug-and-play tubes deliver an output of 1800 Lumens with a CCT of 6500 K. These light fixtures are designed to withstand and function in a voltage range of 120-277V. These tubes come with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. Plug and play eliminate the need for expensive electrical jobs, providing customers with greater versatility and convenience.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18 Watt</s:tag>
+    <s:tag>1800 Lumens</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5years</s:tag>
+    <s:tag>6500K</s:tag>
+    <s:tag>65W Eq.</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>Double Pin (GU10 Base)</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Replaces 65 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB004</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/468953530399</id>
+      <title>15-Pack</title>
+      <s:price currency="CAD">99.76</s:price>
+      <s:sku>WEN-T8GA1218T-65-A.15pk</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/468953530399</id>
+      <title>30-Pack</title>
+      <s:price currency="CAD">199.52</s:price>
+      <s:sku>WEN-T8GA1218T-65-A.30pk</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/468953432095</id>
+    <published>2018-03-16T17:11:54-04:00</published>
+    <updated>2018-03-16T17:11:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/t8-4ft-led-glass-tube-18-watt-5000k-clear-plug-n-play-ip20-rated"/>
+    <title>T8 4ft LED Glass Tube, 18 Watt, 5000K, Clear, Plug N Play,  (Check Compatibility List; Not Compatible with all ballasts)</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/01_a12ea623-cf9f-40d4-9e37-3caefb2c6a15.jpg?v=1626795709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            99.76 - 199.52
+            <a href="https://ledmyplace.ca/products/t8-4ft-led-glass-tube-18-watt-5000k-clear-plug-n-play-ip20-rated">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The internal driver in plug-and-play LED tubes, also known as ballast compatible ( check with our ballast compatibility list) or "Type A" tubes, allows them to operate with a linear fluorescent ballast. These 18 Watts T8 LED Plug and play Tube fixtures come with a clear glass finish. These plug-and-play tubes deliver an output of 1800 Lumens with a CCT of 5000 K. These light fixtures are designed to withstand and function in a voltage range of 120-277V. These tubes come with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. Plug and play eliminate the need for expensive electrical jobs, providing customers with greater versatility and convenience.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18 Watt</s:tag>
+    <s:tag>1800 Lumens</s:tag>
+    <s:tag>3years</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>65W Eq.</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>Double Pin (GU10 Base)</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Replaces 65 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB005</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/468953432095</id>
+      <title>15-Pack</title>
+      <s:price currency="CAD">99.76</s:price>
+      <s:sku>WEN-T8GA1218T-50-A.15pk</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/468953432095</id>
+      <title>30-Pack</title>
+      <s:price currency="CAD">199.52</s:price>
+      <s:sku>WEN-T8GA1218T-50-A.30pk</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705083019</id>
+    <published>2017-08-03T14:10:50-04:00</published>
+    <updated>2017-08-03T14:10:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/t8-2ft-led-tube-10w-5000k-clear"/>
+    <title>T8 2ft LED Tube, 8 Watt, 5000K, Clear, Ballast Compatible (Check Compatibility List; Not Compatible with all ballasts)</title>
+    <s:type>LED Tubes</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_a1886c2e-d69b-49c9-bfab-71715f6f19f1.jpg?v=1623262620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Tubes<br>
+        <strong>Price: </strong>
+            14.31 - 339.94
+            <a href="https://ledmyplace.ca/products/t8-2ft-led-tube-10w-5000k-clear">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Ballast Compatible LED tube comes in a clear tube and provides up to 1120 lumens of brightness. With a CCT of 5000K and a CRI &gt;80 these LED tubes can deliver cool white light with ample brightness. It is an ideal replacement for older power-consuming T8, T10 &amp; T12 fluorescent tubes. This 8W LED tube light fixture can safely and easily replace a fluorescent tube that consumes 30W. These 8W LED tubes are housed in rugged die-cast aluminum for efficient heat dissipation. For the standard ceiling height, these LED tubes have a beam angle of 120 degrees, emit enough bright light, have a long lifespan of about 50,000 hours, and have a shatterproof coating, unlike the inferior quality fluorescent tubes. One of the best things about LED tubes from LEDMyplace is they are UL &amp; DLC listed making them safe and hazard-proof for domestic and commercial applications.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-277 V</s:tag>
+    <s:tag>1120 Lumens</s:tag>
+    <s:tag>2 Feet</s:tag>
+    <s:tag>30W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>8 Watt</s:tag>
+    <s:tag>Ballast Compatible</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>cUL Listed</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Double Ended Power</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Hybrid</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>replace 30W</s:tag>
+    <s:tag>Replaces 30 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TB050</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705083019</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">14.31</s:price>
+      <s:sku>WEN-T8-2FT-10WC5000k</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705083019</id>
+      <title>25-Pack</title>
+      <s:price currency="CAD">339.94</s:price>
+      <s:sku>WEN-T8-2FT-10WC5000k.25pk</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+</feed>

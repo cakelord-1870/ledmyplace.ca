@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-strip-light-dimmers-controllers.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-30T11:27:25-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013205954649</id>
+    <published>2021-04-30T11:27:25-04:00</published>
+    <updated>2021-04-30T11:27:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/rgb-remote-led-controller-set-remote-with-2-scenes-dimming"/>
+    <title>RGB Remote LED Controller Set  - Remote with 2 Scenes Dimming</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/V3_R9.jpg?v=1571708966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            46.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This RGB LED controller set with 2 scenes dimming is perfect for controlling your RGBW LED light strips.</p>
+<div id="overview">
+<div class="bullet_list_section">
+<div class="page-width">
+<ul>
+<li>
+<p>The remote can be operated from 65ft range and is touch-activated for direct and fine-tuned color selection.  </p>
+</li>
+<li>
+<p>Controls power, pause, brightness, control, dynamic mode selection, color wheel, speed-selection touch buttons.   </p>
+</li>
+<li>
+<p>The RGB controller is compatible with LED light strips that can operate within the range of 12V-24V.   </p>
+</li>
+<li>
+<p>Low power consumption with long-distance transmission.</p>
+</li>
+<li>
+<p>Powerful anti-interference ability. </p>
+</li>
+<li>
+<p>Simple and easy to operate with 2scenes dimming brightness.  </p>
+</li>
+<li>
+<p>4 amp per each of the 4 channels. </p>
+</li>
+<li>
+<p>12-24 VDC range.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="page-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST050</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013205954649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.13</s:price>
+      <s:sku>WEN-SW-R9+SW-V3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206708313</id>
+    <published>2019-04-08T14:52:41-04:00</published>
+    <updated>2019-04-08T14:52:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/2a-12-24-volt-dc-single-color-led-dimmer-ledmyplace"/>
+    <title>2A 12-24 Volt DC Single Color LED Dimmer</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/dimmer.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            7.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>Inline LED dimmer can dim any 12 - 24 VDC LED products from 0 to 100% using Pulse Width Modulation (PWM) circuit knob control. Maximum load is 2 amps.</p>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST040</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206708313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.61</s:price>
+      <s:sku>WEN-SW-DM1-B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206675545</id>
+    <published>2019-04-08T13:34:32-04:00</published>
+    <updated>2019-04-08T13:34:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/12-24-volt-dc-mini-dimmer-ledmyplace"/>
+    <title>12-24 Volt DC Mini Dimmer</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_8adb80a1-5cab-48df-ae40-4f5ff7da9f5e.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            4.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>Mini LED dimmer can turn on and off and dim any 12~24VDC LED products from 10 to 100% using Pulse Width Modulation touch sensitive control.</p>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p> </p>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST203</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206675545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.68</s:price>
+      <s:sku>WEN-SW-DM1-mini</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206610009</id>
+    <published>2019-04-08T13:30:58-04:00</published>
+    <updated>2019-04-08T13:30:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/infrared-rgb-led-controller-with-wireless-irc-remote-ledmyplace"/>
+    <title>Infrared RGB LED Controller with Wireless IRC Remote</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_adcc8f8e-c852-4c7e-a77f-97f323dc28ff.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            10.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>Universal Red/Green/Blue (RGB) LED controller and dimmer with handheld infrared remote that can control any 12~24VDC RGB LED products.</div>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p> </p>
+<p>Certifications that set guidelines for SSL usage in Canada.</p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST042</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206610009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.53</s:price>
+      <s:sku>WEN-SW-IRC-B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206511705</id>
+    <published>2019-04-08T13:27:18-04:00</published>
+    <updated>2019-04-08T13:27:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/control-moudule-for-2411-led-linear-light-basic-module-ledmyplace"/>
+    <title>Control module for 2411 Led Linear Light Basic module</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/GE-_SW-LS-2411-GE_1024x1024_2x_ea5f448b-a239-4a43-bd34-d412745cbbd7.jpg?v=1598456975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li>Basic module SW-LS-2411-GE</li>
+</ul>
+<p> </p>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST043</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206511705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>WEN-SW-LS-2411-GE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206478937</id>
+    <published>2019-04-08T12:59:12-04:00</published>
+    <updated>2019-04-08T12:59:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/control-moudule-for-2411-led-linear-light-ir-senser-module-dc12v-4a-max-0-8cm-reaction-distance"/>
+    <title>Control module for 2411 Led Linear Light IR Sensor  module /DC12V /4A /max, 0-8cm(Reaction distance)</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/IR-_SW-LS-2411-IR_1024x1024_2x_88047c86-861e-4729-857a-9c3d94119cbd.jpg?v=1598457335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            13.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IR Senser module /DC12V /4A /max, 0-8cm(Reaction distance)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST044</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206478937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.75</s:price>
+      <s:sku>WEN-SW-LS-2411-IR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206446169</id>
+    <published>2019-04-08T12:58:24-04:00</published>
+    <updated>2019-04-08T12:58:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/control-moudule-for-2411-led-linear-light-touch-dimmable-module-dc12v-4a"/>
+    <title>Control module for 2411 Led Linear Light Touch dimmable module / DC12V /4A</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/TR-_SW-LS-2411-TR_540x_387c483c-b5f8-4344-8615-c832dbc83943.jpg?v=1598457511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            9.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Touch dimmable module / DC12V /4A</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST045</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206446169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku>WEN-SW-LS-2411-TR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206413401</id>
+    <published>2019-04-08T12:51:06-04:00</published>
+    <updated>2019-04-08T12:51:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/single-color-wireless-dimming-remote-control-set-ledmyplace"/>
+    <title>Single Color Wireless Dimming Remote Control Set</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/V1_R6-1.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Single Color Wireless dimmer controller Remote control set operates within a 12-24V DC while receiving RF signals from a compatible wireless LED dimmer wall switch.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST046</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206413401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>WEN-SW-R6-1+SW-V1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206282329</id>
+    <published>2019-04-08T12:46:23-04:00</published>
+    <updated>2019-04-08T12:46:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/color-temperature-wireless-dimming-remote-control-set-ledmyplace"/>
+    <title>Color Temperature Wireless Dimming Remote Control Set</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/V2_R7-1.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            43.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>This Single Color Wireless dimmer controller Remote control 2 channel operates within a 12-24V DC while receiving RF signals from a compatible wireless LED dimmer wall switch.</p>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST047</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206282329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.88</s:price>
+      <s:sku>WEN-SW-R7-1+SW-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206151257</id>
+    <published>2019-04-08T12:42:11-04:00</published>
+    <updated>2019-04-08T12:42:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/rgbw-led-controller-wireless-remote-w-dynamic-color-changing-modes-ledmyplace"/>
+    <title>RGBW LED Controller - Wireless Remote w/ Dynamic Color-Changing Modes</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/R8-1_2ad5d3f7-d6b2-4fd5-8dc7-5d6ee8c33ac5.jpg?v=1571708966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            48.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>This RGBW LED controller with the wireless remote is perfect for controlling your RGBW LED light strips. The LED remote having 3 scenes Dimming feature.</p>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST048</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206151257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.56</s:price>
+      <s:sku>WEN-SW-R8-1+ SW-VP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206020185</id>
+    <published>2019-04-08T12:31:24-04:00</published>
+    <updated>2019-04-08T12:31:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/rgb-led-controller-remote-with-dynamic-color-changing-modes-ledmyplace"/>
+    <title>RGB LED Controller Remote with Dynamic Color-Changing Modes</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2020_09_29T16_32_31_068Z.png?v=1601398346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            47.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>RGB LED controller with wireless touch-color RF remote to control your RGB LED light strips. Choose from color-changing modes with adjustable speed and brightness levels or from static color and white modes with adjustable brightness levels,</p>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST049</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206020185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.27</s:price>
+      <s:sku>WEN-SW-R8-1+SW-V3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013205856345</id>
+    <published>2019-04-08T12:26:05-04:00</published>
+    <updated>2019-04-08T12:26:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/mini-rgb-controller-12-24-volt-dc-touch-led-dimmer-ledmyplace"/>
+    <title>Mini RGB Controller 12-24 Volt DC Touch LED Dimmer</title>
+    <s:type>LED Strip Light Dimmers &amp; Controllers</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_91204b83-08a8-48c2-819d-f64fc2739384.jpg?v=1571708966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Strip Light Dimmers &amp; Controllers<br>
+        <strong>Price: </strong>
+            4.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>Mini RGB LED controller can turn on and off any 12~24VDC LED products with 3 x 2A feature.</p>
+<br>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST051</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013205856345</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.68</s:price>
+      <s:sku>WEN-SW-RC-mini</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

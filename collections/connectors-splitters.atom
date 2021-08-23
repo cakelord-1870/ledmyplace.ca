@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/connectors-splitters.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-30T13:22:58-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4752692904025</id>
+    <published>2021-04-30T13:22:58-04:00</published>
+    <updated>2021-04-30T13:22:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/22awg-5-pin-10mm-width-pcb-rgbw-strip-to-wire"/>
+    <title>22AWG, 5 Pin, 10mm Width PCB, RGBW Strip-to-Wire</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_0001_5pinStriptowireconnector-2.jpg?v=1605904674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">We are introducing the new “LED-STRIP-TO-WIRE RGBW strip light connector.” It is a non-waterproof connector coming with 5 pins. The length of this connector is 10mm, and the width is 12 mm. Now there is no need to be stressed and spend time on soldering for connecting the cut RGBW LED Strip Light. By using this RGBW strip light connector, hook your prepared led strip section in the connector. Using this process, you can join the cut RGBW LED strip light altogether in the most hassle-free way.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RGBW</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST098</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4752692904025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>003-10mm-5pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013208576089</id>
+    <published>2019-04-09T11:06:53-04:00</published>
+    <updated>2019-04-09T11:06:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/20awg-power-cable-extensions-ledmyplace"/>
+    <title>20AWG Power Cable Extensions</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_f3a9fc4b-9899-443f-adeb-be96fda67d97.jpg?v=1571708968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            2.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">20AWG Extension power cable for long distance connection power supplies. Available in white and black and is for low voltage DC cables.<br>
+<ol></ol>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p> </p>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST021</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013208576089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.28</s:price>
+      <s:sku>WEN-006-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013208510553</id>
+    <published>2019-04-09T10:57:00-04:00</published>
+    <updated>2019-04-09T10:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/compact-power-supply-1-to-3-splitter-cable-ledmyplace"/>
+    <title>Compact Power Supply 1 to 3 Splitter Cable</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_ca0b64fa-88e7-4a6f-bc63-9f10d66134a1.jpg?v=1571708968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            5.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>1: 3 Splitter DC connection wire. "1" wire is 20AWG,female 5.5DC and "3"wire is 22AWG,male 5.5DC available in white &amp; black . Easily power multiple products with one Compact Power Supply. <br>
+</div>
+<p> </p>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST022</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013208510553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.03</s:price>
+      <s:sku>WEN-008-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013208346713</id>
+    <published>2019-04-09T10:52:48-04:00</published>
+    <updated>2019-04-09T10:52:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/strip-to-wire-soldering-free-connector-10mm-2-pin-ledmyplace"/>
+    <title>Strip-to-Wire Soldering Free Connector - 10mm - 2 Pin</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_8d31888b-0505-4468-80cd-2ed2632bda97.jpg?v=1571708968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            1.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>These LED strip connectors let people avoid having to use a soldering iron, 10mm, 2 pin</p>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST023</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013208346713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.11</s:price>
+      <s:sku>WEN-029-10mm-2pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013208281177</id>
+    <published>2019-04-08T16:22:01-04:00</published>
+    <updated>2019-04-08T16:22:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/strip-to-wire-soldering-free-connector-10mm-4-pin-ledmyplace"/>
+    <title>Strip-to-Wire Soldering Free Connector - 10mm - 4 Pin</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_2cc8f2f7-a5be-4e35-aa30-9bfee0849cb1.jpg?v=1571708968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            1.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>
+<div id="overview">
+<div class="bullet_list_section">
+<div class="page-width" itemprop="description">
+<p>These LED strip connectors lets people avoid having to use a solder iron, 10mm, 4 pin</p>
+</div>
+</div>
+<div class="page-width"><br></div>
+</div>
+<div class="pro_desc">
+<div class="page-width"><br></div>
+</div>
+<div id="specificationSection">
+<div class="page-width"></div>
+</div>
+</div>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST024</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013208281177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.35</s:price>
+      <s:sku>WEN-029-10mm-4pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013208182873</id>
+    <published>2019-04-08T16:01:12-04:00</published>
+    <updated>2019-04-08T16:01:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/strip-to-wire-soldering-free-connector-8mm-2-pin-ledmyplace"/>
+    <title>Strip-to-Wire Soldering Free Connector - 8mm - 2 Pin</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_2146af6e-3657-46f6-97f3-04e75a7b099f.jpg?v=1571708968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+<ul></ul>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span>These LED strip connectors lets people avoid having to use a solder iron, 8mm, 2 pin</span><br></p>
+<p> </p>
+<ul>
+<li>The 2-pin strip-to-wire connector is meant for use in single color strip lights. </li>
+<li>This connector is non-waterproof, for making it waterproof, additional treatment may be required.  </li>
+<li>UL, CE and RoHS certificate for complete product safety of use. <br>
+</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p> </p>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST025</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013208182873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>WEN-029-8mm-2pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013208150105</id>
+    <published>2019-04-08T15:56:18-04:00</published>
+    <updated>2019-04-08T15:56:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/soldering-free-strip-to-strip-middle-connector-ledmyplace"/>
+    <title>Soldering Free, Strip-to-Strip Middle Connector</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_2fd49cea-acfa-46c5-9480-99ded1f95483.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            1.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li>These soldering free direct connect. 10mm white 2 pin wide directly connects two flexible light strips and strip segments.This non-waterproof connector requires additional steps to waterproof.</li>
+</ul>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST026</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013208150105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.35</s:price>
+      <s:sku>WEN-030-10mm-2pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013208051801</id>
+    <published>2019-04-08T15:52:49-04:00</published>
+    <updated>2019-04-08T15:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/10mm-4-pin-soldering-free-strip-to-strip-middle-connector-ledmyplace"/>
+    <title>10mm - 4 Pin - Soldering Free, Strip-to-Strip Middle Connector</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_63d35f23-a9d1-46ca-94e7-bcbdd9fb4c8b.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            1.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li>These soldering free direct connect. 10mm white 4 pin wide directly connects two flexible light strips and strip segments.This non-waterproof connector requires additional steps to waterproof.</li>
+</ul>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p> </p>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST204</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013208051801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.58</s:price>
+      <s:sku>WEN-030-10mm-4pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207953497</id>
+    <published>2019-04-08T15:50:58-04:00</published>
+    <updated>2019-04-08T15:50:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/flexible-light-strip-direct-connect-clamp-strip-to-strip-ledmyplace"/>
+    <title>Flexible Light Strip Direct Connect Clamp (strip-to-strip)</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_13a2dd84-dd99-41fd-8af1-378d515ce4f5.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            1.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--Features section start--> <br><span style="font-weight: 400;"></span><span style="font-weight: 400;"><span>These soldering free direct connect. 8mm, 2 pins wide directly connect two flexible light strips and strip segments. This non-waterproof connector requires additional steps to waterproof.</span></span></p>
+<p> </p>
+<div id="overview">
+<div class="bullet_list_section">
+<div class="page-width">
+<ul>
+<li>This 2-pin strip-to-strip connector can be used to connect two short strips to make it longer running and for as long as 16.4 ft for standard density and 32.8 ft for high density.</li>
+<li>Requires only one positive and one negative connection.   </li>
+<li>A quick-connect solution by not requiring you to use any soldering iron. </li>
+<li>Rated for 36VDC.  </li>
+</ul>
+</div>
+</div>
+<div class="page-width"><br></div>
+</div>
+<p> </p>
+<p><span>Certifications that set guidelines for SSL usage in Canada.</span><br> <!--Features section end--></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST028</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207953497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.23</s:price>
+      <s:sku>WEN-030-8mm-2pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207756889</id>
+    <published>2019-04-08T15:44:33-04:00</published>
+    <updated>2019-04-08T15:44:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/strip-to-wire-2pin-connector-ip20-ledmyplace"/>
+    <title>Strip to Wire 2pin Connector IP20 - LEDMyplace</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_db3b8ca2-d750-4f92-9f93-970f330e1634.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            2.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li>Strip to Wire 2pin Connector with IP20 feature. This strip to wire connector is suitable for 10mm. Available in Clear and Black.</li>
+</ul>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST029</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207756889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.05</s:price>
+      <s:sku>WEN-055-10mm-2pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207691353</id>
+    <published>2019-04-08T15:38:27-04:00</published>
+    <updated>2019-04-08T15:38:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/strip-to-strip-2pin-connector-ip20-ledmyplace"/>
+    <title>Strip to Strip 2pin Connector IP20</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_85442da4-3d5a-4b2d-9ac3-ae819317727c.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            2.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+<ul></ul>
+<p> Strip to strip 2pin Connector with IP20 feature. This strip to wire connector is suitable for 10mm. Avilable in Clear and Black.</p>
+<p> </p>
+<ul>
+<li>This strip to strip 2pin connecter is rated IP20 which means the product is dust-tight but non-waterproof. </li>
+<li>The product is 100% plastic.  </li>
+<li>Applicable to LED5050 and LED2835.</li>
+<li>The product is UL, CE &amp; RoHS certified.<br>
+</li>
+</ul>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST030</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207691353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.05</s:price>
+      <s:sku>WEN-056-10mm-2pin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207560281</id>
+    <published>2019-04-08T15:32:46-04:00</published>
+    <updated>2019-04-08T15:32:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/dc-wire-plug-male-female-barrel-connector-to-screw-terminal-adapter-ledmyplace"/>
+    <title>DC Wire Plug-Male/Female Barrel Connector to Screw Terminal Adapter</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/f1.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            1.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Standard 5.5mm DC wire plug - male/female barrel connector to screw terminal adapter. This adapter Converts bare wires to a male/female DC plug.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST031</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207560281</id>
+      <title>Female</title>
+      <s:price currency="CAD">1.93</s:price>
+      <s:sku>WEN-DC-wire-plug-female</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207560281</id>
+      <title>Male</title>
+      <s:price currency="CAD">1.93</s:price>
+      <s:sku>WEN-DC-wire-plug-male</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207494745</id>
+    <published>2019-04-08T15:30:50-04:00</published>
+    <updated>2019-04-08T15:30:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/12ft-wire-with-dc5-5-female-connector-at-one-end-dc5-5-male-connector-at-another-end-ledmyplace"/>
+    <title>12ft wire with DC5.5 female connector at one end,DC5.5 male connector at another end</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2_38509bf4-9de2-44e3-a8ed-9a8b2550cedb.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            8.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 12ft wire with DC5.5 female connector at one end and DC5.5 male connector at another end provides for easy installation of LED strip lights by enabling direct connection between an LED strip and a Driver.  This female to male extension cable connector saves your time by allowing for quick plug and play connection for LED strips. This connector is rated for 36V.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST205</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207494745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.78</s:price>
+      <s:sku>WEN-Extended-wire-12FT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207396441</id>
+    <published>2019-04-08T15:22:57-04:00</published>
+    <updated>2019-04-08T15:22:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/6ft-wire-with-dc5-5-female-connector-at-one-end-dc5-5-male-connector-at-another-end-ledmyplace"/>
+    <title>6ft wire with DC5.5 female connector at one end,DC5.5 male connector at another end</title>
+    <s:type>Connectors &amp; Splitters</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_b3d31fc8-789d-4d36-b322-8edde027c6f1.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Connectors &amp; Splitters<br>
+        <strong>Price: </strong>
+            4.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 6ft wire with DC5.5 female connector at one end and DC5.5 male connector at another end provides for easy installation of LED strip lights by enabling direct connection between LED strip Light and a driver. This female to male extension cable connector saves your time by allowing for quick plug and play connection for LED strips. This connector is rated for 36V.</p>
+<p> </p>
+<ul>
+<li>Safe and secure connection enabled between two LED strips.</li>
+<li>Intended for use with LED strip lights that have LED5050 in them and for shorter strip lighting projects. </li>
+<li>Hookup and removal becomes easier with such female-male connector. </li>
+<li>The product being UL, CE and RoHS certified/approved is 100% safe for use.<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST033</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207396441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.68</s:price>
+      <s:sku>WEN-Extended-wire-6FT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

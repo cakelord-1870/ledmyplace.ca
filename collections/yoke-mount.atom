@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/yoke-mount.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:15:36-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1563748270169</id>
+    <published>2019-11-12T05:15:36-05:00</published>
+    <updated>2019-11-12T05:15:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/150w-led-pole-light-5700k-ym-bronze-ac100-277v"/>
+    <title>150W LED Pole Light; 5700K ; YM Bronze; AC100-277V</title>
+    <s:type>LED Pole Light</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/yokemounpolelight_f67c5df6-3c28-4eb7-9621-d5899179b686.jpg?v=1620419433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Pole Light<br>
+        <strong>Price: </strong>
+            214.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This outdoor led pole light fixture provides you with a high lumen output of 21000 lumens producing bright white light to illuminate your surroundings. With a universal mount, you can install these lights easily at any place you desire. This fixture comes in a Color temperature of 5700K producing a cool white illumination. With an IP65 rating approval, this LED Pole light fixture is built for outdoor illumination. Perfect for street lighting, area lighting, and parking lot lighting. This LED shoebox light of 150W is energy efficient and can replace HID that consumes 525 Watts saving you a marginal amount on those utility bills. With a warranty of 5 years and a 30-day return policy, these LED Pole Lights become a practical investment.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>21000 Lumens</s:tag>
+    <s:tag>525W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>IP65</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Parking Lot Lights</s:tag>
+    <s:tag>LED Street Lights</s:tag>
+    <s:tag>PL025</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 400 Watt</s:tag>
+    <s:tag>Replace 525 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Without Photocell</s:tag>
+    <s:tag>Yoke Mount</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1563748270169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">214.48</s:price>
+      <s:sku>WEN-S-G07-150WCT3A1-BRYM57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1563748302937</id>
+    <published>2019-11-12T05:15:33-05:00</published>
+    <updated>2019-11-12T05:15:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/150w-led-pole-light-with-photocell-5700k-ym-bronze-ac100-277v"/>
+    <title>150W LED Pole Light with Photocell; 5700K ; YM Bronze; AC100-277V</title>
+    <s:type>LED Pole Light</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/yokepole.jpg?v=1620417854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Pole Light<br>
+        <strong>Price: </strong>
+            233.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dedicatedly designed to increase safety and security, these LED Pole Lights are the perfect illumination for your outdoor spaces. The most suitable places to install these LED Area Lights are building entrances, parking lots, parkways, streets, gardens, hotel walkways, and other outdoor spaces. Pole lights of 150 Watt replace metal halide bulbs of 525 Watt and deliver superior lumen output of 21000 lumens and a CCT of 5700K. These high-voltage pole lights are a durable and long-lasting lighting fixture. Tested to last around 50,000 hours. These LED Pole Lights have a robust build and IP65 certification, proving the fixture to be splash and dirt proof. This pole light fixture is photocell compatible (dusk to dawn sensors) and can help you regulate energy usage by automating the ON/ OFF process.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>21000 Lumens</s:tag>
+    <s:tag>525W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>IP65</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Parking Lot Lights</s:tag>
+    <s:tag>LED Street Lights</s:tag>
+    <s:tag>PL024</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 525 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>With Photocell</s:tag>
+    <s:tag>Yoke Mount</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1563748302937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">233.98</s:price>
+      <s:sku>WEN-S-G07-150WCT3A1-BRPYM57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

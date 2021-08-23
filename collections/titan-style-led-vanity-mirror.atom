@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/titan-style-led-vanity-mirror.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-21T17:46:06-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4639027069017</id>
+    <published>2021-04-21T17:46:06-04:00</published>
+    <updated>2021-04-21T17:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-backlit-mirror-with-thin-plexiglass-edge-55-1-x-25-6-inch-touch-sensor-switch"/>
+    <title>LED Backlit Mirror with Thin Plexiglass Edge, 55.1 X 25.6 Inch, Touch Sensor Switch, Defogger, CCT Remembrance, Titan Style</title>
+    <s:type>LED Vanity Mirrors</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/JAS1024ambiencepicture2_1024x1024_2x_f02f20e7-06a5-4232-bf48-d03093035282.jpg?v=1626122681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Vanity Mirrors<br>
+        <strong>Price: </strong>
+            1903.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Add an aesthetic by installing Front </span><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">W51.1'' X H25.6 ' </span><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">LED vanity mirror of Titan Style to your dark, dingy bathroom and transform it into an inviting space. The clean and futuristic appearance of LED Bathroom Mirrors makes them ideal for contemporary interiors. This mirror is featured with an </span><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">inbuilt Defogger, touch switch control,</span><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> CCT remembrance,</span><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> and waterproof features. This is the ETL-listed </span><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">LED vanity mirror that provides you with a clear, crisp, and flawless reflection and comes with  5 years manufacturer warranty.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Defogger is the special feature of the LED Vanity Mirror that helps to remove the fog that gets collected on the mirror. It saves time for manually cleaning the mirror. The Defogger is not controlled through the switch on the mirror. The switch only controls the LED Light on the mirror to turn on and off or to change CCT. If you wish to switch the defogger off, you will have to turn the switch off or take the plug off of the outlet. The temperature of the defogger will always be 59-68 degrees more than the room temperature. To elaborate, let’s say if your room temperature is 59 degrees Fahrenheit then the temperature of the defogger would be 86-95 degrees Fahrenheit.<br><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-120VAC</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>3420 Lumens</s:tag>
+    <s:tag>55.1 X 25.6 Inch</s:tag>
+    <s:tag>55.1&quot;x25.6&quot;</s:tag>
+    <s:tag>55.1x25.6 Inch</s:tag>
+    <s:tag>55.1x25.6 Inch Mirror Menu</s:tag>
+    <s:tag>62 Watt</s:tag>
+    <s:tag>90 CRI</s:tag>
+    <s:tag>Back Lit</s:tag>
+    <s:tag>Backlight Mirror</s:tag>
+    <s:tag>Defogger</s:tag>
+    <s:tag>LED Backlight Mirror</s:tag>
+    <s:tag>MR024</s:tag>
+    <s:tag>Plexiglass</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TITAN</s:tag>
+    <s:tag>Touch Sensor</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4639027069017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1903.20</s:price>
+      <s:sku>IVA-JAS1024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

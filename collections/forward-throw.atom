@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/forward-throw.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:16:50-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1488119857241</id>
+    <published>2019-11-12T05:16:50-05:00</published>
+    <updated>2019-11-12T05:16:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/80w-led-wall-pack-light-with-photocell-sensor-10-173-lumens-5700k-bronze-finish-forward-throw"/>
+    <title>80W LED Wall Pack Light With Photocell Sensor; 10200 Lumens 5700K Bronze Finish; Forward Throw</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_3c606be7-8e10-4775-9e6d-6db0df4bfdfb.jpg?v=1586551715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            185.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Wall Pack Lights are ideal lighting for commercial and security lighting applications that look for an extended period as its quality lighting. These 80W LED Wall Pack comes with a dusk-to-dawn photosensor with a CCT of 5700K. These light fixtures are designed to endure and function in a voltage ranging between 100-277V. With a lumen output of 10200 Lumens, these Wall Pack Light Fixtures can easily replace 280W fluorescents. It's a UL and DLC certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10200 Lumens</s:tag>
+    <s:tag>280W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>80 Watt</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Bronze finish</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>Forward Throw</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP65</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 280 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>With Photocell</s:tag>
+    <s:tag>WP006</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1488119857241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">185.23</s:price>
+      <s:sku>WEN-SWP01-80AA1-P57</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/469024931871</id>
+    <published>2018-07-03T09:20:55-04:00</published>
+    <updated>2018-07-03T09:20:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/wall-pack-120w-5700k-forward-throw-16300-lumens-w-photocell"/>
+    <title>Wall pack 120w 5700K Forward Throw ; 16300 Lumens With Photocell</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_7942fdf5-21ce-4e80-800d-3c258ee01ea5.jpg?v=1586551623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            214.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Wall Pack Lights are ideal lighting for commercial and security lighting applications that look for an extended period as its quality lighting. This 120W LED Wall Pack comes with a dusk-to-dawn photosensor with a CCT of 5700K. These light fixtures are designed to endure and function in a voltage ranging between 100-277V With a lumen output of 16300 Lumens, these Wall Pack Light Fixtures can easily replace 420W fluorescents. It's a UL and DLC certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Watt</s:tag>
+    <s:tag>16300 Lumens</s:tag>
+    <s:tag>420W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Forward Throw</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Mercury Free</s:tag>
+    <s:tag>Photocell</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 420 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>With Photocell</s:tag>
+    <s:tag>WP018</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/469024931871</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">214.50</s:price>
+      <s:sku>WEN-WP4-120WAB1-57K-PHOTO</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297246949407</id>
+    <published>2017-11-07T14:53:06-05:00</published>
+    <updated>2017-11-07T14:53:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-wall-pack-20w-5700k-w-photocell-forward-throw-2850-lumens-ip65-rebate-eligible"/>
+    <title>20W Mini LED Wall Pack with Integrated Photocell, 5700K, 2850 LM, Black, 100-277 Volt</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Wen-wp-20wa1-WPC.537.jpg?v=1621519149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            42.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Amplify the charm of your outdoor with LEDMyplace's Premium Quality LED Wall Pack Lights. This LED wall pack light fixture can be used as security lighting around your property. These wall pack lights are off 20 Watt that gets operated on an AC input of 100-277 Volts. It delivers 2850 lumens with CCT of 5700K that can easily replace the halogen lamp of 70 Watt flawlessly and are perfect for illuminating outdoor spaces. ETL and DLC Certified clear T8 4ft LED Tube Light without ballast are eligible for the rebate. This long-lasting fixture meets the industry-standard IP65 rating and comes with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>20 Watt</s:tag>
+    <s:tag>2850 Lumens</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>70W Eq.</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Forward Throw</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP65</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 70 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>With Photocell</s:tag>
+    <s:tag>WP020</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297246949407</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.19</s:price>
+      <s:sku>Wen-wp-20wa1-WPC</s:sku>
+      <s:grams>7498</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705089995</id>
+    <published>2017-08-03T14:12:43-04:00</published>
+    <updated>2017-08-03T14:12:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/wall-pack-80w-5700k"/>
+    <title>LED Wall Pack 80W 5700K Forward Throw 10,400 Lumens</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_94198b2e-9cdf-433e-a25e-4d2270fd0efb.jpg?v=1586551527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            165.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Amplify the charm of your outdoor with LEDMyplace's Premium Quality LED Wall Pack Lights. This LED wall pack light fixture can be used as security lighting around your property. These wall pack lights are off 80 Watt that gets operated on an AC input of 100V - 277V . It delivers 10,400  lumens with CCT of 5700K that can easily replace the halogen lamp of 280W flawlessly and are perfect for illuminating outdoor spaces. UL and DLC Certified are eligible for the rebate. This long-lasting fixture meets the industry-standard IP 65 rating and comes with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10400 Lumens</s:tag>
+    <s:tag>280W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>80 Watt</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Day white</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>Forward Throw</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP64</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 280 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:tag>Without Photocell</s:tag>
+    <s:tag>WP026</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705089995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">165.73</s:price>
+      <s:sku>Wen-wp-80wa1</s:sku>
+      <s:grams>7498</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705078731</id>
+    <published>2017-08-03T14:09:08-04:00</published>
+    <updated>2017-08-03T14:09:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/wall-pack-120w-5700k-forward-throw-16200-lumens"/>
+    <title>LED Wall Pack 120W 5700K Forward Throw 16200 Lumens</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/WEN-WP-120WB1.547_1.jpg?v=1622132469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            189.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Wall Pack Lights are ideal lighting for commercial and security lighting applications that look for an extended period as its quality lighting. These 120W LED Wall Pack comes with a dusk-to-dawn photosensor with a CCT of 5700K. These light fixtures are designed to endure and function in a voltage ranging between 100-277V  With a lumen output of 16200 Lumens, these Wall Pack Light Fixtures can easily replace 420W fluorescents. It's a UL and DLC certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Watt</s:tag>
+    <s:tag>16200 Lumens</s:tag>
+    <s:tag>20 per LED</s:tag>
+    <s:tag>420W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Forward Throw</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP64</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Mercury Free</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 340 Watt</s:tag>
+    <s:tag>Replaces 420 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Without Photocell</s:tag>
+    <s:tag>WP025</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705078731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.13</s:price>
+      <s:sku>WEN-WP-120WB1</s:sku>
+      <s:grams>7498</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/semi-flushmounts.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-10-08T18:07:47-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732069150809</id>
+    <published>2020-10-08T18:07:47-04:00</published>
+    <updated>2020-10-08T18:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/circular-led-ceiling-light-31w-3000k-1285lm-dimmable-aluminum-body-finish"/>
+    <title>Circular LED Ceiling Light, 31W, 3000K, 1285LM, Dimmable, Aluminum Body Finish, Close to Ceiling Fixtures, Ceiling Light Fixtures</title>
+    <s:type>Semi Flush Mount Lights</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/HS050.jpg?v=1624899819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi Flush Mount Lights<br>
+        <strong>Price: </strong>
+            637.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Semi-flush mount lights are ideal lighting for bedroom hallways that are known for their quality lighting. These 31W semi-flush mount lights come with an aluminum body finish with a color temperature of 3000K. These light fixtures are designed to withstand and function in a voltage range of 120V. With a lumen output of 1285Lumens. It's an ETL-certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These semi-mount lighting fixtures are complete lighting fixtures in themselves that are practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>13500 Lumens</s:tag>
+    <s:tag>27 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>30000 hours Lifespan</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>3000K (Warm White)</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Ceiling</s:tag>
+    <s:tag>CRI 80</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>HS</s:tag>
+    <s:tag>HS050</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732069150809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">637.56</s:price>
+      <s:sku>IVA-C3222-50-AL-30K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732061483097</id>
+    <published>2020-10-08T17:37:23-04:00</published>
+    <updated>2020-10-08T17:37:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/modern-semi-flush-mount-ceiling-light-28w-1950lm-round"/>
+    <title>Modern Semi-Flush Mount Ceiling Light, 28W, 1950LM , Round - Flush Mount Light, Dimmable</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/0004_IVA-CL055-50BN_04.jpg?v=1624900541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            197.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Semi-flush mount lights are ideal lighting for bedroom hallways that are known for their quality lighting. These 28W semi-flush mount lights come with an aluminum body finish with a color temperature of 3000K. These light fixtures are designed to withstand and function in a voltage range of 120V. With a lumen output of 1950Lumens. It's an ETL-certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These semi-mount lighting fixtures are complete lighting fixtures in themselves that are practical, durable, and eco-friendly.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>1950 Lumens</s:tag>
+    <s:tag>28 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>CRI 80</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL - Damp Location</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>LED Semi Flush Mount</s:tag>
+    <s:tag>Opal White Acrylic Shade</s:tag>
+    <s:tag>Round</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS001</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Triac Dimmable</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732061483097</id>
+      <title>3000K (Soft White)</title>
+      <s:price currency="CAD">197.98</s:price>
+      <s:sku>IVA-CL055-30BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732061483097</id>
+      <title>4000K (Cool White)</title>
+      <s:price currency="CAD">197.98</s:price>
+      <s:sku>IVA-CL055-40BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732061483097</id>
+      <title>5000K (Daylight White)</title>
+      <s:price currency="CAD">197.98</s:price>
+      <s:sku>IVA-CL055-50BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732061220953</id>
+    <published>2020-10-08T17:37:07-04:00</published>
+    <updated>2020-10-08T17:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/circle-led-semi-flush-mount-ceiling-lights-28w-1950lm-dimmable"/>
+    <title>Circle - LED Semi Flush Mount Ceiling Lights, 28w, 1950LM, Dimmable, White Acrylic Shade with Matte Black Finish</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/0006_IVA-CL055-50BK_02.jpg?v=1624897915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            197.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Semi-flush mount lights are ideal lighting for bedroom hallways that are known for their quality lighting. These 28W semi-flush mount lights come with an aluminum body finish with a color temperature of 3000K. These light fixtures are designed to withstand and function in a voltage range of 120V. With a lumen output of 1950Lumens. It's an ETL-certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These semi-mount lighting fixtures are complete lighting fixtures in themselves that are practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>1950 Lumens</s:tag>
+    <s:tag>28 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>3000K (Warm White)</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>50000 Life Hours</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>CRI 80</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL - Damp Location</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>LED Semi Flush Mount</s:tag>
+    <s:tag>Matte Black</s:tag>
+    <s:tag>Opal Acrylic Shade</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS002</s:tag>
+    <s:tag>Semi Flush Mount</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Triac Dimmable</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732061220953</id>
+      <title>3000K (Soft White)</title>
+      <s:price currency="CAD">197.98</s:price>
+      <s:sku>IVA-CL055-30BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732061220953</id>
+      <title>4000K (Cool White)</title>
+      <s:price currency="CAD">197.98</s:price>
+      <s:sku>IVA-CL055-40BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732061220953</id>
+      <title>5000K (Day White)</title>
+      <s:price currency="CAD">197.98</s:price>
+      <s:sku>IVA-CL055-50BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732059517017</id>
+    <published>2020-10-08T17:34:13-04:00</published>
+    <updated>2020-10-08T17:34:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/modern-ceiling-light-fixture-ring-semi-flush-mount-led-25w-3000k-1450-lumens-dimmable"/>
+    <title>Modern Ceiling Light Fixture, Ring Semi Flush Mount LED, 25w, 3000k, 1450 Lumens, Dimmable (Warm White), ETL Listed, Brushed Nickel Finish</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/RS027.jpg?v=1621976710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            242.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Semi-flush mount lights are ideal lighting for bedroom hallways that are known for their quality lighting. These 25W semi-flush mount lights come with an aluminum body finish with a color temperature of 3000K. These light fixtures are designed to withstand and function in a voltage range of 120V. With a lumen output of 1450Lumens. It's an ETL-certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These semi-mount lighting fixtures are complete lighting fixtures in themselves that are practical, durable, and eco-friendly.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>1450 Lumens</s:tag>
+    <s:tag>25 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>3000K (Warm White)</s:tag>
+    <s:tag>50000 Life Hours</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>CRI 80</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL - Damp Location</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>LED Semi Flush Mount</s:tag>
+    <s:tag>LED Semi Flush Mount Lights</s:tag>
+    <s:tag>PENDANT</s:tag>
+    <s:tag>ROUND</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS027</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi-Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>STEEL+ACRYLIC</s:tag>
+    <s:tag>Triac Dimmable</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>White Acrylic Shade</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732059517017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">242.65</s:price>
+      <s:sku>IVA-SF1001ADC-30BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732058533977</id>
+    <published>2020-10-08T17:33:08-04:00</published>
+    <updated>2020-10-08T17:33:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/semi-flushmount-drum-ceiling-light-e26-base-steel-cage-matte-black-finish"/>
+    <title>Semi Flushmount Drum Ceiling Light, E26 Base, Steel Cage Matte Black Finish, 3 Years Warranty, UL Listed</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/RS041.jpg?v=1624898169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            198.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>CEILING  MOUNTING</s:tag>
+    <s:tag>DAMP LOCATION</s:tag>
+    <s:tag>Drum Shape Flush Mount</s:tag>
+    <s:tag>Drum Shape Semi Flush Mount</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Matte Black</s:tag>
+    <s:tag>Matte Black Finish</s:tag>
+    <s:tag>ROUND</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS041</s:tag>
+    <s:tag>Semi Flush Mount Ceiling Light</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732058533977</id>
+      <title>Matte Black</title>
+      <s:price currency="CAD">198.06</s:price>
+      <s:sku>IVA-VNT02-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732058533977</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="CAD">198.06</s:price>
+      <s:sku>IVA-VNT02-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732055093337</id>
+    <published>2020-10-08T17:25:11-04:00</published>
+    <updated>2020-10-08T17:25:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/semi-flush-mount-ceiling-lights-industrial-style-antique-brass-finish-with-matte-black-color-e26-base"/>
+    <title>Semi Flush Mount Ceiling Lights Industrial Style, Antique Brass Finish with Matte Black color, E26 Base, UL Listed, 3 Years Warranty</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_770ad849-5723-4c5a-afa1-b5f1aed0cd8b.jpg?v=1602192319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            57.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Antique Brass</s:tag>
+    <s:tag>ANTIQUE BRASS+MATTE BLACK</s:tag>
+    <s:tag>CEILING MOUNTING</s:tag>
+    <s:tag>DRY LOCATION</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Industrial Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Matte Black</s:tag>
+    <s:tag>Matte Black Finish</s:tag>
+    <s:tag>Modern Semi Flush Mount</s:tag>
+    <s:tag>Modern Semi Flush Mount Light</s:tag>
+    <s:tag>Modern Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS043</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>TRUMPET-SHAPED</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732055093337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.54</s:price>
+      <s:sku>IVA-2460111-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732054962265</id>
+    <published>2020-10-08T17:24:53-04:00</published>
+    <updated>2020-10-08T17:24:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/industrial-semi-flush-mount-close-to-ceiling-lights-brushed-nickel-e26-base"/>
+    <title>Industrial, Semi Flush Mount, Close to Ceiling Lights, Brushed Nickel, E26 Base, UL Listed, 3 Years Warranty</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/RS045.jpg?v=1624898317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            79.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Antique Bronze</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>CEILING</s:tag>
+    <s:tag>DAMP LOCATION</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Modern Semi Flush Mount</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS045</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi-Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>TRUMPET-SHAPED</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732054962265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.18</s:price>
+      <s:sku>IVA-60301-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732054143065</id>
+    <published>2020-10-08T17:23:07-04:00</published>
+    <updated>2020-10-08T17:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/semi-flush-mount-drum-light-fixture-e26-base-ul-listed-matte-black-finish"/>
+    <title>Semi-Flush Mount Drum Light Fixture, E26 Base, UL Listed, Matte Black Finish with Clear Glass Shade, 3 Years Warranty</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/RS054_6.jpg?v=1624898018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            199.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>CEILING</s:tag>
+    <s:tag>Clear Glass</s:tag>
+    <s:tag>Clear Glass Shade</s:tag>
+    <s:tag>DAMP LOCATION</s:tag>
+    <s:tag>Drum Shape Semi Flush Mount</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>MATTE BALCK</s:tag>
+    <s:tag>Matte Black</s:tag>
+    <s:tag>Matte Black Finish</s:tag>
+    <s:tag>Modern Semi Flush Mount</s:tag>
+    <s:tag>Modern Semi Flush Mount Light</s:tag>
+    <s:tag>Modern Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>ROUND</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS054</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>STEEL+GLASS</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732054143065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.17</s:price>
+      <s:sku>IVA-CL6000-2LT-SM-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732053127257</id>
+    <published>2020-10-08T17:20:47-04:00</published>
+    <updated>2020-10-08T17:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/2-lights-round-semi-flush-mount-lights-stylish-ceiling-light"/>
+    <title>2-Lights, Round, Semi Flush Mount Lights - Stylish Ceiling Light, UL Listed for Damp Location, E26 Base, 3 Years Warranty</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/RS063_ORB_1.jpg?v=1624900446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            159.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Clear Glass</s:tag>
+    <s:tag>Clear Glass Shade</s:tag>
+    <s:tag>DAMP LOCATION</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Flared Clear Glass Shade</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Modern Semi Flush Mount</s:tag>
+    <s:tag>Modern Semi Flush Mount Light</s:tag>
+    <s:tag>Modern Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Oil Rubbed Bronze</s:tag>
+    <s:tag>Oil Rubbed Bronze Finish</s:tag>
+    <s:tag>Round</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS063</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>STEEL+GLASS</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732053127257</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="CAD">159.07</s:price>
+      <s:sku>IVA-75711-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732053127257</id>
+      <title>Oil Rubbed Bronze</title>
+      <s:price currency="CAD">159.07</s:price>
+      <s:sku>IVA-75711-ORB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732052570201</id>
+    <published>2020-10-08T17:19:54-04:00</published>
+    <updated>2020-10-08T17:19:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1-light-clear-semi-flush-mount-close-to-ceiling-lights-for-damp-location"/>
+    <title>1-Light, Clear, Semi Flush Mount, Close To Ceiling Lights, for Damp Location, Brushed Nickel Ceiling Light, E26 Base, 3 Years Warranty</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/IVA-116-SF-BN.jpg?v=1624899949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            87.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Clear Glass</s:tag>
+    <s:tag>Clear Glass Shade</s:tag>
+    <s:tag>DAMP LOCATION</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Modern Semi Flush Mount</s:tag>
+    <s:tag>Modern Semi Flush Mount Light</s:tag>
+    <s:tag>Modern Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Round</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS069</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>STEEL+GLASS</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732052570201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">87.79</s:price>
+      <s:sku>IVA-116-SF-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732052471897</id>
+    <published>2020-10-08T17:19:43-04:00</published>
+    <updated>2020-10-08T17:19:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/flush-mount-drum-shape-light-e26-base-frosted-glass-shade-and-brushed-nickel-finish"/>
+    <title>Flush Mount Drum Shape Light, E26 Base, Frosted Glass Shade and Brushed Nickel Finish, UL Listed - Damp Location</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_a10d92e8-c879-4384-a465-9edce0504c9e.jpg?v=1603724264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            119.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>DAMP LOCATION</s:tag>
+    <s:tag>Drum Shape Semi Flush Mount</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Frost Glass Diffuser</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Modern Semi Flush Mount</s:tag>
+    <s:tag>Modern Semi Flush Mount Light</s:tag>
+    <s:tag>Modern Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS071</s:tag>
+    <s:tag>Semi Flush Mount Light</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>STEEL+GLASS</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732052471897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.08</s:price>
+      <s:sku>IVA-SFM-SUB-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732052045913</id>
+    <published>2020-10-08T17:19:00-04:00</published>
+    <updated>2020-10-08T17:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/semi-flush-mount-lighting-brass-gold-with-bell-shape-e26-base"/>
+    <title>Semi-Flush Mount Lighting Brass Gold, with Bell Shape, E26 Base for Damp Location, Clear Glass Shade, Ceiling Mounting, UL Listed</title>
+    <s:type>Semi-Flushmount</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/IVA-85711-BG.jpg?v=1624899878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Semi-Flushmount<br>
+        <strong>Price: </strong>
+            129.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make your Bedroom hallways look fantastic with LEDMyplace's Premium Quality Semi-Flush Mount Lights. These Semi-mount flush lights are modern lights that come with several unique features. These light fixtures are operated on an AC input of 120 Volts. A UL-certified semi-flush mount comes with the E26 base. These long-lasting fixtures are available with a 5-year warranty against manufacturing defects. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Bell</s:tag>
+    <s:tag>Brass Gold Finish</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Clear Glass</s:tag>
+    <s:tag>Clear Glass Shade</s:tag>
+    <s:tag>DAMP LOCATION</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Modern Semi Flush Mount</s:tag>
+    <s:tag>Modern Semi Flush Mount Light</s:tag>
+    <s:tag>Modern Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS075</s:tag>
+    <s:tag>Semi Flush Mount Light Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lighting Fixture</s:tag>
+    <s:tag>Semi Flush Mount Lights</s:tag>
+    <s:tag>Semi Flushmount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>STEEL+GLASS</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732052045913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.87</s:price>
+      <s:sku>IVA-85711-BG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

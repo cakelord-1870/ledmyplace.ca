@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/track-light.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-10-09T11:05:45-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732555919449</id>
+    <published>2020-10-09T11:05:45-04:00</published>
+    <updated>2020-10-09T11:05:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-wall-mounted-round-track-lights"/>
+    <title>LED Dimmable Flexible Track Lighting, Brushed Nickel Finish, 3000K (Warm White),</title>
+    <s:type>Track Light</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/0008_3_1024x1024_2x_f377ee85-2505-4dee-a0a4-51c1ee1f3908.jpg?v=1628608592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Track Light<br>
+        <strong>Price: </strong>
+            90.51 - 113.18
+            <a href="https://ledmyplace.ca/products/led-wall-mounted-round-track-lights">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Installing a track light fixture like this one will provide adequate indoor lighting while also adding to your home or office's aesthetic appeal. This track light features a brushed nickel finish on a sturdy steel body that will complement contemporary interior spaces. It also has clear glass lense (s) that distribute light evenly. The fixture is designed to be wall-mounted, making installation quick and easy. It has standard for wet areas, so you can rest assured that it is safe to use.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">This lighting fixture works with dimming devices, allowing you to adjust the brightness to your liking. It comes in two-lumen ratings of 1300 and 1800 lumens, with a 3000k correlated color temperature. As a result, you can select the appropriate brightness level and enjoy light with a warm white hue. It runs on 120 volts and has a 50,000-hour operational rating, ensuring consistent energy savings for years to come. A three-year warranty is also included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1300 Lumens</s:tag>
+    <s:tag>1800 Lumens</s:tag>
+    <s:tag>21 Watt</s:tag>
+    <s:tag>28 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>3000K (Warm White)</s:tag>
+    <s:tag>50000 Life Hours</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Clear Glass</s:tag>
+    <s:tag>CRI 80</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>LED Track Light</s:tag>
+    <s:tag>Round Track Lights</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS025</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>STEEL+GLASS</s:tag>
+    <s:tag>Track Light</s:tag>
+    <s:tag>Wall Mounted Round Track</s:tag>
+    <s:tag>Wall Mounted Round Track Lights</s:tag>
+    <s:tag>WALL MOUNTING</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732555919449</id>
+      <title>3-Light</title>
+      <s:price currency="CAD">90.51</s:price>
+      <s:sku>IVA-TRACK-R3-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732555919449</id>
+      <title>4-Light</title>
+      <s:price currency="CAD">113.18</s:price>
+      <s:sku>IVA-TRACK-R4-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

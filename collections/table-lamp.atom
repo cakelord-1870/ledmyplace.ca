@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/table-lamp.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-07-03T13:49:17-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4532921761881</id>
+    <published>2020-07-03T13:49:17-04:00</published>
+    <updated>2020-07-03T13:49:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/28-desk-lamp-with-usb-port-and-outlet-brushed-nickel-finish-and-rectangular-white-linen-shade-on-off-switch"/>
+    <title>28 Inch Desk Lamp with USB Port and Outlet, Brushed Nickel Finish, Rectangular Fabric Shade, With 1-pc Switch, 1 pc outlets, 1 pc USB</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/3_09790f5b-1a9a-4658-ab46-c9d5b1252490.jpg?v=1623865111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            221.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Amplify the charm of your interior decor by placing LEDMyplace’s premium quality table lamp fixtures in your indoor space. These table lamps feature a simple yet sophisticated design that will blend in with most of your decor. This pendant Lighting fixture can be used to create the task and ambient lighting together. Comes with a 3 Year manufacturer warranty. The table lamp fixture with a USB port is UL listed, ensuring that this product is safe and hazard-proof. The product comes with a robust build and with a fabric shade brushed nickel finish. The fixture uses E26 Base and can withstand a voltage range of 120V. Using an LED light bulb accounts for extra savings.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-120 Volts</s:tag>
+    <s:tag>28&quot;</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>Brushed Nickel Finish</s:tag>
+    <s:tag>Desk Lamp</s:tag>
+    <s:tag>E26 Base</s:tag>
+    <s:tag>GS007</s:tag>
+    <s:tag>On/Off Switch</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>Rectangular White Linen Shade</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Table Lamp</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>USB Port</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4532921761881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">221.60</s:price>
+      <s:sku>IVA-T253-1BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

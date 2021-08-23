@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/br-led-bulbs.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:18:05-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902184104025</id>
+    <published>2019-11-12T05:18:05-05:00</published>
+    <updated>2019-11-12T05:18:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-br40-light-bulbs-5000k-15-5watt-55watt-equivalent"/>
+    <title>LED BR40 Light Bulbs - 5000K, 15.5Watt - 55Watt Equivalent - Energy Star</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL032_1024x1024_2x_8e55d293-bf6f-402b-981b-3a907d664ba9.jpg?v=1619122160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            75.93 - 280.33
+            <a href="https://ledmyplace.ca/products/led-br40-light-bulbs-5000k-15-5watt-55watt-equivalent">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light bulbs are standard among interior designers and home decorators. These bulbs are mostly used in showrooms, retail stores, and track lights, etc. These 15.5W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 1100 Lumens, these LED Light Bulb Fixtures can easily replace 55W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly durable and very cost-effective.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1100 Lumens</s:tag>
+    <s:tag>15.5 Watt</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>55W Eq.</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL030</s:tag>
+    <s:tag>BR LED Bulbs</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 55 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902184104025</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">75.93</s:price>
+      <s:sku>WEN-BR40-15.5W-5K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902184104025</id>
+      <title>24-Pack</title>
+      <s:price currency="CAD">280.33</s:price>
+      <s:sku>WEN-BR40-15.5W-5K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902183841881</id>
+    <published>2019-11-12T05:18:03-05:00</published>
+    <updated>2019-11-12T05:18:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/br40-led-light-bulbs-light-bulbs-15-5watt-55watt-equivalent-3000k"/>
+    <title>BR40 - LED Light Bulbs - Light Bulbs - 15.5Watt - 55Watt Equivalent - 3000K</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL032_1024x1024_2x_b1ba34a4-dd00-48ff-86ce-6b5c9d817cef.jpg?v=1619122270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            75.93 - 280.33
+            <a href="https://ledmyplace.ca/products/br40-led-light-bulbs-light-bulbs-15-5watt-55watt-equivalent-3000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: E26. These lights can lighten up the home and office environment. These 15.5W LED Light Bulbs come in several varieties with a CCT of 3000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 1100 Lumens, these LED Light Bulb Fixtures can easily replace 55W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1100 Lumens</s:tag>
+    <s:tag>15.5 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>55W Eq.</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL032</s:tag>
+    <s:tag>BR LED Bulbs</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 55 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183841881</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">75.93</s:price>
+      <s:sku>WEN-BR40-15.5W-3K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183841881</id>
+      <title>24-Pack</title>
+      <s:price currency="CAD">280.33</s:price>
+      <s:sku>WEN-BR40-15.5W-3K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902183678041</id>
+    <published>2019-11-12T05:18:01-05:00</published>
+    <updated>2019-11-12T05:18:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-light-bulbs-br30-5000k-650-lumens-9-watt"/>
+    <title>LED Light Bulbs BR30, 5000K - 650 Lumens - 9 Watt, Energy Star, Dimmable</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL035_1024x1024_2x_442eb149-f60d-4a17-bd80-436f8bfaf2f7.jpg?v=1619122394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            33.13 - 349.60
+            <a href="https://ledmyplace.ca/products/led-light-bulbs-br30-5000k-650-lumens-9-watt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: E26. These lights can lighten up the home and office environment. These 9W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 650 Lumens, these LED Light Bulb Fixtures can easily replace 35W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>650 Lumens</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>9 Watt</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL033</s:tag>
+    <s:tag>BR LED Bulbs</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 35 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183678041</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">33.13</s:price>
+      <s:sku>WEN-BR30-9W-5K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183678041</id>
+      <title>72-Pack</title>
+      <s:price currency="CAD">349.60</s:price>
+      <s:sku>WEN-BR30-9W-5K.72pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902183481433</id>
+    <published>2019-11-12T05:17:59-05:00</published>
+    <updated>2019-11-12T05:17:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/3000k-led-light-bulbs-br30-9-watt-650-lumens"/>
+    <title>9 Watt LED Light Bulbs, BR30, 3000K - 650 Lumens, Dimmable, E26 base</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL035_1024x1024_2x_5cf3cfa3-343d-41d6-b143-25bbb21e8955.jpg?v=1619122533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            33.13 - 349.60
+            <a href="https://ledmyplace.ca/products/3000k-led-light-bulbs-br30-9-watt-650-lumens">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: E26. These lights can lighten up the home and office environment. These 9W LED Light Bulbs come in several varieties with a CCT of 3000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 650 Lumens, these LED Light Bulb Fixtures can easily replace 35W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3000K</s:tag>
+    <s:tag>35W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>650 Lumens</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>9 Watt</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL035</s:tag>
+    <s:tag>BR LED Bulbs</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 35 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183481433</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">33.13</s:price>
+      <s:sku>WEN-BR30-9W-3K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183481433</id>
+      <title>72-Pack</title>
+      <s:price currency="CAD">349.60</s:price>
+      <s:sku>WEN-BR30-9W-3K.72pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902183186521</id>
+    <published>2018-12-17T16:11:23-05:00</published>
+    <updated>2018-12-17T16:11:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/5000k-r20-br20-led-bulbs-7-5watts-30-watt-equivalent"/>
+    <title>5000K - R20/BR20 - LED Bulbs, 7.5Watts - 30 Watt Equivalent, Day Light White</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL040_1024x1024_2x_ed77d6f6-dd07-49c9-b6a9-5f3fa0e1fd02.jpg?v=1619122643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            40.83 - 699.19
+            <a href="https://ledmyplace.ca/products/5000k-r20-br20-led-bulbs-7-5watts-30-watt-equivalent">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: E26. These lights can lighten up the home and office environment. These 7.5W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 525 Lumens, these LED Light Bulb Fixtures can easily replace 30W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30W Eq.</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>525 Lumens</s:tag>
+    <s:tag>7.5 Watt</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL038</s:tag>
+    <s:tag>BR LED Bulbs</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 30 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183186521</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">40.83</s:price>
+      <s:sku>WEN-BR20-7.5W-5K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902183186521</id>
+      <title>144-Pack</title>
+      <s:price currency="CAD">699.19</s:price>
+      <s:sku>WEN-BR20-7.5W-5K.144pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902182924377</id>
+    <published>2018-12-17T15:57:57-05:00</published>
+    <updated>2018-12-17T15:57:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/r20-br20-led-bulb-7-5-watt-30-watt-equivalent-3000k"/>
+    <title>R20/BR20 - LED Bulb - 7.5 Watt - 30 Watt Equivalent, 3000K - Warm White, E26 base</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL040_1024x1024_2x_ccd1546c-bfc9-491d-bdd2-f8e8ea56e3d4.jpg?v=1619122774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            40.83 - 699.19
+            <a href="https://ledmyplace.ca/products/r20-br20-led-bulb-7-5-watt-30-watt-equivalent-3000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light bulbs are standard among interior designers and home decorators. These bulbs are mostly used in showrooms, retail stores, and track lights, etc. These 7.5W LED Light Bulbs come in several varieties with a CCT of 3000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 525 Lumens, these LED Light Bulb Fixtures can easily replace 30W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly durable and very cost-effective.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3000K</s:tag>
+    <s:tag>30W Eq.</s:tag>
+    <s:tag>525 Lumens</s:tag>
+    <s:tag>7.5 Watt</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL040</s:tag>
+    <s:tag>BR LED Bulbs</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 30 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902182924377</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">40.83</s:price>
+      <s:sku>WEN-BR20-7.5W-3K.6pk</s:sku>
+      <s:grams>304</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902182924377</id>
+      <title>144-Pack</title>
+      <s:price currency="CAD">699.19</s:price>
+      <s:sku>WEN-BR20-7.5W-3K.144pk</s:sku>
+      <s:grams>9802</s:grams>
+    </s:variant>
+  </entry>
+</feed>

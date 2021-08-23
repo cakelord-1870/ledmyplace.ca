@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/12v-led-strip-light-drivers-power-supplies.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-29T17:14:44-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013201367129</id>
+    <published>2021-04-29T17:14:44-04:00</published>
+    <updated>2021-04-29T17:14:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/12w-direct-plug-in-led-power-supply-12vdc-1a-100-240vac-ledmyplace"/>
+    <title>12w Direct Plug In LED Power Supply 12VDC / 1A / 100-240VAC</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_dec91a85-2e33-49fd-8dce-9f7b38bcd93d.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li>Wattage - 12W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range - 100-240VAC</li>
+<li>Output Current - 1A</li>
+<li>Voltage Input: AC100-277V</li>
+<li>Type - Direct Plug</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013201367129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>WEN-SW-N12012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013201891417</id>
+    <published>2021-04-29T17:11:53-04:00</published>
+    <updated>2021-04-29T17:11:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/120w-desktop-led-power-supply-100-240v-ac-24v-10a-ledmyplace"/>
+    <title>120W Desktop LED Power Supply 100-240V AC / 24V / 10A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/111_8b8b6f55-7d26-455d-bcc2-93f08788c37b.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            89.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>
+<h1 class="Polaris-Header-Title_2qj8j">120W Desktop LED Power Supply 100-240V AC / 24V / 10A</h1>
+<ul>
+<li>
+<strong>Input Voltage: </strong>90-132VAC</li>
+<li>
+<strong>Output Voltage</strong><meta charset="utf-8">
+<strong>: </strong>12VDC</li>
+<li>
+<strong>Power</strong><meta charset="utf-8">
+<strong>: </strong>200W</li>
+<li>
+<strong>Output Current</strong><meta charset="utf-8">
+<strong>: </strong>17A</li>
+<li>
+<strong>Input Frequency</strong><meta charset="utf-8">
+<strong>: </strong>47-63Hz</li>
+<li>
+<strong>Operating Temperature</strong><meta charset="utf-8">
+<strong>: </strong>-30°-70°</li>
+<li>
+<strong>Certification</strong><meta charset="utf-8">
+<strong>: </strong>CE, RoHS,UL</li>
+<li>
+<strong>Brand</strong><meta charset="utf-8">
+<strong>: </strong>Meanwell</li>
+<li>
+<strong>Driver Type</strong><meta charset="utf-8">
+<strong>: </strong>Constant Voltage Driver</li>
+</ul>
+<p class="Polaris-Header-Title_2qj8j">Certifications that set guidelines for SSL usage in Canada.</p>
+</div>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST071</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013201891417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.61</s:price>
+      <s:sku>WEN-SW-A12120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013202677849</id>
+    <published>2021-04-29T17:11:42-04:00</published>
+    <updated>2021-04-29T17:11:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/35w-meanwell-driver-100-240v-ac-12v-0-3a-ledmyplace"/>
+    <title>35W Meanwell Driver 100-240V AC / 12V / 0-3A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/111_954cc084-9279-4b3f-8fa8-465c5e9a5bb8.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            36.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>
+<h1 class="Polaris-Header-Title_2qj8j">35W Meanwell Driver 100-240V AC / 12V / 0-3A</h1>
+</div>
+<ul>
+<li>Wattage - 35W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range -<span> 100-240VAC</span>
+</li>
+<li>Output Current -<span> 0-3A</span>
+</li>
+<li>Type - Meanwell Driver</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST062</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013202677849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.18</s:price>
+      <s:sku>WEN-LRS-35-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013202546777</id>
+    <published>2021-04-29T17:10:56-04:00</published>
+    <updated>2021-04-29T17:10:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/50w-meanwell-driver-100-240v-ac-12v-0-4-2a-ledmyplace"/>
+    <title>50W Meanwell Driver 100-240V AC / 12V / 0-4.2A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/111_de2482aa-dc85-46f1-9e1a-78e0364dd1f7.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            46.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>
+<h1 class="Polaris-Header-Title_2qj8j">50W Meanwell Driver 100-240V AC / 12V / 0-4.2A</h1>
+</div>
+<ul>
+<li>Wattage - 50W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range -<span> 100-240VAC</span>
+</li>
+<li>Output Current -<span> 0-4.2A</span>
+</li>
+<li>Type - Meanwell Driver</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST064</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013202546777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.21</s:price>
+      <s:sku>WEN-LRS-50-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013201137753</id>
+    <published>2021-04-29T17:10:37-04:00</published>
+    <updated>2021-04-29T17:10:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/36w-direct-plug-in-led-power-supply-100-240vac-12v-3a"/>
+    <title>36W Direct Plug-In LED Power Supply 100-240V AC / 12V /3A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_2cc3399a-21d1-499c-b05a-2283863edbb3.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            25.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>
+<strong><strong>﻿</strong></strong>
+<h1 class="Polaris-Header-Title_2qj8j">36W Direct Plug-In LED Power Supply 100-240V AC / 12V /3A</h1>
+</div>
+<ul>
+<li>Wattage - 36W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range -<span> 100-240VAC</span>
+</li>
+<li>Output Current -<span> 3A</span>
+</li>
+<li>Type - Direct Plug</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST079</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013201137753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.10</s:price>
+      <s:sku>WEN-SW-N12036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013201301593</id>
+    <published>2021-04-29T17:09:58-04:00</published>
+    <updated>2021-04-29T17:09:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/18w-direct-plug-in-led-power-supply-100-240vac-12v-1-5a-ledmyplace"/>
+    <title>18W Direct Plug-In LED Power Supply 100-240V AC / 12V /1.5A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_dd245e85-b30f-4582-816a-3e4c7fbfe717.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            16.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h1>18W Direct Plug-In LED Power Supply 100-240V AC / 12V /1.5A</h1>
+<ul>
+<li>Wattage - 18W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range - 100-240VAC</li>
+<li>Output Current -<span> 1.5A</span>
+</li>
+<li>Type - Direct Plug</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST077</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013201301593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.52</s:price>
+      <s:sku>WEN-SW-N12018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013202153561</id>
+    <published>2021-04-29T17:09:38-04:00</published>
+    <updated>2021-04-29T17:09:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/60w-desktop-led-power-supply-12v-100-240v-ac-5a-ledmyplace"/>
+    <title>60W Desktop LED Power Supply / 12V / 100-240V AC /  5A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/111_9afb54b8-5905-4ba9-ad21-4eebdc2f2956.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            38.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h1>60W Desktop LED Power Supply / 12V / 100-240V AC /  5A</h1>
+<ul>
+<li>Wattage - 60W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range - 100-240VAC</li>
+<li>Output Current - 5A</li>
+<li>Voltage Input: AC100-240V</li>
+<li>Type - Meanwell Driver</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST068</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013202153561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.17</s:price>
+      <s:sku>WEN-SW-A12060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013202808921</id>
+    <published>2021-04-29T17:08:42-04:00</published>
+    <updated>2021-04-29T17:08:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/350w-meanwell-driver-90-132vac-0-29a-12v-ledmyplace"/>
+    <title>350W Meanwell Driver 90~132VAC / 0-29A / 12V</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/111_cf8ceb34-e70a-4020-a8e9-67da50134677.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            124.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div><strong>350W Meanwell Driver 90~132VAC / 0-29A / 12V</strong></div>
+<ul>
+<li>Wattage - 350W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range -<span> 90~132VAC</span>
+</li>
+<li>Output Current -<span> 0-29A</span>
+</li>
+<li>Type - Meanwell Driver</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST060</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013202808921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">124.62</s:price>
+      <s:sku>WEN-LRS-350-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013201203289</id>
+    <published>2021-04-29T17:08:02-04:00</published>
+    <updated>2021-04-29T17:08:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/24w-direct-plug-in-led-power-supply-100-240vac-12v-2a-ledmyplace"/>
+    <title>24W Direct Plug-In LED Power Supply 100-240V AC / 12V / 2A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_d0110f51-ae13-4aa1-9c85-5bd6f2e43ebc.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            21.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div><strong>Features of 24W Direct Plug-In LED Power Supply 100-240V AC / 12V / 2A</strong></div>
+<ul>
+<li>Wattage - <strong>24W</strong>
+</li>
+<li>Output Voltage - <strong>12VDC</strong>
+</li>
+<li>Input Voltage Range - <strong>100-240VAC</strong>
+</li>
+<li>Output Current -<span> <strong>2A</strong></span>
+</li>
+<li>Type -<strong> Direct Plug</strong>
+</li>
+<li>Constant <strong>Voltage Driver</strong>
+</li>
+</ul>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>24 Watt</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST078</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013201203289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.08</s:price>
+      <s:sku>WEN-SW-N12024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013202055257</id>
+    <published>2021-04-29T17:07:21-04:00</published>
+    <updated>2021-04-29T17:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/72w-desktop-led-power-supply-100-240v-ac-24v-3a-ledmyplace"/>
+    <title>72W Desktop LED Power Supply 100-240V AC / 24V / 3A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_676a8a36-9706-47dd-a943-2d93cb28538b.jpg?v=1619723504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>72W Desktop LED Power Supply 100-240V AC / 24V / 3A</strong></h1>
+<ul>
+<li>Wattage - <strong>72W</strong>
+</li>
+<li>Output Voltage -<strong> 24VDC</strong>
+</li>
+<li>Input Voltage Range - <strong>100-240VAC</strong>
+</li>
+<li>Output Current -<strong> 3A</strong>
+</li>
+<li>Voltage Input: <strong>AC100-240V</strong>
+</li>
+<li>Type - <strong>Meanwell Driver</strong>
+</li>
+<li>Constant <strong>Voltage Driver</strong>
+</li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST069</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013202055257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>WEN-SW-A12072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4298590486617</id>
+    <published>2019-11-29T15:30:45-05:00</published>
+    <updated>2019-11-29T15:30:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/200w-meanwell-driver-200w-100-240v-ac-12v-0-1-67a"/>
+    <title>200W Meanwell Driver 200W / 100-240V AC / 12V /0-1.67A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/LEDMYPLACE_0007_LRS-200W-6_540x_f0c1593f-2fe3-4eaa-8808-f4d52a2809b7.jpg?v=1573056533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            114.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><br><strong>Input Voltage: </strong><span>90-132VAC </span><br><strong>Output</strong><span> </span><strong>Voltage</strong><strong>: </strong><span>24VDC</span><br><strong>Power</strong><strong>: </strong><span>200W</span><br><strong>Output Current</strong><strong>: </strong><span>8.8A</span><br><strong>Input Frequency</strong><strong>: </strong><span>47-63Hz</span><br><strong>Operating Temperature</strong><strong>: </strong><span>-30°-70°</span><br><strong>Certification</strong><strong>: </strong><span>CE, RoHS,UL</span><br><strong>Brand</strong><strong>: </strong><span>Meanwell</span><br><strong>Driver Type</strong><strong>: </strong><span>Constant Voltage Driver</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-240 Volts</s:tag>
+    <s:tag>100-240V AC</s:tag>
+    <s:tag>12V DC</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>200 Watt</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>Meanwell Driver</s:tag>
+    <s:tag>Power Driver</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST096</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4298590486617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">114.00</s:price>
+      <s:sku>WEN-LRS-200-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013202251865</id>
+    <published>2019-07-17T17:01:24-04:00</published>
+    <updated>2019-07-17T17:01:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/75w-meanwell-driver-100-240v-ac-12v-0-6a-ledmyplace"/>
+    <title>75W Meanwell Driver 100-240V AC / 12V /0-6A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_bf98feb1-d7fe-4bd8-ae8e-668ba01c4398.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            56.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>
+<p><strong>Features 75W Meanwell Driver 75W / 100-240V AC / 12V /0-6A</strong></p>
+<ul></ul>
+</div>
+<ul>
+<li>Wattage - <strong>75W</strong>
+</li>
+<li>Output Voltage - <strong>12VDC</strong>
+</li>
+<li>Input Voltage Range - <strong>100-240VAC</strong>
+</li>
+<li>Output Current - <strong>0-6A</strong>
+</li>
+<li>Voltage Input: <strong>AC100-240V</strong>
+</li>
+<li>Type - <strong>Meanwell Driver</strong>
+</li>
+<li>Constant <strong>Voltage Driver</strong>
+</li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST066</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013202251865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.97</s:price>
+      <s:sku>WEN-LRS-75-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013203202137</id>
+    <published>2019-06-04T16:34:21-04:00</published>
+    <updated>2019-06-04T16:34:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/100w-meanwell-driver-100w-100-240v-ac-12v-0-6a"/>
+    <title>100W Meanwell Driver 100W / 100-240V AC / 12V /0-6A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/100_12_2.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            68.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h2>Features of 100W Meanwell Driver 100W / 100-240V AC / 12V /0-6A</h2>
+<ul>
+<li>Wattage - 100W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range - 100-240VAC</li>
+<li>Output Current - 0-6A</li>
+<li>Type - Meanwell Driver</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<ul></ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST056</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013203202137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">68.23</s:price>
+      <s:sku>WEN-LRS-100-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013203071065</id>
+    <published>2019-04-09T14:07:23-04:00</published>
+    <updated>2019-04-09T14:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/150w-meanwell-driver-150w-100-240v-ac-12v-0-12-5a-ledmyplace"/>
+    <title>150W Meanwell Driver 150W / 100-240V AC / 12V /0-12.5A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/111.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            79.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h2>Features 150W Meanwell Driver 150W / 100-240V AC / 12V /0-12.5A</h2>
+<ul>
+<li>Wattage - 150W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range - 100-240VAC</li>
+<li>Output Current -<span> 0-12.5A</span>
+</li>
+<li>Type - Meanwell Driver</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<ul></ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-240 Volts</s:tag>
+    <s:tag>100-240V AC</s:tag>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>Meanwell Driver</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST058</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013203071065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.85</s:price>
+      <s:sku>WEN-LRS-150-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013205790809</id>
+    <published>2019-04-08T12:23:20-04:00</published>
+    <updated>2019-04-08T12:23:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/320w-meanwell-driver-150w-fpc-88-264vac-12v-0-26-7a-ledmyplace"/>
+    <title>320W Meanwell Driver 150W (FPC) /  88~264VAC / 12V /0-26.7A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/111_e3878d6b-b14e-4def-a6b3-e7ac96b79683.jpg?v=1571708966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            208.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h2></h2>
+<h2 data-mce-fragment="1">Features 320W Meanwell Driver 150W (FPC) / 88~264VAC / 12V /0-26.7A</h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Wattage -<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">320W</strong>
+</li>
+<li data-mce-fragment="1">Output Voltage -<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">12VDC</strong>
+</li>
+<li data-mce-fragment="1">Input Voltage Range<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">-<span data-mce-fragment="1"> </span>88~264VAC</strong>
+</li>
+<li data-mce-fragment="1">Output Current -<span data-mce-fragment="1"> <strong data-mce-fragment="1">0-26.7A</strong></span>
+</li>
+<li data-mce-fragment="1">Type -<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Meanwell Driver</strong>
+</li>
+<li data-mce-fragment="1">Constant<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Voltage Driver</strong>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST052</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013205790809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">208.14</s:price>
+      <s:sku>WEN-RSP-320-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013201989721</id>
+    <published>2019-03-14T17:14:51-04:00</published>
+    <updated>2019-03-14T17:14:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/96w-desktop-led-power-supply-100-240v-ac-12v-8a-ledmyplace"/>
+    <title>96W Desktop LED Power Supply / 100-240V AC / 12V / 8A</title>
+    <s:type>LED Drivers &amp; Power Supplies</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_5acb76c2-16c9-4bdb-82cd-a86985d015e9.jpg?v=1571708940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Drivers &amp; Power Supplies<br>
+        <strong>Price: </strong>
+            72.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h1><strong>96W Desktop LED Power Supply / 100-240V AC / 12V / 8A</strong></h1>
+<ul>
+<li>Wattage - 96W</li>
+<li>Output Voltage - 12VDC</li>
+<li>Input Voltage Range - 100-240VAC</li>
+<li>Output Current - 8A</li>
+<li>Voltage Input: AC100-240V</li>
+<li>Type - Table Top</li>
+<li>Constant Voltage Driver</li>
+</ul>
+<br>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V</s:tag>
+    <s:tag>12V Driver</s:tag>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST070</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013201989721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.13</s:price>
+      <s:sku>WEN-SW-A12096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

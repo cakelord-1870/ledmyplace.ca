@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-work-lights.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-03-23T10:20:07-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4779238654041</id>
+    <published>2021-03-23T10:20:07-04:00</published>
+    <updated>2021-03-23T10:20:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/h-stand-for-work-light"/>
+    <title>H Stand For LED Work Lights</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Stand-01.jpg?v=1611324984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">There is an adjustable knob that allows you to rotate the light and meet more requirements.Use this adjustable H-bracket to mount your portable and flexible LED work light on. </span><span data-mce-fragment="1"> </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The sturdy aluminum bracket is powder-coated for rust resistance, and hardware is included for mounting to your light.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Work Light</s:tag>
+    <s:tag>WK004</s:tag>
+    <s:tag>Work Light</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4779238654041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>WEN-H-stand</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4374405840985</id>
+    <published>2020-01-02T12:24:43-05:00</published>
+    <updated>2020-01-02T12:24:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/construction-light-strings-with-cage"/>
+    <title>Construction Light Strings With Cage, 65W, 5000K, 8000 Lumens, IP65, Temporary LED Work Light, 50ft - 5 Lights Per Bunch</title>
+    <s:type>Work Light</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_10ef16b6-f88e-4a3a-ba4b-e6b1de43d198.jpg?v=1624901303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Work Light<br>
+        <strong>Price: </strong>
+            157.95 - 600.21
+            <a href="https://ledmyplace.ca/products/construction-light-strings-with-cage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">LED Work Lights are ideal lighting for construction sites as they provide very high lumens and are available with the cage that protects it from the wreckages in the site. These lights come in various configurations. These 65 W LED Work lights come with a CCT of 5000 K. These light fixtures are designed to endure and function in a voltage ranging between 100-277V. With a lumen output of 8000 Lumens, these LED Work Light Fixtures come with dust resistance. It's ETL, and IP65 certified that make them suitable for wet and damp locations. These light fixtures come with a lifespan of 50,000 hours and a manufacturer warranty of 3-years. These LED Work Lights are highly durable and are super-efficient that convert 95% of energy into light. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120-277 V</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>65 Watt</s:tag>
+    <s:tag>8000 Lumens</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>LED Work Light</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>WK003</s:tag>
+    <s:tag>Work Light</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4374405840985</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">157.95</s:price>
+      <s:sku>WEN-H5-4H-65W.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4374405840985</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">600.21</s:price>
+      <s:sku>WEN-H5-4H-65W.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4374402465881</id>
+    <published>2020-01-02T12:13:19-05:00</published>
+    <updated>2020-01-02T12:13:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/150w-work-light-fixture-with-cage-5000k-18000-lumens-ip65-rated"/>
+    <title>150W Work Light Fixture with cage , 5000K , 18000 Lumens , IP64 rated</title>
+    <s:type>Work Light</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/ledworklgihti.jpg?v=1623953062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Work Light<br>
+        <strong>Price: </strong>
+            216.45 - 822.51
+            <a href="https://ledmyplace.ca/products/150w-work-light-fixture-with-cage-5000k-18000-lumens-ip65-rated">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Work Lights are ideal lighting for construction sites as they provide very high lumens and are available with the cage that protects it from the wreckages in the site. These lights come in various configurations. These 150 W LED Work lights come with a CCT of 5000 K. These light fixtures are designed to endure and function in a voltage ranging between 100-277V. With a lumen output of 18000 Lumens, these LED Work Light Fixtures come with dust resistance. It's ETL, IP64, certified that makes them suitable for wet and damp locations. These light fixtures come with a lifespan of 50,000 hours and a manufacturer warranty of 3-years. These LED Work Lights are highly durable and are super-efficient that convert 95% of energy into light.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>18000 Lumens</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>IP64 Rated</s:tag>
+    <s:tag>LED Work Light</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>WK002</s:tag>
+    <s:tag>Work Light</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4374402465881</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">216.45</s:price>
+      <s:sku>WEN-H5-9-150W.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4374402465881</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">822.51</s:price>
+      <s:sku>WEN-H5-9-150W.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4374401712217</id>
+    <published>2020-01-02T12:01:05-05:00</published>
+    <updated>2020-01-02T12:01:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-temporary-work-light-fixture-100w"/>
+    <title>LED Temporary Work Light Fixture, 100 Watt, 12,000Lm 5000K Daylight, IP64 rated, Outdoor Construction Light</title>
+    <s:type>Work Light</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_e4832902-40ba-4bad-b8ea-a8c4131e7ca9.jpg?v=1624901180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Work Light<br>
+        <strong>Price: </strong>
+            187.20 - 711.36
+            <a href="https://ledmyplace.ca/products/led-temporary-work-light-fixture-100w">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Work Lights are ideal lighting for construction sites as they provide very high lumens and are available with the cage that protects it from the wreckages in the site. These lights come in various configurations. These 100 W LED Work lights to come with a CCT of 5000 K. These light fixtures are designed to endure and function in a voltage ranging between 100-277V. With a lumen output of 12000 Lumens, these LED Work Light Fixtures come with dust resistance. It's ETL, IP64, and IP65 certified that make them suitable for wet and damp locations. These light fixtures come with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These LED Work Lights are highly durable and are super-efficient that convert 95% of energy into light.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100 Watt</s:tag>
+    <s:tag>12000 Lumens</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>IP64 Rated</s:tag>
+    <s:tag>LED Work Light</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>WK001</s:tag>
+    <s:tag>Work Light</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4374401712217</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">187.20</s:price>
+      <s:sku>WEN-H5-9-100W.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4374401712217</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">711.36</s:price>
+      <s:sku>WEN-H5-9-100W.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

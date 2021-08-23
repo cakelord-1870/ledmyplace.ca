@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-aluminium-profile-housing.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-04-08T15:19:47-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207199833</id>
+    <published>2019-04-08T15:19:47-04:00</published>
+    <updated>2019-04-08T15:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1616-aluminum-led-strip-channel-surface-mount-led-extrusion-ledmyplace"/>
+    <title>1616 Aluminum LED Strip Channel Surface Mount LED Extrusion</title>
+    <s:type>LED Aluminium Profile / Housing</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/5_46b7e36f-2667-482f-82e8-36bc0f58de0f.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Aluminium Profile / Housing<br>
+        <strong>Price: </strong>
+            15.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>Aluminum profile / 3.28" (L)*0.63"(W)X0.63"(H) / PC diffused Cover, press down type / End cap with hole / End cap without hole / Material mounting clips. Use this Aluminum profile kit to mount LED strip lights in corners. The surface-mount LED channel comes with a PC diffused Cover, press-down type accessories that provides a professional mounting solution for flexible or rigid LED strip lights.</p>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST035</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207199833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.97</s:price>
+      <s:sku>WEN-SW-A1616-L-1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207134297</id>
+    <published>2019-04-08T15:16:29-04:00</published>
+    <updated>2019-04-08T15:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1707-aluminum-profile-kit-for-led-strip-lights-ledmyplace"/>
+    <title>1707 Aluminum Profile Kit for LED Strip Lights</title>
+    <s:type>LED Aluminium Profile / Housing</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_50246c96-c68c-4adc-8b83-a70ce2f0c9d4.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Aluminium Profile / Housing<br>
+        <strong>Price: </strong>
+            10.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Aluminum profile / 3.28" (L)*0.67"(W)X0.28"(H) /press down type / End cap with hole / End cap without hole /Metal mounting clips. The LED aluminum profile kit is great for bookshelf lighting, cupboard lighting, cove lighting, cabinet shelf lighting, desk hutch lighting, ceiling lighting, and more.<br>
+<ul>
+<ul>
+<ul></ul>
+<!--<p>*IP65 rated products are water- and dust-proof- safe for outdoor use.</p> --->
+</ul>
+</ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<ul><!--Features section end--></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST036</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207134297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.65</s:price>
+      <s:sku>WEN-SW-A1707-L-1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207068761</id>
+    <published>2019-04-08T15:13:26-04:00</published>
+    <updated>2019-04-08T15:13:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1715b-extruded-aluminum-profiles-for-strip-lights-ledmyplace"/>
+    <title>1715B Extruded Aluminum Profiles for Strip Lights</title>
+    <s:type>LED Aluminium Profile / Housing</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_6ac852b7-f199-4063-b0f5-a900c9f6ac33.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Aluminium Profile / Housing<br>
+        <strong>Price: </strong>
+            18.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li>This Extruded Aluminum Profiles surface-mount LED channel provides a professional mounting solution for flexible, rigid, or linear LED strip lights that measure up to 10 mm wide. PC diffused Cover, press down type / End cap with hole / End cap with hole / Metal mounting clips</li>
+<li>Dimension:0.67"(W)X0.59"(H)</li>
+<li>Length: 1000MM(39.4in)</li>
+</ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST037</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207068761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.78</s:price>
+      <s:sku>WEN-SW-A1715B-L-1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013207003225</id>
+    <published>2019-04-08T15:00:25-04:00</published>
+    <updated>2019-04-08T15:00:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1919-aluminum-profile-kit-for-led-strip-lights-aluminum-led-channel-ledmyplace"/>
+    <title>1919 Aluminum Profile Kit for LED Strip Lights - Aluminum LED Channel</title>
+    <s:type>LED Aluminium Profile / Housing</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_e2de42c1-b4ae-4aae-bb36-b2a4a06b1362.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Aluminium Profile / Housing<br>
+        <strong>Price: </strong>
+            15.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Aluminum profile / 39.4"(L) x 0.99"(W) x 0.28"(H) / PC diffused Cover, press down type / End cap with hole / End cap without hole /Metal mounting clips. This LED aluminum profile kit is great for LED strip lights. This low-profile surface-mount LED channel provides a professional mounting solution for flexible, rigid, or linear LED strip lights that measure up to 10 mm wide.</span></p>
+<p> </p>
+<p><span>Certifications that set guidelines for SSL usage in Canada.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST038</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013207003225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.80</s:price>
+      <s:sku>WEN-SW-A1919-L-1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013206904921</id>
+    <published>2019-04-08T14:58:11-04:00</published>
+    <updated>2019-04-08T14:58:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/2507-aluminum-led-profile-housing-for-led-strip-lights-ledmyplace"/>
+    <title>2507 Aluminum LED Profile Housing for LED Strip Lights</title>
+    <s:type>LED Aluminium Profile / Housing</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_e6aaaca7-ea63-4325-a5fa-d7a37314cf2a.jpg?v=1571708967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Aluminium Profile / Housing<br>
+        <strong>Price: </strong>
+            10.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;"><span data-mce-fragment="1">Aluminum profile / 39.4"(L) x 0.99"(W) x 0.28"(H) / PC diffused Cover, press down type / End cap with hole / End cap without hole /Metal mounting clips. This LED aluminum profile kit is great for LED strip lights. This low-profile surface-mount LED channel provides a professional mounting solution for flexible, rigid, or linear LED strip lights that measure up to 10 mm wide.</span></span></p>
+<p>Certifications that set guidelines for SSL usage in Canada.<br></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED Strip Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ST039</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013206904921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.65</s:price>
+      <s:sku>WEN-SW-A2507-L-1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

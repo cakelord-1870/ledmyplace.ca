@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/hector-style-led-vanity-mirror.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-21T17:44:06-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4548276289625</id>
+    <published>2021-04-21T17:44:06-04:00</published>
+    <updated>2021-04-21T17:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-bathroom-mirror-medicine-cabinet-double-sided-mirror-on-off-switch"/>
+    <title>LED Bathroom Mirror Medicine Cabinet, Double Sided Mirror, On/Off Switch, Hector Style</title>
+    <s:type>LED Vanity Mirrors</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2_63ae8baf-0405-4dda-9357-f7fc9aa6a273.jpg?v=1621540523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Vanity Mirrors<br>
+        <strong>Price: </strong>
+            811.50 - 1674.20
+            <a href="https://ledmyplace.ca/products/led-bathroom-mirror-medicine-cabinet-double-sided-mirror-on-off-switch">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make your bathroom adorable and luxurious by installing a Hector-style LED Vanity mirror. The mirrors feature premium-quality LED lights rated with 50,000 operational hours and come with five years of manufacturer's warranty. The mirrors' design includes a Double-sided mirrored door and glass shelves that feature an on/off switch and high CRI. These LED mirror cabinets will serve three functions:   a lighting fixture, storage space, and a mirror. which means that the wiring in the mirrors is safe by a bathroom's standards. These LED mirror cabinets highlight a simple yet useful design that will amalgam with and adorn your bathroom's existing decór.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-120VAC</s:tag>
+    <s:tag>1485 Lumens</s:tag>
+    <s:tag>17 Watt</s:tag>
+    <s:tag>24 X 36 Inch</s:tag>
+    <s:tag>24x36 Inch</s:tag>
+    <s:tag>24x36 Inch Mirror Menu</s:tag>
+    <s:tag>48 X 28 Inch</s:tag>
+    <s:tag>48x28 Inch</s:tag>
+    <s:tag>48x28 Inch Mirror Menu</s:tag>
+    <s:tag>72 X 30 Inch</s:tag>
+    <s:tag>72x30 Inch</s:tag>
+    <s:tag>72x30 Inch Mirror Menu</s:tag>
+    <s:tag>90 CRI</s:tag>
+    <s:tag>Back Lit</s:tag>
+    <s:tag>Bathroom Mirror Cabinet</s:tag>
+    <s:tag>Double Sided Mirror</s:tag>
+    <s:tag>HECTOR</s:tag>
+    <s:tag>MR026</s:tag>
+    <s:tag>On/Off Switch</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548276289625</id>
+      <title>24 X 36 Inch</title>
+      <s:price currency="CAD">811.50</s:price>
+      <s:sku>IVA-LAMC-043-2436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548276289625</id>
+      <title>48 X 28 Inch</title>
+      <s:price currency="CAD">1153.40</s:price>
+      <s:sku>IVA-LAMC-044-4828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548276289625</id>
+      <title>72 X 30 Inch</title>
+      <s:price currency="CAD">1674.20</s:price>
+      <s:sku>IVA-LAMC-045-7230</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

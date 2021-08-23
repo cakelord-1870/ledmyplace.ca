@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-fixtures-all-accessories.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-02-04T12:43:02-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013200679001</id>
+    <published>2020-02-04T12:43:02-05:00</published>
+    <updated>2020-02-04T12:43:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1ft-integrated-connecting-cable-only-for-30-watt-integrated-tube"/>
+    <title>1ft Integrated Connecting Cable Only For 30 Watt Integrated Tube</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/c8_1024x1024_2x_1fff6d61-6877-46d3-8604-93147c73b98f.jpg?v=1580838291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            5.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1FT Integrated Connecting Cable</s:tag>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>Cable Only For 30 Watt</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>connect 4 in a row</s:tag>
+    <s:tag>Easy Installation</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FOR INTEGRATED TUBES</s:tag>
+    <s:tag>FX040</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013200679001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.03</s:price>
+      <s:sku>30w-con-cable-1ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4419117809753</id>
+    <published>2020-01-08T12:08:03-05:00</published>
+    <updated>2020-01-08T12:08:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-surge-protector"/>
+    <title>LED Surge Protector</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Untitled-1_0004_Layer_2_1024x1024_2x_ab20cdae-3ed2-4ef7-a7ea-79eb2b59e693.jpg?v=1578503771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            15.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect your Pole Lights of 240W or higher by installing the surge protector in your fixture and increase the life of your pole light. One surge protector works in one pole light and is a single-phase surge protection device designed for outdoor lighting. The input voltage of the device is 120-277 volts and comes with a 5 years warranty. The design of the surge protector conforms to IEEE C62.41 2002C High. Reduce the failure rate of the LED driver in your light which gets burnt in the event of a voltage surge. This is where the surge protector will help the pole light.</span><strong><br><br>Input Voltage:</strong><span> 120-277Vac</span><br><strong>Frequency:</strong><span> 50-60Hz </span><br><strong>Maximum Continuous RMS Voltage AC:</strong><span> 320V </span><br><strong>Maximum Clamping Voltage (8/20us 100A):</strong><span> 845V </span><br><strong>Maximum Energy:</strong><span> 360J </span><br><strong>Maximum Peak Current:</strong><span> 10kA(8/20us standard wave) </span><br><strong>Life Warranty:</strong><span> 5 Years (Failed not by the surge</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120-277 V</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED Light Accessories</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Surge Protector</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4419117809753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.58</s:price>
+      <s:sku>WEN-QR-SPD07-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297250717727</id>
+    <published>2019-11-12T05:17:40-05:00</published>
+    <updated>2019-11-12T05:17:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/internal-tenon-adaptor-for-5-inch-square-poles-2-arm-at-180-degrees"/>
+    <title>Internal tenon adaptor for 5 inch square poles. 2 ARM at 180 degrees</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Internal_tenon_adaptor_for_5_inch_square_poles_2_ARM_at_180_degrees-2_3823cb68-7aaa-49b2-abd1-1961e0d7341d.jpg?v=1623246807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            133.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mounts inside of a 5-inch square pole</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Tenon Adapter with 2 arms at 180-degrees for vertically mounting flood/ pole light fixtures. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light/ LED flood light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Arms</s:tag>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 inch</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>bronze finish.</s:tag>
+    <s:tag>FX017</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metallic Bronze</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Tenon Adaptor</s:tag>
+    <s:tag>Tenons</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297250717727</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">133.09</s:price>
+      <s:sku>tenon-pol-sq-5&quot;-2arm</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297250816031</id>
+    <published>2019-11-12T05:17:38-05:00</published>
+    <updated>2019-11-12T05:17:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/internal-tenon-adaptor-for-4-inch-square-poles-4-arms-at-90-degrees"/>
+    <title>Internal tenon adaptor for 4 inch square poles. 4 ARMS at 90 degrees</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Internal_tenon_adaptor_for_4_inch_square_poles_4_ARMS_at_90_degrees-2_dbdd1705-161c-4ae4-8f90-c8c32c69b88c.jpg?v=1623246841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            133.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mounts inside of a 4-inch square pole</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Tenon Adapter with 4 arms at 90-degrees for vertically mounting flood/ pole light fixtures. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light/ LED flood light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>4 Arms</s:tag>
+    <s:tag>4-inch square pole</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>FX018</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metallic bronze finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Tenon Adaptor</s:tag>
+    <s:tag>Tenons</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297250816031</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">133.09</s:price>
+      <s:sku>tenon-pol-sq-4&quot;-4arm</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297250848799</id>
+    <published>2019-11-12T05:17:36-05:00</published>
+    <updated>2019-11-12T05:17:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/internal-tenon-adaptor-for-4-inch-square-poles-2-arm-at-180-degrees"/>
+    <title>Internal tenon adaptor for 4 inch square poles. 2 ARM at 180 degrees</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Internal_tenon_adaptor_for_4_inch_square_poles_2_ARM_at_180_degrees-2_d2d63db5-f981-4b3d-b953-849e4468a64f.jpg?v=1623246894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            133.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mounts inside of a 4-inch square pole</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Tenon Adapter with 2 arms at 180-degrees for vertically mounting flood/ pole light fixtures. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light/ LED flood light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Arms</s:tag>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>5-inch square pole</s:tag>
+    <s:tag>FX019</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metallic bronze finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Tenon Adaptor</s:tag>
+    <s:tag>Tenons</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297250848799</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">133.09</s:price>
+      <s:sku>tenon-pol-sq-4&quot;-2arm</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705075403</id>
+    <published>2019-11-12T05:17:34-05:00</published>
+    <updated>2019-11-12T05:17:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/horizontal-wall-mount-tenon-bracket"/>
+    <title>Horizontal Wall Mount Tenon Bracket</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Horizontal_Wall_Mount_Tenon_Bracket_20f6bc37-edda-40f5-a359-5d2578141911.jpg?v=1571708905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            112.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic black finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be installed onto a wall or a square pole that is at least 7 inches in width.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Horizontal Tenon Bracket for walls or square poles requiring slip-fitter/ Adjustable-mount LED Pole Light.</span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<p>slip-fit over any 2-3/8” tenon regardless of the shape of the pole</p>
+<h2><span style="font-weight: 400;"></span></h2>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>FX031</s:tag>
+    <s:tag>horizontal tenon adapter</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metalic black finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Tenon Bracket</s:tag>
+    <s:tag>Tenons</s:tag>
+    <s:tag>Wall Mount</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705075403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.61</s:price>
+      <s:sku>tenon-pol-hor</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251438623</id>
+    <published>2019-11-12T05:17:20-05:00</published>
+    <updated>2019-11-12T05:17:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/bullhorn-4-arms-90-degree"/>
+    <title>Bullhorn 4 Arms 90 Degree</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Bullhorn_4_Arms_90_Degree-2_de5e1ec8-2e54-4fe4-93e9-64b756c1c3ea.jpg?v=1623247048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            429.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be installed onto a wall or a square pole that is at least 7 inches in width.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Bullhorn with 4 arms at 90-degree for LED Pole Light. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>4 Arms</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>90-degree tenon adapter</s:tag>
+    <s:tag>Bullhorns</s:tag>
+    <s:tag>FX026</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metallic bronze finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251438623</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">429.98</s:price>
+      <s:sku>BH-4ARM-90D</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251471391</id>
+    <published>2019-11-12T05:17:18-05:00</published>
+    <updated>2019-11-12T05:17:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/bullhorn-3-arms-180-degree-in-line"/>
+    <title>Bullhorn 3 Arms 180 Degree in-Line</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Bullhorn_3_Arms_180_Degree_in-Line-2_445f3950-0d69-4477-b216-f8b42387e914.jpg?v=1623247091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            358.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be installed onto a wall or a square pole that is at least 7 inches in width.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Bullhorn with 3 arms in-line at 180-degree for LED Pole Light. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>3 Arms</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>Bullhorns</s:tag>
+    <s:tag>FX027</s:tag>
+    <s:tag>heavy duty steel</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metallic bronze finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>Slip Fitter</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251471391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">358.31</s:price>
+      <s:sku>BH-3ARM-180D</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251700767</id>
+    <published>2019-11-12T05:17:16-05:00</published>
+    <updated>2019-11-12T05:17:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/bullhorn-3-arms-120-degree"/>
+    <title>Bullhorn 3 Arms 120 Degree</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Bullhorn_3_Arms_120_Degree-2_3e764172-a9c5-424a-9c37-039f5920c430.jpg?v=1623247164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            358.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be installed onto a wall or a square pole that is at least 7 inches in width.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Bullhorn with 3 arms at 120-degree for LED Pole Light. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>3 Arms</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>90-degree tenon adapter</s:tag>
+    <s:tag>Bullhorns</s:tag>
+    <s:tag>FX029</s:tag>
+    <s:tag>heavy-duty steel</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metallic bronze finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Slip Fitter</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251700767</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">358.31</s:price>
+      <s:sku>120D-BH-3ARM</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705075467</id>
+    <published>2019-11-12T05:17:03-05:00</published>
+    <updated>2019-11-12T05:17:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/angled-wall-mount-tenon-bracket"/>
+    <title>Angled Wall Mount Tenon Bracket</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Angled_Wall_Mount_Tenon_Bracket-2_3eff8576-59a1-4478-b716-ee2689d405a5.jpg?v=1623247568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            112.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic black finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be installed onto a wall or a square pole that is at least 7 inches in width.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy 90-degree Angled Wall Mount Tenon Bracket for walls or square poles requiring slip-fitter/ Adjustable-mount LED Pole Light. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>90-degree tenon adapter</s:tag>
+    <s:tag>Angled Wall Mount</s:tag>
+    <s:tag>FX032</s:tag>
+    <s:tag>heavy-duty steel</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metalic black finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Slip Fitter</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Tenons</s:tag>
+    <s:tag>Wall Mount</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705075467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.61</s:price>
+      <s:sku>tenon-angle</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705075531</id>
+    <published>2019-11-12T05:17:01-05:00</published>
+    <updated>2019-11-12T05:17:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/always-on-photo-control-shorting-cap"/>
+    <title>Always ON Photo Control Shorting Cap</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Always_ON_Photo_Control_Shorting_Cap_grande_101aadca-9994-4fa2-9ced-bbbe01fb89db.jpg?v=1571708905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            20.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED lights with photocell sensors</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li>This accessory comes in handy if you do not wish to have dusk to dawn feature in pole lights or high bays function any further. The gasketed protective cap mounts on fixtures with locking-type receptacles when it is not desired to have lighting controlled by photo control.</li>
+<li>It disables the functioning of photocell sensors and keeps the lights ON at all times unless turned OFF from a remote location. It further protects the fixture from water and dust.</li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED pole lights</li>
+<li>LED flood lights</li>
+<li>LED high bay lights</li>
+</ul>
+<p> </p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>Fixture Accessories</s:tag>
+    <s:tag>FX033</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Phone Support</s:tag>
+    <s:tag>Protective cap mounts</s:tag>
+    <s:tag>Sensors And Dimmers Menu</s:tag>
+    <s:tag>Shorting Cap</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705075531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.46</s:price>
+      <s:sku>short-circuiting</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/420624433183</id>
+    <published>2019-11-12T05:16:49-05:00</published>
+    <updated>2019-11-12T05:16:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/6ft-power-cord-for-integrated-tubes"/>
+    <title>6FT Power Cord For Integrated Tubes</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2020_09_24T20_53_25_905Z.png?v=1601329468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            12.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 6ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED integrated tubes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>cETL &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+*Certifications that set guidelines for SSL usage in Canada.<br>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">6ft power cord for LED integrated tubes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using this 6ft power cord, you can connect the LED integrated tube light where it is needed the most.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED integrated tube lights</li>
+</ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>6 Feet</s:tag>
+    <s:tag>6 ft</s:tag>
+    <s:tag>6FT Power Cord</s:tag>
+    <s:tag>6FT Power Cord For Integrated Tubes</s:tag>
+    <s:tag>6FT Power Cord for tubes</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FX010</s:tag>
+    <s:tag>Integrated tubes power cord</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED Integrated Tubes</s:tag>
+    <s:tag>power cord</s:tag>
+    <s:tag>Power Cord For Integrated Tubes</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420624433183</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.64</s:price>
+      <s:sku>6ft-Power-cord</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/420624367647</id>
+    <published>2019-11-12T05:16:47-05:00</published>
+    <updated>2019-11-12T05:16:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/6ft-integrated-connecting-cable"/>
+    <title>6FT Integrated connecting cable</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/6ft_connecting_cable_image-03_bfce12dc-277a-4a60-ba62-c485560bbcf2.jpg?v=1571708909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            10.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 6ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED integrated tubes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>cETL &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+<p>*Certifications that set guidelines for SSL usage in Canada.</p>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Looking to connect LED Integrated Tubes in a row but wish for them to expand more, leaving space between the fixtures?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">6ft Integrated connecting cables by LEDMyPlace Canada come with a male connector on one side and female connector on the other.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using this, you can easily connect LED integrated tubes- each at a distance of 6ft in a row, thus better covering a vast indoor space with uniform lighting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can connect up to 8 4ft integrated tubes and 3 8ft integrated tubes per power line.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED integrated tube lights</li>
+</ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 per</s:tag>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>6 Feet</s:tag>
+    <s:tag>6 ft</s:tag>
+    <s:tag>6FT Integrated connecting cable</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Connecting Cable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FX009</s:tag>
+    <s:tag>Integrated connecting cable</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED lighting</s:tag>
+    <s:tag>LED Lights</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420624367647</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.22</s:price>
+      <s:sku>con-cable-6ft</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251373087</id>
+    <published>2019-11-12T05:16:39-05:00</published>
+    <updated>2019-11-12T05:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/5ft-high-bay-led-connecting-cable"/>
+    <title>5FT high bay LED Connecting Cable</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/5FT_high_bay_LED_Connecting_Cable-2_014d77eb-b5a7-497b-8a5f-7624466a63c6.jpg?v=1571708908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            38.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 5ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED high bays</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>UL, CE, &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+<p>*Certifications that set guidelines for SSL usage in Canada.</p>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">5ft connecting cable for LED high bay lights. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">LED high bay lights</span></p>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 per</s:tag>
+    <s:tag>5 Ft</s:tag>
+    <s:tag>5 FT high bay LED Connecting Cable</s:tag>
+    <s:tag>5FT high bay LED Connecting Cable</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>Connecting Cable</s:tag>
+    <s:tag>FX025</s:tag>
+    <s:tag>high bay</s:tag>
+    <s:tag>high bay LED cable</s:tag>
+    <s:tag>highbay cable</s:tag>
+    <s:tag>LED  High Bay</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED high bay cable</s:tag>
+    <s:tag>LED lighting</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251373087</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.98</s:price>
+      <s:sku>highbay-con-cable</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705077707</id>
+    <published>2019-11-12T05:16:34-05:00</published>
+    <updated>2019-11-12T05:16:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/60w-integrated-connecting-cable"/>
+    <title>3ft Connecting Cable Only for 10W , 22W &amp; 60W Integrated Tube Only</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/3ft_connecting_cable_image-1.jpg?v=1571708905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            5.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 3ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED integrated tubes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>cETL &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+*Certifications that set guidelines for SSL usage in Canada.<br>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Looking to connect LED Integrated Tubes in a row but wish for them to expand more, leaving space between the fixtures?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">3ft Integrated connecting cables by LEDMyPlace Canada come with a male connector on one side and female connector on the other.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using this, you can easily connect LED integrated tubes- each at a distance of 3ft in a row, thus better covering a vast indoor space with uniform lighting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can connect up to 8 4ft integrated tubes and 3 8ft integrated tubes per power line.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED integrated tube lights</li>
+</ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>3 ft</s:tag>
+    <s:tag>3FT Integrated Connecting Cable</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Connecting Cable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FX034</s:tag>
+    <s:tag>LED Fixture</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705077707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.13</s:price>
+      <s:sku>con-cable-3ft-60w</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297244065823</id>
+    <published>2019-11-12T05:16:33-05:00</published>
+    <updated>2019-11-12T05:16:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/360-3-step-dimming-motion-daylight-sensor-for-ufo-high-bay-49ft-max-height"/>
+    <title>360° 3 Step Dimming Motion &amp; Daylight Sensor for UFO High bay - 49ft max height</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/UFO-highbay-sensor-1_black.jpg?v=1571708907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            81.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To be used with 0-10V dimmable LED drivers or ballasts for automatic dimming.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">IP65-rated*</span></li>
+<li style="font-weight: 400;">
+<b>cUL &amp; FCC</b><span style="font-weight: 400;">** approved</span>
+</li>
+</ul>
+<h2></h2>
+<p><span style="font-weight: 400;">*IP65 rated products are suitable for use in damp locations.</span></p>
+<p><span style="font-weight: 400;">**Certifications that set guidelines for SSL usage in Canada</span></p>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are you worried about the high bay lights at your warehouse or garage remaining ON even when it is not required? You can now automate this process and instead focus on tasks that require your attention the most.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">360-degree 3-step dimming motion &amp; daylight sensor for UFO LED high bay light helps automate the process so energy-consumption can be reduced and you can ultimately save more money on lighting bills.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It can detect motion within the range of 15m diameter when the mounting height is no more than 49ft. Once you walk into the said peripheral area, the lights basically light up and only dim gradually before completely turning OFF if there’s no motion detected.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The sensors easily detect moving objects within a 2,500 sq.ft. area. They also double-up as dusk-to-dawn sensors where they light up when it is dark and turn OFF otherwise.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You can sure save a lot of money having this sensor installed along with LED UFO high bay lights at work.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED UFO high bay lights</li>
+</ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 per</s:tag>
+    <s:tag>3 Step Dimming</s:tag>
+    <s:tag>49ft max height</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>daylight sensor</s:tag>
+    <s:tag>Daylight Sensor for UFO High bay</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>FX011</s:tag>
+    <s:tag>IP65 Waterproof Rating</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>motion sensor</s:tag>
+    <s:tag>outdoor LED Light Accessories</s:tag>
+    <s:tag>Sensors And Dimmers Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Suitable for Wet Locations</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297244065823</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.88</s:price>
+      <s:sku>UFOHB-MC054V-RCA</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013212115033</id>
+    <published>2019-08-23T12:15:20-04:00</published>
+    <updated>2019-08-23T12:15:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/3ft-integrated-connecting-cable-only-for-30-watt-integrated-tube"/>
+    <title>3FT Integrated Connecting Cable Only For 30 Watt Integrated Tube</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/30w_integrated_cable-2_grande_1_grande_047d0780-0a16-42c5-8607-5c482b2067a0.jpg?v=1571708976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            5.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Features:</h1>
+<ul>
+<li>US BASED FACTORY DIRECT Pricing; NOTE : REMOVE THE BALLAST OR IT WILL BLOW OFF THE BULB , THESE BULBS DONT NEED BALLAST JUST DIRECT WIRE THESE. Only connect these 4 in a row. </li>
+<li>ETL,CE, ROHS Approved  .</li>
+<li>FOR INTEGRATED TUBES </li>
+<li>Eligible for rebates with SOME of the elctric companies (we can help with paperwork also ) ,</li>
+<li>SPECIAL CONTRACTOR &amp; DISTRIBUTOR PRICING AVAILABLE ; 24/7 Phone Support ; US based Factory Direct Pricing ; 2 years no hassle warranty</li>
+</ul>
+<h1>Overview:</h1>
+<ul>
+<li>Easy Installation,</li>
+<li>Applications: ,</li>
+<li>Widely used in supermarkets, offices , convenience stores , gas stations , warehouse, shops , hotels , motels ,etc.</li>
+<li>Benefits: ,</li>
+<li>LED lighting uses significantly fewer Watts (W) than conventional lighting. But that's not the only Savings you enjoy when selecting LED lighting. ,</li>
+<li>Conventional bulbs have a shorter operating lifetime compared to LED lighting. If you are using conventional bulbs you will be purchasing up to four times as many bulbs or fixtures compared to a single LED replacement with a long operating lifetime. ,</li>
+<li>Buying and using conventional bulbs and fixtures also means that you incur three times more maintenance as well as replacement costs compared to LED lighting. ,</li>
+<li>Just think of the maintenance costs incurred getting to those hard to reach locations. ,</li>
+<li>LED lighting is also free of environmentally harmful Mercury as well as Halogen chemicals. ,</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 per</s:tag>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>3FT Integrated Connecting Cable</s:tag>
+    <s:tag>Cable Only For 30 Watt</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>connect 4 in a row</s:tag>
+    <s:tag>Easy Installation</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FOR INTEGRATED TUBES</s:tag>
+    <s:tag>FX007</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013212115033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.03</s:price>
+      <s:sku>30w-con-cable</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013212082265</id>
+    <published>2019-04-09T14:02:38-04:00</published>
+    <updated>2019-04-09T14:02:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/meanwell-driver-hlg-150h48a-ledmyplace"/>
+    <title>Meanwell Driver HLG-150h48A</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2021_08_13T19_15_54_738Z.png?v=1628882238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            95.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;">HLG-150H series is an LED driver of 150W AC/DC featuring constant voltage and constant current output. HLG-150H operates from 90～305VAC and provides versions with different rated voltage varying between 12V and 54V. The entire series will run for -40°C to +90°C case temperature under free air convection thanks to its high efficiency of up to 94 percent and fanless design. The metal housing architecture and IP67/IP65 intake safety level make this series suitable for indoor and outdoor use. HLG-150H has various feature choices, such as dimming methodologies, to give LED lighting systems the most design versatility.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>FX004</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Meanwell Driver</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013212082265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.55</s:price>
+      <s:sku>HLG-150h48A-meanwell</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251340319</id>
+    <published>2017-11-07T14:54:54-05:00</published>
+    <updated>2017-11-07T14:54:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/photocell-sensor"/>
+    <title>Photocell Sensor</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/photocell_sensor2.jpg?v=1628882479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            20.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED pole lights</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Time delay of 3-20 seconds</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It is always nice to have added layer of security outside the building in the form of lighting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Having LED pole lights with Photocell Sensors helps lower energy consumption, helping you save your precious money every billing cycle.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">This dusk to dawn feature detects the darkness and automatically lights up when the sun goes down or the weather turns dark.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED pole lights</li>
+</ul>
+<br><br> <!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>FX024</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED lighting</s:tag>
+    <s:tag>photocell sensor</s:tag>
+    <s:tag>Sensors And Dimmers Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251340319</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.46</s:price>
+      <s:sku>phot-sensor</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251209247</id>
+    <published>2017-11-07T14:54:48-05:00</published>
+    <updated>2017-11-07T14:54:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/low-profile-bullhorn-with-2-arms"/>
+    <title>Low profile bullhorn with 2 arms</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Low_profile_bullhorn_with_2_arms-2_1aded222-35a1-4c04-8151-0fa1df1b1349.jpg?v=1623247007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            235.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be installed onto a wall or a square pole that is at least 7 inches in width.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Bullhorn with 2 arms at 180-degree for LED Pole Light. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Arms</s:tag>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>90-degree tenon adapter</s:tag>
+    <s:tag>Bullhorns</s:tag>
+    <s:tag>FX023</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Low profile bullhorn</s:tag>
+    <s:tag>Metallic bronze finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>Slip Fitter</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>warranty.</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251209247</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">235.46</s:price>
+      <s:sku>SBK-BH-2ARM</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251110943</id>
+    <published>2017-11-07T14:54:47-05:00</published>
+    <updated>2017-11-07T14:54:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/low-profile-bullhorn-with-3-arms"/>
+    <title>Low profile bullhorn with 3 arms</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Low_profile_bullhorn_with_3_arms-2_6f4b1dd2-5837-4c34-af0b-9fae9c6fb979.jpg?v=1623246953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            337.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic bronze finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be installed onto a wall or a square pole that is at least 7 inches in width.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Bullhorn with 3 arms at 180-degree for LED Pole Light. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>3 Arms</s:tag>
+    <s:tag>90-degree tenon adapter</s:tag>
+    <s:tag>Bullhorns</s:tag>
+    <s:tag>FX022</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Low profile bullhorn</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>Slip Fitter</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>warranty.</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251110943</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">337.84</s:price>
+      <s:sku>SBK-BH-3ARM</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251078175</id>
+    <published>2017-11-07T14:54:46-05:00</published>
+    <updated>2017-11-07T14:54:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/tenon-adaptor-for-4-inch-round-poles"/>
+    <title>Tenon adaptor for 5 inch round poles</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Tenon_adaptor_for_4_inch_round_poles_68789989-ef5c-4e70-ad05-68b4fec979f1.jpg?v=1571708908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            133.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metallic black finish</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mounts inside of a 4-inch round pole</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports any slip-fitter with 2-3/8 in. I.D. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from heavy-duty steel for strength &amp; durability</span></li>
+</ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">Sturdy Tenon Adapter for vertically mounting a flood/ pole light fixture.</span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">Slip-fitter LED pole light/ LED flood light fixture (suitable for wood, metal, and concrete poles)</span></p>
+<ul></ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>FX021</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metalic black</s:tag>
+    <s:tag>mount adapter</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>tenon adapter</s:tag>
+    <s:tag>Tenon Adaptor</s:tag>
+    <s:tag>Tenons</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251078175</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">133.09</s:price>
+      <s:sku>tenon-pol-round-5&quot;</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297250979871</id>
+    <published>2017-11-07T14:54:43-05:00</published>
+    <updated>2017-11-07T14:54:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/tenon-adaptor-for-4-inch-square-poles"/>
+    <title>Tenon adaptor for 4 inch square poles</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2020_02_13T15_25_36_071Z.png?v=1627677667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            112.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h2>Features:</h2>
+<ul>
+<li>Convert any 4-inch square pole to a 2 3/8-inch tenon by using our tenon adaptor for 4-inch square poles.</li>
+<li>Made from heavy-duty steel.</li>
+<li>Will be mounted inside of the pole.</li>
+<li>Suitable to be mounted on concrete, wood, or steel square poles.</li>
+<li><strong>Mounting: 2-3/8 in. I.D. Slip Fitter/4 in. Square Pole</strong></li>
+<li>Metallic Bronze Finish.</li>
+<li>SPECIAL DISCOUNTS For CONTRACTORS &amp; DISTRIBUTORS; 24/7 Support on call; US-based Factory; Direct Factory Pricing; 5 years warranty without hassles.</li>
+</ul>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 per led</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>FX020</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>Metallic Bronze</s:tag>
+    <s:tag>Metallic bronze finish</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Tenon Adaptor</s:tag>
+    <s:tag>Tenons</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297250979871</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.61</s:price>
+      <s:sku>tenon-pol-sq-4&quot;</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297250619423</id>
+    <published>2017-11-07T14:54:32-05:00</published>
+    <updated>2017-11-07T14:54:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-panel-2x2-surface-mount-kit"/>
+    <title>Led Panel 2X2 Surface Mount Kit</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2021_02_23T16_23_39_358Z.png?v=1614103155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            41.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fit for 2X2 LED panel lights</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Made of aluminum for strength &amp; durability</span></li>
+</ul>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">LED Panel Surface Mount Kit is designed to help easily install 2x2 LED panel on any flat surface. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">LED Panel Light fixture</span></p>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 x 2</s:tag>
+    <s:tag>45w</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>for 2 x 2 led panel</s:tag>
+    <s:tag>FX016</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED Panel Mount Kit</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Surface Mount Kit</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297250619423</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.89</s:price>
+      <s:sku>2x2-SMK</s:sku>
+      <s:grams>13998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297250455583</id>
+    <published>2017-11-07T14:54:27-05:00</published>
+    <updated>2017-11-07T14:54:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-panel-2x4-surface-mount-kit"/>
+    <title>LED Panel 2X4 Surface Mount Kit</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2021_02_23T16_20_19_121Z.png?v=1623246694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            105.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fit for 2X4 LED panel lights</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Made of aluminum for strength &amp; durability</span></li>
+</ul>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">LED Panel Surface Mount Kit is designed to help easily install 2x4 LED panel on any flat surface. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">LED Panel Light fixture</span></p>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 x 4</s:tag>
+    <s:tag>20 per led</s:tag>
+    <s:tag>45w</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>FX015</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>led panel Surface Mount Kit</s:tag>
+    <s:tag>Mercury Free</s:tag>
+    <s:tag>Mounting Accessories Menu</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Surface Mount Kit</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297250455583</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.10</s:price>
+      <s:sku>2x4-SMK</s:sku>
+      <s:grams>13998</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/step-lights.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-10-08T17:26:26-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732055650393</id>
+    <published>2020-10-08T17:26:26-04:00</published>
+    <updated>2020-10-08T17:26:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/indoor-outdoor-led-step-lights"/>
+    <title>Indoor/Outdoor LED Step Lights, 3W, 3000K (Warm White), 120lm, ETL Listed - Wet Location, LED Stair Light</title>
+    <s:type>LED Step Light</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/ledstairlightblack_1024x1024_2x_d026d316-eb90-4471-911c-fb379043f282.jpg?v=1624909995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>LED Step Light<br>
+        <strong>Price: </strong>
+            35.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Add an inviting glow to your space and improve your stairway's safety by illuminating it with LED Step Lights. Install step lights to enhance your landscape view and amplify your deck lighting during the entertainment. Step light offered by LEDMyplace is 3 watts that get operated on the power supply of 120 Volt. It delivers the lumen output of 40 lumens per watt. This is the ETL certified lighting fixture which is the best possible outdoor LED step lights and is also perfect for the damp location. The lighting fixture has a CCT of 300K, and this is why it renders a warm-toned white light. The high CRI increases visibility and makes walking very convenient and easy; it comes with three years of manufacturing warranty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Lumens</s:tag>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>3000K (Warm White)</s:tag>
+    <s:tag>50000 Life Hours</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Acrylic LED Outdoor Step Lights</s:tag>
+    <s:tag>Acrylic Outdoor Step Lights</s:tag>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>ALUMINUM+ACRYLIC</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>CRI 80</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL - Wet Location</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>LED Outdoor Step Lights</s:tag>
+    <s:tag>LED Step Light</s:tag>
+    <s:tag>Outdoor Step Lights</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS024</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Textured</s:tag>
+    <s:tag>Textured Black</s:tag>
+    <s:tag>TEXTURED WHITE</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732055650393</id>
+      <title>Textured Black</title>
+      <s:price currency="CAD">35.01</s:price>
+      <s:sku>IVA-ST003B-30BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732055650393</id>
+      <title>Textured White</title>
+      <s:price currency="CAD">35.01</s:price>
+      <s:sku>IVA-ST003B-30WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

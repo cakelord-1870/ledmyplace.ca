@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-solar-street-lights.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2018-12-18T11:30:18-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925524979801</id>
+    <published>2018-12-18T11:30:18-05:00</published>
+    <updated>2018-12-18T11:30:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-solar-street-light-set-60w-w-110w-solar-panel-6000k"/>
+    <title>LED Solar Street Light Set ; 60W w/ 110W Solar Panel ; 6000K</title>
+    <s:type>LED Solar Lights</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/street_light-002_c25ae81f-489b-4eb2-9ab0-aa7402adee9d.jpg?v=1571708939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Solar Lights<br>
+        <strong>Price: </strong>
+            1143.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>6000K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>IP65</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>LED Solar Lights</s:tag>
+    <s:tag>LED Solar Street Lights Menu</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>SL003</s:tag>
+    <s:tag>Slip Fitter Mount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925524979801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1143.98</s:price>
+      <s:sku>WEN-U60W-A</s:sku>
+      <s:grams>17463</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925524783193</id>
+    <published>2018-12-18T11:30:06-05:00</published>
+    <updated>2018-12-18T11:30:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-solar-street-light-set-40w-w-90w-solar-panel-6000k"/>
+    <title>LED Solar Street Light Set ; 40W w/ 90W Solar Panel ; 6000K</title>
+    <s:type>LED Solar Lights</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/street_light-002_541e2faf-ee06-42ae-9533-56e3e90a9ff3.jpg?v=1571708938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Solar Lights<br>
+        <strong>Price: </strong>
+            998.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>40W Box measures = 33x11x14x37lb 90W Panel measures = 37x3x29x26.5lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>40 Watt</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>6000K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>LED Solar Lights</s:tag>
+    <s:tag>LED Solar Street Lights Menu</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>SL004</s:tag>
+    <s:tag>Slip Fitter Mount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925524783193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">998.38</s:price>
+      <s:sku>WEN-U40W-A</s:sku>
+      <s:grams>16783</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925524553817</id>
+    <published>2018-12-18T11:29:55-05:00</published>
+    <updated>2018-12-18T11:29:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-solar-street-light-set-20w-w-50w-solar-panel-6000k"/>
+    <title>LED Solar Street Light Set ; 20W w/ 50W Solar Panel ; 6000K</title>
+    <s:type>LED Solar Lights</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/street_light-002.jpg?v=1571708938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Solar Lights<br>
+        <strong>Price: </strong>
+            790.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solar LED Lights are the best Lightings for sustainable development. These solar lights are of 20 Watt that gets operated on an AC input of 120-227 Volts. It delivers 2500 lumens with CCT of 6000K that are highly energy-efficient and are perfect for illuminating outdoor spaces. These LED Solar Lights are available in two mounts: Yoke mount and slip fitter mount. This long-lasting fixture meets the industry-standard IP65 rating and works for 50,000 operational hours. These Solar LED Lights are becoming the icing on the cake in the lighting world, transforming the future of LED Lightings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 Watt</s:tag>
+    <s:tag>2500 Lumens</s:tag>
+    <s:tag>6000K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>LED Solar Lights</s:tag>
+    <s:tag>LED Solar Street Lights Menu</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>SL005</s:tag>
+    <s:tag>Slip Fitter Mount</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925524553817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">790.38</s:price>
+      <s:sku>WEN-U20W-A</s:sku>
+      <s:grams>16103</s:grams>
+    </s:variant>
+  </entry>
+</feed>

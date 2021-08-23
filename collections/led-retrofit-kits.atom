@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-retrofit-kits.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2017-08-03T14:12:53-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705090507</id>
+    <published>2017-08-03T14:12:53-04:00</published>
+    <updated>2017-08-03T14:12:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/150w-retrofit-kit-120-277-volt"/>
+    <title>150W LED Retrofit Kit Light, 5700 Kelvin, 525 Watt Equivalent, 20000 Lumens, Commercial Lighting - Parking Lot Retrofit Lights</title>
+    <s:type>LED Retrofit Kits</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Retrofit_Kit_150W_5700K-2_8129bfe6-4502-4bc3-b8e4-04550741c0c5.jpg?v=1617221768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Retrofit Kits<br>
+        <strong>Price: </strong>
+            409.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Retrofit Kits are the best replacement for metal halides and are ideal lighting for commercial and security lighting applications that look for an extended period as its quality lighting.  These light fixtures are designed to endure and function in a voltage ranging between 120-277V. With a lumen output of 20000 Lumens, these LED Retrofit Light Fixtures can easily replace 525W fluorescents. These retrofit kits come with a color temperature of 5700k and are rebate eligible, which means you will get some money back in the purchase. It's a UL and DLC certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This LED Retrofit Kit is a complete lighting fixture in itself that is highly durable and cost-efficient.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>150W Retrofit Kit Menu</s:tag>
+    <s:tag>20000 Lumens</s:tag>
+    <s:tag>525W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 525Watt</s:tag>
+    <s:tag>RF002</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shoebox Retrofit</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705090507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.48</s:price>
+      <s:sku>WEN-RKPUS-150WD2</s:sku>
+      <s:grams>9498</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705090315</id>
+    <published>2017-08-03T14:12:47-04:00</published>
+    <updated>2017-08-03T14:12:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/300-watt-retrofit-kit-120-277-volt"/>
+    <title>300 Watt LED Retrofit Kit Light, 5700 Kelvin, 1050W Replacement, 40000lm, MEANWELL Driver, LED Shoebox Retrofit Light - Eco-Friendly Lighting</title>
+    <s:type>LED Retrofit Kits</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Retrofit_Kit_300W_5700K-2_2d38f5b6-1f39-49f9-9eaf-550a2f0c3d0d.jpg?v=1617642718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Retrofit Kits<br>
+        <strong>Price: </strong>
+            767.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Retrofit Kits are the best replacement for metal halides and are ideal lighting for commercial and security lighting applications that look for an extended period as its quality lighting. These light fixtures are designed to endure and function in a voltage ranging between 120-277V. With a lumen output of 40000 Lumens, these LED Retrofit Light Fixtures can easily replace 1050W fluorescents. These retrofit kits come with a color temperature of 5700k and are rebate eligible, which means you will get some money back in the purchase. It's a UL and DLC certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This LED Retrofit Kit is a complete lighting fixture in itself that is highly durable and cost-efficient.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1050W Eq.</s:tag>
+    <s:tag>300 Watt</s:tag>
+    <s:tag>300W Retrofit Kit Menu</s:tag>
+    <s:tag>40000 Lumens</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>cULus</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 1050 Watt</s:tag>
+    <s:tag>RF001</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shoebox Retrofit</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705090315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">767.81</s:price>
+      <s:sku>WEN-RKPUS-300WD2</s:sku>
+      <s:grams>9498</s:grams>
+    </s:variant>
+  </entry>
+</feed>

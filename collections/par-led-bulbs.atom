@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/par-led-bulbs.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:18:10-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902186463321</id>
+    <published>2019-11-12T05:18:10-05:00</published>
+    <updated>2019-11-12T05:18:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/par30-led-long-neck-light-bulbs-12-watt-45-watt-equivalent-cri-90plus-5000k"/>
+    <title>PAR30 LED Long Neck Light Bulbs - 12 Watt - 45 Watt Equivalent - High CRI 90+ 5000K - Day Light White</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL015_1024x1024_2x_1024x1024_2x_09f3035b-d062-4349-9457-2f756ebe8229.jpg?v=1619120607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            70.08 - 700.60
+            <a href="https://ledmyplace.ca/products/par30-led-long-neck-light-bulbs-12-watt-45-watt-equivalent-cri-90plus-5000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light bulbs are standard among interior designers and home decorators. These bulbs are mostly used in showrooms, retail stores, and track lights, etc. These 12W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 800 Lumens, these LED Light Bulb Fixtures can easily replace 45W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly durable and very cost-effective.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Watt</s:tag>
+    <s:tag>120-277 V</s:tag>
+    <s:tag>45W Eq.</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>800 Lumens</s:tag>
+    <s:tag>90 CRI</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL013</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 45 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186463321</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">70.08</s:price>
+      <s:sku>WEN-PAR30-12W-5K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186463321</id>
+      <title>72-Pack</title>
+      <s:price currency="CAD">700.60</s:price>
+      <s:sku>WEN-PAR30-12W-5K.72pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902186233945</id>
+    <published>2019-11-12T05:18:07-05:00</published>
+    <updated>2019-11-12T05:18:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/par30-led-long-neck-light-bulbs-12-watt-75-watt-equivalent-3000k-cri-90"/>
+    <title>PAR30 LED Long Neck Light Bulbs - 12 Watt - 45 Watt Equivalent - 3000K - Warm White High CRI 90+</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL015_1024x1024_2x_43b33554-c344-4d60-9b2c-a64de3e868ed.jpg?v=1619120872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            70.08 - 700.60
+            <a href="https://ledmyplace.ca/products/par30-led-long-neck-light-bulbs-12-watt-75-watt-equivalent-3000k-cri-90">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: E26. These lights can lighten up the home and office environment. These 12W LED Light Bulbs come in several varieties with a CCT of 3000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 800 Lumens, these LED Light Bulb Fixtures can easily replace 45W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Watt</s:tag>
+    <s:tag>120-277 V</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>45W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>800 Lumens</s:tag>
+    <s:tag>90 CRI</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL015</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 45 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186233945</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">70.08</s:price>
+      <s:sku>WEN-PAR30-12W-3K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186233945</id>
+      <title>72-Pack</title>
+      <s:price currency="CAD">700.60</s:price>
+      <s:sku>WEN-PAR30-12W-3K.72pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902187282521</id>
+    <published>2019-06-21T10:46:27-04:00</published>
+    <updated>2019-06-21T10:46:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/par38-led-light-bulbs-1200lumens-high-cri-16-5-watt-3000k"/>
+    <title>PAR38 - LED Light Bulbs - Light Bulbs - 1200Lumens High CRI - 16.5 Watt 3000K</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL007_1024x1024_2x_21411848-d507-4ec4-9070-322a15b8ef46.jpg?v=1619120214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            87.63 - 665.99
+            <a href="https://ledmyplace.ca/products/par38-led-light-bulbs-1200lumens-high-cri-16-5-watt-3000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: E26. These lights can lighten up the home and office environment. These 16.5W LED Light Bulbs come in several varieties with a CCT of 3000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 1200 Lumens, these LED Light Bulb Fixtures can easily replace 60W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1200 Lumens</s:tag>
+    <s:tag>16.5 Watt</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>60W Eq.</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL007</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>E26</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Bulb E26 Base</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 60W</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902187282521</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">87.63</s:price>
+      <s:sku>WEN-PAR38-16.5W-3K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902187282521</id>
+      <title>48-Pack</title>
+      <s:price currency="CAD">665.99</s:price>
+      <s:sku>WEN-PAR38-16.5W-3K.48pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902187544665</id>
+    <published>2018-12-17T17:39:47-05:00</published>
+    <updated>2018-12-17T17:39:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/par38-led-bulbs-1200lm-16-5-watt-5000k-high-cri90"/>
+    <title>PAR38 LED Bulbs - 1200LM - 16.5 Watt 5000K - High CRI 90+</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL007_1024x1024_2x_2055da23-0c18-41c4-86d6-da420c803e6c.jpg?v=1619120123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            87.63 - 665.99
+            <a href="https://ledmyplace.ca/products/par38-led-bulbs-1200lm-16-5-watt-5000k-high-cri90">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light Bulbs are adaptable bulbs that are available in numerous designs, sizes, and bases. These lights are perfect for any indoor space, offered in base: E26. These 16.5W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 1200 Lumens, these LED Light Bulb Fixtures can easily replace 60W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. These lighting fixtures have a long lifespan and cost-efficiency.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1200 Lumens</s:tag>
+    <s:tag>16.5 Watt</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>60W Eq.</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL005</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 60 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902187544665</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">87.63</s:price>
+      <s:sku>WEN-PAR38-16.5W-5K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902187544665</id>
+      <title>48-Pack</title>
+      <s:price currency="CAD">665.99</s:price>
+      <s:sku>WEN-PAR38-16.5W-5K.48pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902186954841</id>
+    <published>2018-12-17T17:14:25-05:00</published>
+    <updated>2018-12-17T17:14:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/par30-led-bulb-5000k-shortneck-12-watt-45-watt-high-cri-90"/>
+    <title>PAR30 - LED BULB 5000K - Short Neck - 12 Watt - 45 Watt - Day Light White High CRI 90+</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL011_1024x1024_2x_28f3bfb5-73a7-4b93-a927-3e8930027f91.jpg?v=1619120304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            70.08 - 700.60
+            <a href="https://ledmyplace.ca/products/par30-led-bulb-5000k-shortneck-12-watt-45-watt-high-cri-90">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light bulbs are standard among interior designers and home decorators. These bulbs are mostly used in showrooms, retail stores, and track lights, etc. These 12W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 800 Lumens, these LED Light Bulb Fixtures can easily replace 45W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly durable and very cost-effective.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Watt</s:tag>
+    <s:tag>45W Eq.</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>800 Lumens</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL009</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>replace 45 watts</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186954841</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">70.08</s:price>
+      <s:sku>WEN-PAR30S-12W-5K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186954841</id>
+      <title>72-Pack</title>
+      <s:price currency="CAD">700.60</s:price>
+      <s:sku>WEN-PAR30S-12W-5K.72pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902186627161</id>
+    <published>2018-12-17T17:10:05-05:00</published>
+    <updated>2018-12-17T17:10:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/par30-light-bulbs-short-neck-12-watt-45-watt-equivalent-3000k-warm-white-high-cri90"/>
+    <title>PAR30 - LED Light Bulbs - Light Bulbs - Short Neck, 12 Watt - 45 Watt Equivalent - 3000K - Warm White - High CRI 90+</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL011_1024x1024_2x_6703ddec-3bcb-40fd-9c14-63fd95ff9407.jpg?v=1619120367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            70.08 - 700.60
+            <a href="https://ledmyplace.ca/products/par30-light-bulbs-short-neck-12-watt-45-watt-equivalent-3000k-warm-white-high-cri90">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: E26. These lights can lighten up the home and office environment. These 12W LED Light Bulbs come in several varieties with a CCT of 3000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 800 Lumens, these LED Light Bulb Fixtures can easily replace 45W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>45W Eq.</s:tag>
+    <s:tag>800 Lumens</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL011</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 45 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186627161</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">70.08</s:price>
+      <s:sku>WEN-PAR30S-12W-3K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902186627161</id>
+      <title>72-Pack</title>
+      <s:price currency="CAD">700.60</s:price>
+      <s:sku>WEN-PAR30S-12W-3K.72pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902185807961</id>
+    <published>2018-12-17T16:20:05-05:00</published>
+    <updated>2018-12-17T16:20:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/par20-led-light-bulb-5000k-8-watt-525-lumens"/>
+    <title>PAR20 LED Light Bulb - 5000K - 8 Watt 525 Lumens - High CRI 90+ E26 Base</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL018_1024x1024_2x_1024x1024_2x_16cf8461-d689-4176-b011-3dac16478651.jpg?v=1619120957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            40.83 - 839.59
+            <a href="https://ledmyplace.ca/products/par20-led-light-bulb-5000k-8-watt-525-lumens">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light Bulbs are adaptable bulbs that are available in numerous designs, sizes, and bases. These lights are perfect for any indoor space, offered in base: E26. These 8W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 525 Lumens, these LED Light Bulb Fixtures can easily replace 30W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. These lighting fixtures have a long lifespan and cost-efficiency.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>525 Lumens</s:tag>
+    <s:tag>8 Watt</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL018</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 30 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902185807961</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">40.83</s:price>
+      <s:sku>WEN-PAR20-8W-5K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902185807961</id>
+      <title>144-Pack</title>
+      <s:price currency="CAD">839.59</s:price>
+      <s:sku>WEN-PAR20-8W-5K.144pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1902185480281</id>
+    <published>2018-12-17T16:15:26-05:00</published>
+    <updated>2018-12-17T16:15:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-light-bulb-par20-3000k-8-watt-525-lumens"/>
+    <title>LED Light Bulb PAR20 - 3000K - 8 Watt 500 Lumens High CRI 90+ Dimmable</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/BL018_1024x1024_2x_60fa28e0-256e-4986-b8b4-8541d5b1c748.jpg?v=1619121017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            40.83 - 839.59
+            <a href="https://ledmyplace.ca/products/led-light-bulb-par20-3000k-8-watt-525-lumens">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light Bulbs are adaptable bulbs that are available in numerous designs, sizes, and bases. These lights are perfect for any indoor space, offered in base: E26. These 8W LED Light Bulbs come in several varieties with a CCT of 3000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 500 Lumens, these LED Light Bulb Fixtures can easily replace 30W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. These lighting fixtures have a long lifespan and cost-efficiency.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3000K</s:tag>
+    <s:tag>30W Eq.</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>500 Lumens</s:tag>
+    <s:tag>8 Watt</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL020</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>PAR LED Bulbs</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 30 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902185480281</id>
+      <title>6-Pack</title>
+      <s:price currency="CAD">40.83</s:price>
+      <s:sku>WEN-PAR20-8W-3K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1902185480281</id>
+      <title>144-Pack</title>
+      <s:price currency="CAD">839.59</s:price>
+      <s:sku>WEN-PAR20-8W-3K.144pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

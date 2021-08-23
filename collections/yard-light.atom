@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/yard-light.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-01T17:43:10-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4287496487001</id>
+    <published>2019-11-01T17:43:10-04:00</published>
+    <updated>2019-11-01T17:43:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/dusk-to-dawn-security-area-light-with-photocell-70w"/>
+    <title>Dusk to Dawn Security Area Light with Photocell, 70W, 245W Equivalent, 5700K Bronze, 100-277V AC, Outdoor Wall Lighting</title>
+    <s:type>LED Pole Light</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_a7cb78ea-992a-41c0-ab77-b0623221e84f.jpg?v=1613491168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Pole Light<br>
+        <strong>Price: </strong>
+            99.43 - 395.83
+            <a href="https://ledmyplace.ca/products/dusk-to-dawn-security-area-light-with-photocell-70w">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yard lights come with inbuilt dusk to dawn sensors that will automatically switch your outdoor lights on or off for you, according to the lighting available. The sensor in these yard lights detects the absence of light and turns the light on automatically saving you both time and energy. This 70 Watt LED Yard light can replace a Non-LED that consumes 245 Watt, making it an ideal luminaire for your outdoor lighting needs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120-277 V</s:tag>
+    <s:tag>245W Eq.</s:tag>
+    <s:tag>5700 K</s:tag>
+    <s:tag>70 Watt</s:tag>
+    <s:tag>8471 Lumens</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>dusk to dawn light</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP 54</s:tag>
+    <s:tag>IP54 Rated</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Parking Lot Lights</s:tag>
+    <s:tag>LED Street Lights</s:tag>
+    <s:tag>Photocell</s:tag>
+    <s:tag>photocell sensor</s:tag>
+    <s:tag>PL081</s:tag>
+    <s:tag>Playground Lighting.</s:tag>
+    <s:tag>Replace 245 Watt</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>With Photocell</s:tag>
+    <s:tag>Yard Light</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4287496487001</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">99.43</s:price>
+      <s:sku>WEN-BL202D-70W-57K-T2-PCS.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4287496487001</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">395.83</s:price>
+      <s:sku>WEN-BL202D-70W-57K-T2-PCS.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4287495733337</id>
+    <published>2019-11-01T17:42:32-04:00</published>
+    <updated>2019-11-01T17:42:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/dusk-to-dawn-outdoor-led-lights-with-photocell-35w-5700k-bronze"/>
+    <title>35W Dusk To Dawn Outdoor LED Lights, 5700K Bronze, Photocell Outdoor Security Light</title>
+    <s:type>LED Pole Light</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_a7b27a50-6e1a-4458-87f4-27052c560a2f.jpg?v=1613489772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Pole Light<br>
+        <strong>Price: </strong>
+            68.23 - 265.18
+            <a href="https://ledmyplace.ca/products/dusk-to-dawn-outdoor-led-lights-with-photocell-35w-5700k-bronze">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dusk to Dawn Yard Light is an ideal lighting solution for retrofit or new construction, be it in residential, commercial, or industrial facilities these lights provide ample lighting with cost-efficient power consumption. These commercial-grade LED Street/yard Lights are UL/DLC listed making them safe and hazard-proof. Suitable for outdoor application these lights come with an IP65 rating accounting for water and dust resistance. LEDMyplace backyard lighting fixtures are superior luminaires that consume 80% lesser energy than metal halide or high-pressure sodium lights and provide a much higher lumen output. Our LED Dusk to dawn lights features an attractive modern/minimalist design and comes with a tested lifespan of 50,000 hours.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>125W Eq.</s:tag>
+    <s:tag>35 Watt</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Parking Lot Lights</s:tag>
+    <s:tag>LED Street Lights</s:tag>
+    <s:tag>PL082</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Replaces 125 Watt</s:tag>
+    <s:tag>Rohs compliment</s:tag>
+    <s:tag>Slip Fitter Mount</s:tag>
+    <s:tag>Slip Fitter Universal</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>With Photocell</s:tag>
+    <s:tag>WK10</s:tag>
+    <s:tag>Yard Light</s:tag>
+    <s:tag>Yard lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4287495733337</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">68.23</s:price>
+      <s:sku>WEN-BL201D-35W-57K-T1-PCS.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4287495733337</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">265.18</s:price>
+      <s:sku>WEN-BL201D-35W-57K-T1-PCS.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

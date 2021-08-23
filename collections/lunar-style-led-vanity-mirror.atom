@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/lunar-style-led-vanity-mirror.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-21T17:43:55-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4548239130713</id>
+    <published>2021-04-21T17:43:55-04:00</published>
+    <updated>2021-04-21T17:43:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/oval-led-light-bathroom-mirror-with-inbuilt-defogger-touch-switch"/>
+    <title>Oval - LED Light - Bathroom Mirror, Defogger and CCT Remembrance, Touch Switch, Lunar Style</title>
+    <s:type>LED Vanity Mirrors</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/oval_led_bathroom_mirror_24x32_1024x1024_2x_90191eab-4b6b-4844-b1de-ad389524a1c6.jpg?v=1619553979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Vanity Mirrors<br>
+        <strong>Price: </strong>
+            664.10 - 826.50
+            <a href="https://ledmyplace.ca/products/oval-led-light-bathroom-mirror-with-inbuilt-defogger-touch-switch">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Add an aesthetic by installing Front W36'' X H48 ' LED vanity mirror of Neu-U Style to your dark, dingy bathroom and transform it into an inviting space. The clean and futuristic appearance of LED Bathroom Mirrors makes them ideal for contemporary interiors. This mirror is featured with an inbuilt Defogger, touch switch control, CCT remembrance, and waterproof features. This is the ETL-listed LED vanity mirror that provides you with a clear, crisp, and flawless reflection and comes with  5 years manufacturer warranty.</span></p>
+<p>Defogger is the special feature of the LED Vanity Mirror that helps to remove the fog that gets collected on the mirror. It saves time for manually cleaning the mirror. The Defogger is not controlled through the switch on the mirror. The switch only controls the LED Light on the mirror to turn on and off or to change CCT. If you wish to switch the defogger off, you will have to turn the switch off or take the plug off of the outlet. The temperature of the defogger will always be 59-68 degrees more than the room temperature. To elaborate, let’s say if your room temperature is 59 degrees Fahrenheit then the temperature of the defogger would be 86-95 degrees Fahrenheit.<br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-120VAC</s:tag>
+    <s:tag>1845 Lumens</s:tag>
+    <s:tag>24x32 Inch</s:tag>
+    <s:tag>24x32 Inch Mirror Menu</s:tag>
+    <s:tag>24x36 Inch</s:tag>
+    <s:tag>24x36 Inch Mirror Menu</s:tag>
+    <s:tag>31 Watt</s:tag>
+    <s:tag>36x48 Inch</s:tag>
+    <s:tag>36x48 Inch Mirror Menu</s:tag>
+    <s:tag>Back Lit</s:tag>
+    <s:tag>CCT Remembrance</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Defogger</s:tag>
+    <s:tag>Lunar Style</s:tag>
+    <s:tag>MR020</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Touch Switch</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548239130713</id>
+      <title>24 X 32 Inch</title>
+      <s:price currency="CAD">718.00</s:price>
+      <s:sku>IVA-JAS1013-2436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548239130713</id>
+      <title>24 X 36 Inch</title>
+      <s:price currency="CAD">664.10</s:price>
+      <s:sku>IVA-JAS1012-2432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548239130713</id>
+      <title>36 X 48 Inch</title>
+      <s:price currency="CAD">826.50</s:price>
+      <s:sku>IVA-JAS1014-3648</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

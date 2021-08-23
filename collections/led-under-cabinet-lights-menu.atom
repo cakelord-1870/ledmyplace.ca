@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-under-cabinet-lights-menu.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-06-04T15:55:28-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105627050073</id>
+    <published>2019-06-04T15:55:28-04:00</published>
+    <updated>2019-06-04T15:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/120v-under-cabinet-lighting-color-changeable-cri90-white-direct-plug-in"/>
+    <title>120V, Under Cabinet Lighting, Color Changeable, CRI90, WHITE, Direct Plug-in, (3000K/4000K/5000K), LED Dimmable Under Cabinet Lights</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Pk00804Watt_1024x1024_2x_1.png?v=1618842142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            77.98 - 717.52
+            <a href="https://ledmyplace.ca/products/120v-under-cabinet-lighting-color-changeable-cri90-white-direct-plug-in">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layered lighting design crafted carefully acts as a significant component when renovating a kitchen. If you are designing your dream kitchen, then include a combination of ambient, accent, task, and decorative lighting. It is possible only by installing Under Cabinet LED Light in the Kitchen. The frosted Kitchen under cabinet light offered by LEDMyplace is awaiting to adorn your Kitchen and workplace's indoor spaces. This light fixture is easy to install and also provides interchangeable color temperatures. Therefore, switching between the warm, cool, and daylight-white color appearances will allow you to select and set the desired ambiance. The fixture comes with an inbuilt dimming feature and requires an external dimmer to control 0V to 10V. It is available in 4 to 20 wattage options that offer different lumen outputs. You can use it as a kitchen under-cabinet lighting fixture or in your reading nook and experience an enjoyable lighting ambiance. It operates on a low input voltage and comes with standard safety certifications. So, you can be sure about the energy savings and electrical safety with this lighting product. Furthermore, you can use it as an under cabinet lighting fixture or a plug-in type light by preference. Shop this long-lasting under cabinet light and prepare your eyes to witness an enjoyable ambiance lighting experience.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3000K/4000K/5000K Color Switchable</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Under Cabinet Lights Menu</s:tag>
+    <s:tag>PK008</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Title 24</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 9 Inch</title>
+      <s:price currency="CAD">77.98</s:price>
+      <s:sku>WEN-ALUC-9-C.1pk</s:sku>
+      <s:grams>853</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 14 Inch</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-ALUC-14-C.1pk</s:sku>
+      <s:grams>1052</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 22 Inch</title>
+      <s:price currency="CAD">116.98</s:price>
+      <s:sku>WEN-ALUC-22-C.1pk</s:sku>
+      <s:grams>1252</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 32 Inch</title>
+      <s:price currency="CAD">152.08</s:price>
+      <s:sku>WEN-ALUC-32-C.1pk</s:sku>
+      <s:grams>1524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 40 Inch</title>
+      <s:price currency="CAD">187.18</s:price>
+      <s:sku>WEN-ALUC-40-C.1pk</s:sku>
+      <s:grams>1774</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 9 Inch</title>
+      <s:price currency="CAD">280.72</s:price>
+      <s:sku>WEN-ALUC-9-C.4pk</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 14 Inch</title>
+      <s:price currency="CAD">358.72</s:price>
+      <s:sku>WEN-ALUC-14-C.4pk</s:sku>
+      <s:grams>4200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 22 Inch</title>
+      <s:price currency="CAD">436.72</s:price>
+      <s:sku>WEN-ALUC-22-C.4pk</s:sku>
+      <s:grams>4999</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 32 Inch</title>
+      <s:price currency="CAD">577.12</s:price>
+      <s:sku>WEN-ALUC-32-C.4pk</s:sku>
+      <s:grams>6101</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 40 Inch</title>
+      <s:price currency="CAD">717.52</s:price>
+      <s:sku>WEN-ALUC-40-C.4pk</s:sku>
+      <s:grams>7099</s:grams>
+    </s:variant>
+  </entry>
+</feed>

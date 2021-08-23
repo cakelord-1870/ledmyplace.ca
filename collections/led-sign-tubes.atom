@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-sign-tubes.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-03-08T13:37:15-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/6535723319385</id>
+    <published>2021-03-08T13:37:15-05:00</published>
+    <updated>2021-03-08T13:37:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/t8-led-sign-tubes-with-r17-base-ballast-bypass-rotatable-advertisement-lighting"/>
+    <title>T8 LED Sign Tubes with R17 Base, Ballast-Bypass &amp; Rotatable, Advertisement Lighting</title>
+    <s:type>LED Sign Tubes</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/ledsigntubesdoublesidetubelight.jpg?v=1626803013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Sign Tubes<br>
+        <strong>Price: </strong>
+            249.56 - 2889.90
+            <a href="https://ledmyplace.ca/products/t8-led-sign-tubes-with-r17-base-ballast-bypass-rotatable-advertisement-lighting">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">
+<span data-mce-fragment="1"><strong data-mce-fragment="1">360 Degree - T8 R17 Base LED Sign Tubes, led Outdoor Tubes for Double-Sided Signs 6500K Cool White Clear Cover</strong></span><span data-mce-fragment="1"> </span>
+</h2>
+<p data-mce-fragment="1">Available in different sizes and wattages these LED Sign Tubes are a perfect fit for replacing Non-LED retrofit fixtures like the conventional T12HO or T8HO fluorescent lamps used for sign applications. You can choose your best pick from a variety of sizes viz. 2ft, 4ft, 5ft, 6ft, 8ft, and, 10ft, all of which use R17D base style. These lights come in a lumen output range of 2340-7280 lumens providing cool white light having a CCT of 6500K. <br></p>
+<p data-mce-fragment="1">These LED SIgn tubes work without Ballast Ballast Bypass. fixtures, these LED lighting fixtures are a versatile replacement for your old fixtures. The light fixture comes with an ultra-wide-beam angle of 360 degrees and operates on an input voltage of AC100-277V. These double-ended LED tubes are rotatable and come in a clear transparent finish bringing about 75% of energy-savings.<br></p>
+<p data-mce-fragment="1">The lights pass through heavy testing to obtain IP68, and ETL listings making these lights both waterproof and hazard-free. On each purchase, you get a 5-year manufacturer's warranty and 50,000 hours of tested lifetime.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Feet</s:tag>
+    <s:tag>2 Feet</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>5 Feet</s:tag>
+    <s:tag>6 Feet</s:tag>
+    <s:tag>8 Feet</s:tag>
+    <s:tag>Ballast Bypass</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Double Ended Power Convenience Store Lighting</s:tag>
+    <s:tag>ETL</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>LED Sign Tube</s:tag>
+    <s:tag>LED Sign Tubes</s:tag>
+    <s:tag>LED Tube Light Fixtures</s:tag>
+    <s:tag>LED Tubes</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>R17 Base</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>SN001</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>2 Feet / 6 Pack</title>
+      <s:price currency="CAD">249.56</s:price>
+      <s:sku>WEN-T8-D2FT-18W-6500K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>2 Feet / 24 Pack</title>
+      <s:price currency="CAD">977.67</s:price>
+      <s:sku>WEN-T8-D2FT-18W-6500K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>4 Feet / 6 Pack</title>
+      <s:price currency="CAD">340.65</s:price>
+      <s:sku>WEN-T8-D4FT-28W-6500K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>4 Feet / 24 Pack</title>
+      <s:price currency="CAD">1333.55</s:price>
+      <s:sku>WEN-T8-D4FT-28W-6500K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>5 Feet / 6 Pack</title>
+      <s:price currency="CAD">397.10</s:price>
+      <s:sku>WEN-T8-D5FT-36W-6500K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>5 Feet / 24 Pack</title>
+      <s:price currency="CAD">1555.55</s:price>
+      <s:sku>WEN-T8-D5FT-36W-6500K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>6 Feet / 6 Pack</title>
+      <s:price currency="CAD">533.28</s:price>
+      <s:sku>WEN-T8-D6FT-40W-6500K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>6 Feet / 24 Pack</title>
+      <s:price currency="CAD">2089.75</s:price>
+      <s:sku>WEN-T8-D6FT-40W-6500K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>8 Feet / 6 Pack</title>
+      <s:price currency="CAD">590.34</s:price>
+      <s:sku>WEN-T8-D8FT-50W-6500K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>8 Feet / 24 Pack</title>
+      <s:price currency="CAD">2311.47</s:price>
+      <s:sku>WEN-T8-D8FT-50W-6500K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>10 Feet / 6 Pack</title>
+      <s:price currency="CAD">737.68</s:price>
+      <s:sku>WEN-T8-D10FT-56W-6500K.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/6535723319385</id>
+      <title>10 Feet / 24 Pack</title>
+      <s:price currency="CAD">2889.90</s:price>
+      <s:sku>WEN-T8-D10FT-56W-6500K.24pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

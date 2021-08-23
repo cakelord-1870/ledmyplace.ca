@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-linear-high-bay.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-08-12T13:21:02-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2107023523929</id>
+    <published>2021-08-12T13:21:02-04:00</published>
+    <updated>2021-08-12T13:21:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/105watt-2ft-led-linear-high-bay-light-5700kelvin"/>
+    <title>105W 2ft LED Linear High Bay Light, 370 Watt Replacement, 13545lm, Dimmable, UL, DLC</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2021_04_15T19_37_09_666Z.png?v=1623258513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            163.78 - 311.18
+            <a href="https://ledmyplace.ca/products/105watt-2ft-led-linear-high-bay-light-5700kelvin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 105W Linear High Bay Light is one of our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 13,545 lumens, this dimmable high bay light can provide you superior luminaire than 370W non-LED light while saving you 265W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 115 degrees. Can be easily hooked/mounted on any ceiling or surface.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>105 Watt</s:tag>
+    <s:tag>13545 Lumens</s:tag>
+    <s:tag>2 Feet</s:tag>
+    <s:tag>370W Eq.</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>High Ceiling Lights</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Warehouse Lighting</s:tag>
+    <s:tag>LH008</s:tag>
+    <s:tag>Linear</s:tag>
+    <s:tag>Linear high bay sensor</s:tag>
+    <s:tag>Replaces 370 Watt</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023523929</id>
+      <title>1-Pack / 4000K (Cool White)</title>
+      <s:price currency="CAD">163.78</s:price>
+      <s:sku>WEN-HB105DN-4000K.1PK</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023523929</id>
+      <title>1-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">163.78</s:price>
+      <s:sku>WEN-HB105DN-5000K.1PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023523929</id>
+      <title>2-Pack / 4000K (Cool White)</title>
+      <s:price currency="CAD">311.18</s:price>
+      <s:sku>WEN-HB105DN-4000K.2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023523929</id>
+      <title>2-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">311.18</s:price>
+      <s:sku>WEN-HB105DN-5000K.2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925424382041</id>
+    <published>2019-11-12T05:16:02-05:00</published>
+    <updated>2019-11-12T05:16:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/300w-led-linear-high-bay-light-5700k-clear-cover"/>
+    <title>300W LED Linear High Bay Light, 4ft - 5700K. Warehouse Lighting Clear Cover</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Untitled-1_0002_Layer5.jpg?v=1623258867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            362.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 300W Linear High Bay Light is our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 41,000 lumens, this dimmable high bay light can provide you superior luminaire than 1,050W non-LED light while saving you 750W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 110 degrees. Can be easily hooked/mounted on any ceiling or surface.</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1050W Eq.</s:tag>
+    <s:tag>300 Watt</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>41000 Lumens</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>High Ceiling Lights</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Warehouse Lighting</s:tag>
+    <s:tag>LH001</s:tag>
+    <s:tag>Replaces 1050 Watt</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925424382041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">362.68</s:price>
+      <s:sku>WEN-PHB03-300WSACAC1-WH57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925433327705</id>
+    <published>2019-11-12T05:15:45-05:00</published>
+    <updated>2019-11-12T05:15:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/url-220watt-led-linear-high-bay-light-5700kelvin"/>
+    <title>220W LED Linear High Bay Light, 5700K (Daylight White), Clear Cover, 30500lm, Dimmable, UL, DLC</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Untitled-1_0002_Layer1.jpg?v=1623257403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            280.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 220W Linear High Bay Light is our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 30,500 lumens, this dimmable high bay light can provide you superior luminaire than 780W non-LED light while saving you 560W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 110 degrees. Can be easily hooked/mounted on any ceiling or surface.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>220 Watt</s:tag>
+    <s:tag>30500 Lumens</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>780W Eq.</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>High Ceiling Lights</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Warehouse Lighting</s:tag>
+    <s:tag>LH002</s:tag>
+    <s:tag>Replaces 780 Watt</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925433327705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">280.78</s:price>
+      <s:sku>WEN-PHB03-220WRACP1C1-WH57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1924205412441</id>
+    <published>2019-11-12T05:15:40-05:00</published>
+    <updated>2019-11-12T05:15:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/165watt-led-linear-high-bay-light-5700kelvin"/>
+    <title>165W LED Linear High Bay Light, 5700K (Daylight White), 580 Watt Replacement, 23200lm, Dimmable, UL, DLC</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2x1_highway_Clear_Upadate_448b9436-600e-46df-9fd3-d268870d9bda.jpg?v=1623256981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            220.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 165W Linear High Bay Light is our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 23,200 lumens, this dimmable high bay light can provide you superior luminaire than 580W non-LED light while saving you 415W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 110 degrees. Can be easily hooked/mounted on any ceiling or surface.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>165 Watt</s:tag>
+    <s:tag>2 Feet</s:tag>
+    <s:tag>23200 Lumens</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>580W Eq.</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>High Ceiling Lights</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Warehouse Lighting</s:tag>
+    <s:tag>LH003</s:tag>
+    <s:tag>Replaces 580 Watt</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1924205412441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">220.33</s:price>
+      <s:sku>WEN-PHB03-165WRACP1C1-WH57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925424742489</id>
+    <published>2019-11-12T05:15:15-05:00</published>
+    <updated>2019-11-12T05:15:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/110watt-led-linear-high-bay-light-5700kelvin"/>
+    <title>110W LED Linear High Bay Light, 5700K (Daylight White), 400 Watt Replacement, 15700lm, Dimmable, UL, DLC</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2x1_highway_Clear_Upadate.jpg?v=1623256563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            163.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 110W Linear High Bay Light is our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 15,700 lumens, this dimmable high bay light can provide you superior luminaire than 400W non-LED light while saving you 290W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 110 degrees. Can be easily hooked/mounted on any ceiling or surface.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>110 Watt</s:tag>
+    <s:tag>15700 Lumens</s:tag>
+    <s:tag>2 Feet</s:tag>
+    <s:tag>400W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>High Ceiling Lights</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Warehouse Lighting</s:tag>
+    <s:tag>LH004</s:tag>
+    <s:tag>Replaces 400 Watt</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>WEN-PHB03-110WRACP1C1-WH57</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925424742489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">163.78</s:price>
+      <s:sku>WEN-PHB03-110WRACP1C1-WH57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2107023491161</id>
+    <published>2019-06-06T15:58:31-04:00</published>
+    <updated>2019-06-06T15:58:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/4ft-led-linear-high-bay-light-225w-30150-lumens-dimmable"/>
+    <title>4ft LED Linear High Bay Light, 225W, 800 Watt Replacement, 30150lm, Dimmable, UL, DLC Listed</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/4x1_Highway.jpg?v=1623258970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            284.68 - 540.00
+            <a href="https://ledmyplace.ca/products/4ft-led-linear-high-bay-light-225w-30150-lumens-dimmable">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 225W Linear High Bay Light is one of our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 30,150 lumens, this dimmable high bay light can provide you superior luminaire than 800W non-LED light while saving you 575W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 115 degrees. Can be easily hooked/mounted on any ceiling or surface.</p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>225 Watt</s:tag>
+    <s:tag>30150 Lumens</s:tag>
+    <s:tag>4 Feet</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>800W Eq.</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>LH005</s:tag>
+    <s:tag>Linear</s:tag>
+    <s:tag>Linear high bay sensor</s:tag>
+    <s:tag>Replaces 800 Watt</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023491161</id>
+      <title>1-Pack / 4000K (Cool White)</title>
+      <s:price currency="CAD">284.68</s:price>
+      <s:sku>WEN-HB225DN-4000K.1PK</s:sku>
+      <s:grams>13154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023491161</id>
+      <title>1-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">284.68</s:price>
+      <s:sku>WEN-HB225DN-5000K.1PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023491161</id>
+      <title>2-Pack / 4000K (Cool White)</title>
+      <s:price currency="CAD">540.00</s:price>
+      <s:sku>WEN-HB225DN-4000K.2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2107023491161</id>
+      <title>2-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">540.00</s:price>
+      <s:sku>WEN-HB225DN-5000K.2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297249243167</id>
+    <published>2018-12-18T08:56:31-05:00</published>
+    <updated>2018-12-18T08:56:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/165watt-2ft-led-linear-high-bay-light-4000kelvin"/>
+    <title>165W 2ft LED Linear High Bay Light, 4000K (Daylight White), 580 Watt Replacement, 21615lm, Dimmable, cUL, DLC</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2021_04_15T19_37_09_666Z_4e902971-85bc-4134-83c2-3998b794fbf5.png?v=1618521524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            220.33 - 418.63
+            <a href="https://ledmyplace.ca/products/165watt-2ft-led-linear-high-bay-light-4000kelvin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 165W Linear High Bay Light is one of our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 21,615 lumens, this dimmable high bay light can provide you superior luminaire than 580W non-LED light while saving you 415W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 115 degrees. Can be easily hooked/mounted on any ceiling or surface.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>165 Watt</s:tag>
+    <s:tag>2 Feet</s:tag>
+    <s:tag>21615 Lumens</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>580W Eq.</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>High Ceiling Lights</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Warehouse Lighting</s:tag>
+    <s:tag>LH007</s:tag>
+    <s:tag>Linear</s:tag>
+    <s:tag>Replaces 580 Watt</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297249243167</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">220.33</s:price>
+      <s:sku>WEN-HB165DN-4000K.1PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297249243167</id>
+      <title>2-Pack</title>
+      <s:price currency="CAD">418.63</s:price>
+      <s:sku>WEN-HB165DN-4000K.2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297248948255</id>
+    <published>2018-12-17T17:59:53-05:00</published>
+    <updated>2018-12-17T17:59:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/2ft-led-linear-high-bay-165w-5000k"/>
+    <title>2ft LED Linear High Bay Light, 165W- 5000K, Dimmable, Commercial LED Warehouse Lighting</title>
+    <s:type>LED Linear High Bay</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2021_04_15T19_37_09_666Z_7343277e-0e15-452d-99bb-e2ef681aa29b.png?v=1618521631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Linear High Bay<br>
+        <strong>Price: </strong>
+            220.33 - 418.63
+            <a href="https://ledmyplace.ca/products/2ft-led-linear-high-bay-165w-5000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 165W Linear High Bay Light is one of our best-selling product for warehouse area and high ceiling indoor lighting. Ideal lighting solution for an indoor ceiling with a height ranging between 15ft to 25ft. With a lumen output of up to 21,615 lumens, this dimmable high bay light can provide you superior luminaire than 580W non-LED light while saving you 415W of energy on each fixture. Its premium-grade lens is designed to achieve a beam angle of 115 degrees. Can be easily hooked/mounted on any ceiling or surface.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>165 Watt</s:tag>
+    <s:tag>2 Feet</s:tag>
+    <s:tag>21615 Lumens</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>580W Eq.</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>High Ceiling Lights</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Warehouse Lighting</s:tag>
+    <s:tag>LH006</s:tag>
+    <s:tag>Linear</s:tag>
+    <s:tag>Replaces 580 Watt</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297248948255</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">220.33</s:price>
+      <s:sku>WEN-HB165DN-5000K.1PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297248948255</id>
+      <title>2-Pack</title>
+      <s:price currency="CAD">418.63</s:price>
+      <s:sku>WEN-HB165DN-5000K.2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

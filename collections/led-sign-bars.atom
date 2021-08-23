@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-sign-bars.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-06-04T15:35:30-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105614368857</id>
+    <published>2019-06-04T15:35:30-04:00</published>
+    <updated>2019-06-04T15:35:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/8-pack-led-bar-9watt-3leds-bar-dc24v"/>
+    <title>8-Pack LED Sign Bar Light, 9W, 3LEDs/Bar, DC24V</title>
+    <s:type>LED Modules &amp; Sign Bars</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/4_7f6a2388-9f64-4871-a1d4-98ef82a591c5.jpg?v=1571708977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Modules &amp; Sign Bars<br>
+        <strong>Price: </strong>
+            262.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h2>Features of LED Bar - Pure White - 3 LED/Bar - 9W</h2>
+<ul>
+<li>Available Wattage: <strong>9W</strong>
+</li>
+<li>Color Temperature Available: 7000K</li>
+<li>Luminous Flux Available: 810 Lumens</li>
+<li>Beam angle: 15x45°</li>
+<li>Lifespan: 50,000 hours</li>
+<li>Voltage: 24V DC</li>
+<li>CRI &gt;75</li>
+<li>IP64 Rated</li>
+<li>Working Temp: -13°F to 140°F</li>
+<li>Dimension: 11.61x1.08x0.61 In</li>
+<li>UL, CE and RoHS certified.</li>
+<li>5 years of Manufacturer's Warranty</li>
+</ul>
+<br>
+<ul></ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24V DC</s:tag>
+    <s:tag>3 LED per Module</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>7000K</s:tag>
+    <s:tag>810 Lumens</s:tag>
+    <s:tag>9 Watt</s:tag>
+    <s:tag>Billboard Lighting</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>IP64 Rated</s:tag>
+    <s:tag>LED Sign Bar Menu</s:tag>
+    <s:tag>MD007</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105614368857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">262.08</s:price>
+      <s:sku>WEN-YX03DD1.8PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105614237785</id>
+    <published>2019-06-04T15:35:26-04:00</published>
+    <updated>2019-06-04T15:35:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/12-pcs-led-bars-cct-7000k-600lumens-6watt-bar"/>
+    <title>12 Pcs LED Bars, CCT 7000K, 600Lumens, 6Watt/bar</title>
+    <s:type>LED Modules &amp; Sign Bars</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/5_6849f2fe-fff2-460c-ba50-c8515f78a353.jpg?v=1612195240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Modules &amp; Sign Bars<br>
+        <strong>Price: </strong>
+            139.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h2>Features of LED Module - Pure White - 6 LED/Module -  6W</h2>
+<ul>
+<li>Available Wattage:<strong> 6W</strong>
+</li>
+<li>Color Temperature Available: <strong>7000K</strong>
+</li>
+<li>Luminous Flux Available:<strong> 600 Lumens</strong>
+</li>
+<li>Beam angle: <strong>160°</strong>
+</li>
+<li>Lifespan: <strong>30,000 hours</strong>
+</li>
+<li>Voltage: <strong>24V DC</strong>
+</li>
+<li>CRI <strong>&gt;75</strong>
+</li>
+<li>
+<strong>IP33</strong> Rated</li>
+<li>Working Temp: <strong>-13°F to 140°F</strong>
+</li>
+<li>Dimension: <strong>18.90x0.78x0.28 In</strong>
+</li>
+<li>
+<strong>UL, CE</strong> and <strong>RoHS</strong> certified.</li>
+<li>
+<strong>3 years</strong> of Manufacturer's Warranty</li>
+</ul>
+<br>
+<ul></ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24V DC</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>30000 hours Lifespan</s:tag>
+    <s:tag>6 LED per Module</s:tag>
+    <s:tag>6 Watt</s:tag>
+    <s:tag>600 Lumens</s:tag>
+    <s:tag>7000K</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>IP33 Rated</s:tag>
+    <s:tag>LED Sign Bar Menu</s:tag>
+    <s:tag>MD010</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105614237785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.23</s:price>
+      <s:sku>WEN-YE06LC1-48-80.12PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105614205017</id>
+    <published>2019-06-04T15:35:25-04:00</published>
+    <updated>2019-06-04T15:35:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/12-pcs-led-bar-light-heavy-duty-24-volt-dc-led-1200-lumens-7000k"/>
+    <title>12 Pcs LED Bar Light - Heavy Duty, 24 Volt DC LED, 12W/bar, 1200 Lumens, 7000K</title>
+    <s:type>LED Modules &amp; Sign Bars</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_7e4e46fa-b977-495d-a836-5ce6fcbf7e1f.jpg?v=1619217358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Modules &amp; Sign Bars<br>
+        <strong>Price: </strong>
+            221.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<h2>Features of LED Module - Pure White - 12 LED/Module - 12W</h2>
+<ul>
+<li>Available Wattage: 12W</li>
+<li>Color Temperature Available: 7000K</li>
+<li>Luminous Flux Available: 1200 Lumens</li>
+<li>Beam angle: 170°</li>
+<li>Lifespan: 30,000 hours</li>
+<li>Voltage: 24V DC</li>
+<li>CRI &gt;75</li>
+<li>IP33 Rated</li>
+<li>Working Tem. : -13°F to 140°F</li>
+<li>Dimension : 37.80x0.78x0.28 In</li>
+<li>UL, CE and RoHS certified.</li>
+<li>3 years of Manufacturer's Warranty</li>
+</ul>
+<ul></ul>
+<p><span style="font-weight: 400;">Certifications that set guidelines for SSL usage in Canada.</span></p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 LED per Module</s:tag>
+    <s:tag>12 Watt</s:tag>
+    <s:tag>1200 Lumens</s:tag>
+    <s:tag>24V DC</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>30000 hours Lifespan</s:tag>
+    <s:tag>7000K</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>IP33 Rated</s:tag>
+    <s:tag>LED Sign Bar Menu</s:tag>
+    <s:tag>MD011</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105614205017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">221.13</s:price>
+      <s:sku>WEN-YE12LC1-96-80.12PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105614008409</id>
+    <published>2019-06-04T15:35:18-04:00</published>
+    <updated>2019-06-04T15:35:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/8-pack-led-bar-15watt-5leds-bar-dc24v"/>
+    <title>8-Pack LED sign Bar lights, 15W, 5LEDS/bar, DC24V</title>
+    <s:type>LED Modules &amp; Sign Bars</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_7b1d3e88-50d4-4a31-b1b9-26efc1c4a6e0.jpg?v=1571708977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Modules &amp; Sign Bars<br>
+        <strong>Price: </strong>
+            376.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 data-mce-fragment="1">8-Pack LED Bar, 5leds/bar, DC24V, 15W</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Features of LED Bar - Pure White - 5 LED/Bar - 15W</li>
+<li data-mce-fragment="1">Available Wattage: 15W</li>
+<li data-mce-fragment="1">Color Temperature Available: 7000K</li>
+<li data-mce-fragment="1">Luminous Flux Available: 1350 Lumens</li>
+<li data-mce-fragment="1">Beam angle: 15x45Â°</li>
+<li data-mce-fragment="1">Lifespan: 50,000 hours</li>
+<li data-mce-fragment="1">Voltage: 24V DC</li>
+<li data-mce-fragment="1">CRI &amp;gt;75</li>
+<li data-mce-fragment="1">IP64 Rated</li>
+<li data-mce-fragment="1">Working Temp: -13Â°F to 140Â°F</li>
+<li data-mce-fragment="1">Dimension: 19.49x1.08x0.61 In</li>
+<li data-mce-fragment="1">UL, CE, and RoHS certified</li>
+<li data-mce-fragment="1">5 years of Manufacturer's Warranty</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1350 Lumens</s:tag>
+    <s:tag>15 Watt</s:tag>
+    <s:tag>24V DC</s:tag>
+    <s:tag>5 LED per Module</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>7000K</s:tag>
+    <s:tag>Billboard Lighting</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>IP64 Rated</s:tag>
+    <s:tag>LED Sign Bar Menu</s:tag>
+    <s:tag>MD008</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105614008409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">376.74</s:price>
+      <s:sku>WEN-YX05DD1.8PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

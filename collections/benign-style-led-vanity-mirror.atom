@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/benign-style-led-vanity-mirror.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-21T17:43:16-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4548271538265</id>
+    <published>2021-04-21T17:43:16-04:00</published>
+    <updated>2021-04-21T17:43:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/24-x-36-inch-led-lighted-bathroom-mirror-cabinet-on-off-switch-double-sided-mirror"/>
+    <title>24 X 36 Inch LED Lighted Bathroom Mirror Cabinet, On/Off Switch, Double Sided Mirror, Benign Style</title>
+    <s:type>LED Vanity Mirrors</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/LAMC-040ambiencepicturepicture_1024x1024_2x_fff17255-7c10-447a-9aea-41564ac05438.jpg?v=1625071229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Vanity Mirrors<br>
+        <strong>Price: </strong>
+            851.10 - 1264.00
+            <a href="https://ledmyplace.ca/products/24-x-36-inch-led-lighted-bathroom-mirror-cabinet-on-off-switch-double-sided-mirror">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Add an aesthetic by installing a Front </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">W24'' X H36 ' </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">LED vanity mirror of Benign Style to your dark, dingy bathroom and transform it into an inviting space. The clean and futuristic appearance of LED Bathroom Mirrors makes them ideal for contemporary interiors. This mirror is featured with an </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">inbuilt Defogger, touch switch control</span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">,</span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> and waterproof features. This is the ETL-listed </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">LED vanity mirror that provides you with a clear, crisp, and flawless reflection and comes with  5 years manufacturer warranty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-120VAC</s:tag>
+    <s:tag>2115 Lumens</s:tag>
+    <s:tag>24 Watt</s:tag>
+    <s:tag>24x36 Inch</s:tag>
+    <s:tag>24x36 Inch Mirror Menu</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>48x28 Inch</s:tag>
+    <s:tag>48x28 Inch Mirror Menu</s:tag>
+    <s:tag>Back Lit</s:tag>
+    <s:tag>Bathroom Mirror Cabinet</s:tag>
+    <s:tag>BENIGN</s:tag>
+    <s:tag>Double Sided Mirror</s:tag>
+    <s:tag>MR025</s:tag>
+    <s:tag>On/Off Switch</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548271538265</id>
+      <title>24 X 36 Inch</title>
+      <s:price currency="CAD">851.10</s:price>
+      <s:sku>IVA-LAMC-040-2436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548271538265</id>
+      <title>48 X 28 inch</title>
+      <s:price currency="CAD">1264.00</s:price>
+      <s:sku>IVA-LAMC-041-4828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

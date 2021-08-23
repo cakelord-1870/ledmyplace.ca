@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/auspice-style-led-vanity-mirror.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-08-31T12:54:38-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4548178083929</id>
+    <published>2020-08-31T12:54:38-04:00</published>
+    <updated>2020-08-31T12:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/24-x-32-inch-led-bathroom-mirror-with-magnifying-mirror-cct-remembrance-defogger"/>
+    <title>24x32 Inch LED Bathroom Mirror with Magnifying Mirror, CCT Remembrance, Defogger, Auspice Style</title>
+    <s:type>LED Vanity Mirrors</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_cb157b32-3c22-4e51-86c4-a28596caee6a_1024x1024_2x_1.jpg?v=1600102409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Vanity Mirrors<br>
+        <strong>Price: </strong>
+            699.00 - 899.00
+            <a href="https://ledmyplace.ca/products/24-x-32-inch-led-bathroom-mirror-with-magnifying-mirror-cct-remembrance-defogger">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Upgrade your bathroom like a dressing room by installing an Auspice Style </span><span style="font-weight: 400;">LED vanity mirror and start getting ready every day by feeling like a celebrity. This LED bathroom Mirror is having inbuilt Defogger, touch switch,</span><span style="font-weight: 400;"> CCT remembrance,</span><span style="font-weight: 400;"> and waterproof features. The Defogger enables the user to use it even after a hot bath or hot shower. </span><span style="font-weight: 400;">This LED Vanity Mirror is lightly weighted, which makes a perfect addition to any space.</span><span style="font-weight: 400;"> Purchase this UL and ETL listed excellent mirror integrated pieces with ideal lighting </span><span style="font-weight: 400;">with a warranty period of 5 years.</span></p>
+<p>Defogger is the special feature of the LED Vanity Mirror that helps to remove the fog that gets collected on the mirror. It saves time for manually cleaning the mirror. The Defogger is not controlled through the switch on the mirror. The switch only controls the LED Light on the mirror to turn on and off or to change CCT. If you wish to switch the defogger off, you will have to turn the switch off or take the plug off of the outlet. The temperature of the defogger will always be 59-68 degrees more than the room temperature. To elaborate, let’s say if your room temperature is 59 degrees Fahrenheit then the temperature of the defogger would be 86-95 degrees Fahrenheit.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24x32 Inch</s:tag>
+    <s:tag>24x32 Inch Mirror Menu</s:tag>
+    <s:tag>48x28 Inch</s:tag>
+    <s:tag>48x28 Inch Mirror Menu</s:tag>
+    <s:tag>AUSPICE</s:tag>
+    <s:tag>Back Lit</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>MR015-2432</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548178083929</id>
+      <title>24 X 32 inch</title>
+      <s:price currency="CAD">699.00</s:price>
+      <s:sku>IVA-JAS1001-2432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548178083929</id>
+      <title>48 X 28 inch</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>IVA-JAS1002-4828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

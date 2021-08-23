@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/black-1.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-03-05T13:20:07-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013200318553</id>
+    <published>2019-03-05T13:20:07-05:00</published>
+    <updated>2019-03-05T13:20:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/300-watt-led-flood-light-waterproof-black"/>
+    <title>300 Watt LED Flood Light (1050 Watt Equivalent) 5700K, AC100-277V, Black, Waterproof Stadium Lights / Arena Lights</title>
+    <s:type>LED Flood Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/240-300WSB03DpolelightwithFMmountbrownhousing-2_d6c41ca3-90ed-4fff-bd1c-acf651ae174c.jpg?v=1629397355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Flood Lights<br>
+        <strong>Price: </strong>
+            403.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>This 300W LED Flood Light available in a smooth black finish is a part of LEDMyplace’s industrial, commercial and residential line of products. Built with the latest solid-state lighting technology, this luminaire is an ideal lighting solution for your outdoor illumination needs. This LED flood light comes with a lumen output of 42000 lumens, a wide beam angle of 150 x 85 degrees, a CCT of 5700K, and a CRI&gt;70. Being broad-beamed and high-intensity lights, LED Floodlights are superior to spotlights. This LED flood light comes with U-Bracket mounting. Highly energy-efficient and durable this flood light can last a lot longer than metal-halides. This LED fixture is a UL, DLC-approved product and can easily replace up to 1050W of any metal-halide lighting fixture saving you marginally on utility bills.</div>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1050W Eq.</s:tag>
+    <s:tag>300 Watt</s:tag>
+    <s:tag>42000 Lumens</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Billboard Lighting</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>FD021</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Flood Lights</s:tag>
+    <s:tag>LED Parking Lot Lights</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Pathway Lighting</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Replaces 1050 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013200318553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">403.63</s:price>
+      <s:sku>BLACK-WEN-S300WCT3FMB1-57K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705074635</id>
+    <published>2017-08-03T14:07:32-04:00</published>
+    <updated>2017-08-03T14:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/outdoor-led-flood-light-150w-approved"/>
+    <title>Outdoor LED Flood Light 150W, 5700K, 21,000LM, IP65 Rated, Super Bright Stadium Lights, Black, DLC Approved</title>
+    <s:type>LED Flood Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/100-200WSB03DpolelightwithFMmountbrownhousing-2_82e5c0fc-85da-4353-bfbf-6986fab16540.jpg?v=1629397073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Flood Lights<br>
+        <strong>Price: </strong>
+            214.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 150W LED Flood Light available in a smooth black finish is a part of LEDMyplace’s industrial, commercial and residential line of products. Built with the latest solid-state lighting technology, this luminaire is an ideal lighting solution for your outdoor illumination needs. This LED flood light comes with a lumen output of 21000 lumens, a wide beam angle of 150 x 85 degrees, a CCT of 5700K, and a CRI&gt;70. Being broad-beamed and high-intensity lights, LED Floodlights are superior to spotlights. This LED flood light comes with yoke or knuckle mounting. Highly energy-efficient and durable this flood light can last a lot longer than metal-halides. This LED fixture is a UL, DLC-approved product and can easily replace up to 525W of any metal-halide lighting fixture saving you marginally on utility bills.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100V-277V</s:tag>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>21000 Lumens</s:tag>
+    <s:tag>525W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>FD016</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 525 Watt</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Without Photocell</s:tag>
+    <s:tag>Yard Light</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705074635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">214.48</s:price>
+      <s:sku>WEN-FL-150W(5700K)</s:sku>
+      <s:grams>20498</s:grams>
+    </s:variant>
+  </entry>
+</feed>

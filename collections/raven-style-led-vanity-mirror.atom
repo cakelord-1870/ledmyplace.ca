@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/raven-style-led-vanity-mirror.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-21T17:45:40-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4548196401241</id>
+    <published>2021-04-21T17:45:40-04:00</published>
+    <updated>2021-04-21T17:45:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-lighted-shelf-mirror-touch-sensor-switch-cct-remembrance-defogger-raven-style"/>
+    <title>LED Lighted Shelf Mirror, Touch Sensor Switch, CCT Remembrance, Defogger, Raven Style, Bathroom Vanity Mirrors</title>
+    <s:type>LED Vanity Mirrors</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_1024x1024_2x_35e55ec4-45fa-46ef-ae39-74cc22ee7d17.jpg?v=1625067222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Vanity Mirrors<br>
+        <strong>Price: </strong>
+            535.80 - 904.30
+            <a href="https://ledmyplace.ca/products/led-lighted-shelf-mirror-touch-sensor-switch-cct-remembrance-defogger-raven-style">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Add an aesthetic by installing Front W24'' X H32 &amp; 36x36 LED vanity mirror of Raven Style to your dark, dingy bathroom and transform it into an inviting space. The clean and futuristic appearance of LED Bathroom Mirrors makes them ideal for contemporary interiors. This mirror is featured with an inbuilt Defogger, touch switch control, CCT remembrance, and waterproof features. This is the ETL-listed LED vanity mirror that provides you with a clear, crisp, and flawless reflection and comes with  5 years manufacturer warranty.</p>
+<p data-mce-fragment="1">Defogger is the special feature of the LED Vanity Mirror that helps to remove the fog that gets collected on the mirror. It saves time for manually cleaning the mirror. The Defogger is not controlled through the switch on the mirror. The switch only controls the LED Light on the mirror to turn on and off or to change CCT. If you wish to switch the defogger off, you will have to turn the switch off or take the plug off of the outlet. The temperature of the defogger will always be 59-68 degrees more than the room temperature. To elaborate, let’s say if your room temperature is 59 degrees Fahrenheit then the temperature of the defogger would be 86-95 degrees Fahrenheit.<br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2250 Lumens</s:tag>
+    <s:tag>24 X 32 Inch</s:tag>
+    <s:tag>24x32 Inch Mirror Menu</s:tag>
+    <s:tag>36 X 36 Inch</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>Back Lit</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Defogger</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Lighted Shelf Mirror</s:tag>
+    <s:tag>MR018</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>RAVEN</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>Shelf Mirror</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Touch Switch</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548196401241</id>
+      <title>Gold Frame / 24 X 32 Inch</title>
+      <s:price currency="CAD">535.80</s:price>
+      <s:sku>IVA-JAS1009-A-2432BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548196401241</id>
+      <title>Gold Frame / 36 X 36 Inch</title>
+      <s:price currency="CAD">904.30</s:price>
+      <s:sku>IVA-JAS1010-B-3636GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548196401241</id>
+      <title>Black Frame / 24 X 32 Inch</title>
+      <s:price currency="CAD">535.80</s:price>
+      <s:sku>IVA-JAS1009-B-2432GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548196401241</id>
+      <title>Black Frame / 36 X 36 Inch</title>
+      <s:price currency="CAD">904.30</s:price>
+      <s:sku>IVA-JAS1010-A-3636BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

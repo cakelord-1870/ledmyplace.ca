@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-solar-flood-lights.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2018-12-18T11:29:50-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925524193369</id>
+    <published>2018-12-18T11:29:50-05:00</published>
+    <updated>2018-12-18T11:29:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-solar-flood-light-set-60w-w-120w-solar-panel-6000k"/>
+    <title>LED Solar Flood Light Set ; 60W w/ 120W solar Panel ; 6000K</title>
+    <s:type>LED Solar Lights</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/72leds-flood_light-5_dbe4ca6f-2bce-4168-8e0e-a3d8c7495969.jpg?v=1571708938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Solar Lights<br>
+        <strong>Price: </strong>
+            1039.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solar LED Lights are the best Lightings for sustainable development. These solar lights are of 60 Watt that gets operated on an AC input of 120-227 Volts. It delivers 7200 lumens with CCT of 6000K that are highly energy-efficient and are perfect for illuminating outdoor spaces. These LED Solar Lights are available in two mounts: Yoke mount and slip fitter mount. This long-lasting fixture meets the industry-standard IP65 rating and works for 50,000 operational hours. These Solar LED Lights are becoming the icing on the cake in the lighting world, transforming the future of LED Lightings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>6000K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Flood Mount</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>LED Solar Flood Lights Menu</s:tag>
+    <s:tag>LED Solar Lights</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>SL006</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Yoke Mount</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925524193369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1039.98</s:price>
+      <s:sku>WEN-S60W-A</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925524095065</id>
+    <published>2018-12-18T11:29:44-05:00</published>
+    <updated>2018-12-18T11:29:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-solar-flood-light-set-30w-w-80w-solar-panel-6000k"/>
+    <title>LED Solar Flood Light Set ; 30W w/ 80W Solar Panel ; 6000K</title>
+    <s:type>LED Solar Lights</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/72leds-flood_light-5_54f80fde-5836-4f4a-9256-e3f23fc4cb88.jpg?v=1571708938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Solar Lights<br>
+        <strong>Price: </strong>
+            831.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>30W Box measures = 22x7x14x21.5lb 80W Panel measures = 32x3x29x26lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>30 Watt</s:tag>
+    <s:tag>6000K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Flood Mount</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>LED Solar Flood Lights Menu</s:tag>
+    <s:tag>LED Solar Lights</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>SL007</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Yoke Mount</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925524095065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">831.98</s:price>
+      <s:sku>WEN-S30W-A</s:sku>
+      <s:grams>9752</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925524062297</id>
+    <published>2018-12-18T11:29:39-05:00</published>
+    <updated>2018-12-18T11:29:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-solar-flood-light-set-15w-w-40w-solar-panel-6000k"/>
+    <title>LED Solar Flood Light Set ; 15W w/ 40W Solar Panel ; 6000K</title>
+    <s:type>LED Solar Lights</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/72leds-flood_light-5.jpg?v=1571708938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Solar Lights<br>
+        <strong>Price: </strong>
+            623.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>15W box measures = 22x7x14x19.5lb 40W panel measures = 28x2x18x11lb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>6000K</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Flood Mount</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>LED Solar Flood Lights Menu</s:tag>
+    <s:tag>LED Solar Lights</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>SL008</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Yoke Mount</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925524062297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">623.98</s:price>
+      <s:sku>WEN-S15W-A</s:sku>
+      <s:grams>8845</s:grams>
+    </s:variant>
+  </entry>
+</feed>

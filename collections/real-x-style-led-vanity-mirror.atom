@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/real-x-style-led-vanity-mirror.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-04-21T17:46:19-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4548242407513</id>
+    <published>2021-04-21T17:46:19-04:00</published>
+    <updated>2021-04-21T17:46:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/rose-frame-led-lighted-dressing-mirror-26-x-63inch-touch-sensor-switch"/>
+    <title>Rose Gold Frame LED Lighted Dressing Mirror, 26 X 63 Inch, CCT Remembrance, Touch Sensor Switch, Realx Style</title>
+    <s:type>LED Vanity Mirrors</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Real_X.jpg?v=1625065199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Vanity Mirrors<br>
+        <strong>Price: </strong>
+            1987.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Add an aesthetic by installing Front </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">W26'' X H63 ' </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">LED vanity mirror of Realx Style to your dark, dingy bathroom and transform it into an inviting space. The clean and futuristic appearance of LED Bathroom Mirrors makes them ideal for contemporary interiors. This mirror is featured with an </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">inbuilt Defogger, touch switch control,</span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> CCT remembrance,</span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> and waterproof features. This is the ETL-listed </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">LED vanity mirror that provides you with a clear, crisp, and flawless reflection and comes with  5 years manufacturer warranty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100-120VAC</s:tag>
+    <s:tag>26 X 63 Inch LED Lighted Dressing Mirror</s:tag>
+    <s:tag>26x63 Inch</s:tag>
+    <s:tag>26x63 Inch Mirror Menu</s:tag>
+    <s:tag>3420 Lumens</s:tag>
+    <s:tag>86 Watt</s:tag>
+    <s:tag>90 CRI</s:tag>
+    <s:tag>Back Lit</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>MR021</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>REAL X</s:tag>
+    <s:tag>RoseGold</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Touch Sensor</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4548242407513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1987.50</s:price>
+      <s:sku>IVA-JAS1019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

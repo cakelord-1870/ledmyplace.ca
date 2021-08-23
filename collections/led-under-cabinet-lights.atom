@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/led-under-cabinet-lights.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-06-04T15:55:28-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105627050073</id>
+    <published>2019-06-04T15:55:28-04:00</published>
+    <updated>2019-06-04T15:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/120v-under-cabinet-lighting-color-changeable-cri90-white-direct-plug-in"/>
+    <title>120V, Under Cabinet Lighting, Color Changeable, CRI90, WHITE, Direct Plug-in, (3000K/4000K/5000K), LED Dimmable Under Cabinet Lights</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/Pk00804Watt_1024x1024_2x_1.png?v=1618842142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            77.98 - 717.52
+            <a href="https://ledmyplace.ca/products/120v-under-cabinet-lighting-color-changeable-cri90-white-direct-plug-in">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layered lighting design crafted carefully acts as a significant component when renovating a kitchen. If you are designing your dream kitchen, then include a combination of ambient, accent, task, and decorative lighting. It is possible only by installing Under Cabinet LED Light in the Kitchen. The frosted Kitchen under cabinet light offered by LEDMyplace is awaiting to adorn your Kitchen and workplace's indoor spaces. This light fixture is easy to install and also provides interchangeable color temperatures. Therefore, switching between the warm, cool, and daylight-white color appearances will allow you to select and set the desired ambiance. The fixture comes with an inbuilt dimming feature and requires an external dimmer to control 0V to 10V. It is available in 4 to 20 wattage options that offer different lumen outputs. You can use it as a kitchen under-cabinet lighting fixture or in your reading nook and experience an enjoyable lighting ambiance. It operates on a low input voltage and comes with standard safety certifications. So, you can be sure about the energy savings and electrical safety with this lighting product. Furthermore, you can use it as an under cabinet lighting fixture or a plug-in type light by preference. Shop this long-lasting under cabinet light and prepare your eyes to witness an enjoyable ambiance lighting experience.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3000K/4000K/5000K Color Switchable</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Under Cabinet Lights Menu</s:tag>
+    <s:tag>PK008</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Title 24</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 9 Inch</title>
+      <s:price currency="CAD">77.98</s:price>
+      <s:sku>WEN-ALUC-9-C.1pk</s:sku>
+      <s:grams>853</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 14 Inch</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-ALUC-14-C.1pk</s:sku>
+      <s:grams>1052</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 22 Inch</title>
+      <s:price currency="CAD">116.98</s:price>
+      <s:sku>WEN-ALUC-22-C.1pk</s:sku>
+      <s:grams>1252</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 32 Inch</title>
+      <s:price currency="CAD">152.08</s:price>
+      <s:sku>WEN-ALUC-32-C.1pk</s:sku>
+      <s:grams>1524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>1-Pack / 40 Inch</title>
+      <s:price currency="CAD">187.18</s:price>
+      <s:sku>WEN-ALUC-40-C.1pk</s:sku>
+      <s:grams>1774</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 9 Inch</title>
+      <s:price currency="CAD">280.72</s:price>
+      <s:sku>WEN-ALUC-9-C.4pk</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 14 Inch</title>
+      <s:price currency="CAD">358.72</s:price>
+      <s:sku>WEN-ALUC-14-C.4pk</s:sku>
+      <s:grams>4200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 22 Inch</title>
+      <s:price currency="CAD">436.72</s:price>
+      <s:sku>WEN-ALUC-22-C.4pk</s:sku>
+      <s:grams>4999</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 32 Inch</title>
+      <s:price currency="CAD">577.12</s:price>
+      <s:sku>WEN-ALUC-32-C.4pk</s:sku>
+      <s:grams>6101</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627050073</id>
+      <title>4-Pack / 40 Inch</title>
+      <s:price currency="CAD">717.52</s:price>
+      <s:sku>WEN-ALUC-40-C.4pk</s:sku>
+      <s:grams>7099</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105627017305</id>
+    <published>2019-06-04T15:55:27-04:00</published>
+    <updated>2019-06-04T15:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-under-cabinet-linkable-light-bar-330-lumens-3x3-6-watt"/>
+    <title>LED Under Cabinet Linkable Light Bar, 330 Lumens, 3x3.6 Watt, Dim. 12 Inch, 3-Piece Kit, Direct Plug-In</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2020_09_08T21_59_23_775Z_1024x1024_2x_92c37e4f-18b0-4a6b-b18c-b067511be553.png?v=1618843536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            68.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layered lighting design crafted carefully acts as a significant component when renovating a kitchen. If you are designing your dream kitchen, then include a combination of ambient, accent, task, and decorative lighting. It is possible only by installing Under Cabinet LED Light in the Kitchen. The frosted Kitchen under cabinet light offered by LEDMyplace is awaiting to adorn your Kitchen and workplace's indoor spaces. This light fixture is easy to install and also provides interchangeable color temperatures. Therefore, switching between the warm, cool, and daylight-white color appearances will allow you to select and set the desired ambiance. The fixture comes with an inbuilt dimming feature and requires an external dimmer to control 0V to 10V. It is available in 9.6 wattage options that offer different lumen outputs. You can use it as a kitchen under-cabinet lighting fixture or in your reading nook and experience an enjoyable lighting ambiance. It operates on a low input voltage and comes with standard safety certifications. So, you can be sure about the energy savings and electrical safety with this lighting product. Furthermore, you can use it as an under cabinet lighting fixture or a plug-in type light by preference. Shop this long-lasting under cabinet light and prepare your eyes to witness an enjoyable ambiance lighting experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>110 Lumens</s:tag>
+    <s:tag>120 V</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3.6 Watt</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>35000 hours lifespan</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Undercabinet Strip Lights Menu</s:tag>
+    <s:tag>PK007</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627017305</id>
+      <title>3000K (Soft White)</title>
+      <s:price currency="CAD">68.23</s:price>
+      <s:sku>WEN-LSL-12-3-PK-3K</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627017305</id>
+      <title>4000K (Cool White)</title>
+      <s:price currency="CAD">68.23</s:price>
+      <s:sku>WEN-LSL-12-3-PK-4K</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105627017305</id>
+      <title>5000K (Day Light)</title>
+      <s:price currency="CAD">68.23</s:price>
+      <s:sku>WEN-LSL-12-3-PK-5K</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105626984537</id>
+    <published>2019-06-04T15:55:25-04:00</published>
+    <updated>2019-06-04T15:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/magnetic-puck-led-light-12v-adaptor-3-piece-kit-touch-dimmer-cri90"/>
+    <title>Magnets Puck LED Light, 2.2W Each, 450 LM, 12V Adaptor with 3-Piece Kit &amp; Touch Dimmer, CRI90, White Trim (Changeable Trim-Sold Separately)</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2_4609aab7-8d99-4ef4-ae8d-c8331c8af4d0.jpg?v=1618859252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            97.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layered lighting design crafted carefully acts as a significant component when renovating a kitchen. If you are designing your dream kitchen, then include a combination of ambient, accent, task, and decorative lighting. It is possible only by installing Under Cabinet LED Light in the Kitchen. The frosted Kitchen under cabinet light offered by LEDMyplace is awaiting to adorn your Kitchen and workplace's indoor spaces. This light fixture is easy to install and also provides interchangeable color temperatures. Therefore, switching between the warm, cool, and daylight-white color appearances will allow you to select and set the desired ambiance. The fixture comes with an inbuilt dimming feature and requires an external dimmer to control 0V to 10V. It is available in 6.6 wattage options that offer different lumen outputs. You can use it as a kitchen under-cabinet lighting fixture or in your reading nook and experience an enjoyable lighting ambiance. It operates on a low input voltage and comes with standard safety certifications. So, you can be sure about the energy-savings and electrical safety with this lighting product. Furthermore, you can use it as an under cabinet lighting fixture or a plug-in type light by preference. Shop this long-lasting under cabinet light and prepare your eyes to witness an enjoyable ambiance lighting experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>150 Lumens</s:tag>
+    <s:tag>2.2 Watt</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>450 Lumens</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>High CRI</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Puck Lights Menu</s:tag>
+    <s:tag>PK006</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626984537</id>
+      <title>3000K (Soft White)</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-MTP-3-3PK-T-3K</s:sku>
+      <s:grams>2250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626984537</id>
+      <title>4000K (Cool White)</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-MTP-3-3PK-T-4K</s:sku>
+      <s:grams>2250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626984537</id>
+      <title>5000K (Day Light)</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-MTP-3-3PK-T-5K</s:sku>
+      <s:grams>2250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105626951769</id>
+    <published>2019-06-04T15:55:24-04:00</published>
+    <updated>2019-06-04T15:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-swivel-puck-light-12v-adaptor-3-piece-kit-3x3-5-watts-750-lumens-cri90"/>
+    <title>LED Swivel Puck Light, 3x3.5 Watts, 750 Lumens, CRI90, 3-Piece Kit With 12V Adaptor &amp; Touch Dimmer, White Trim , CCT Changeable: 3000K &amp; 5000K</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2_958a1754-7915-40d1-8e77-b0cdbcdd6a40.jpg?v=1618862492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            97.48 - 350.98
+            <a href="https://ledmyplace.ca/products/led-swivel-puck-light-12v-adaptor-3-piece-kit-3x3-5-watts-750-lumens-cri90">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layered lighting design crafted carefully acts as a significant component when renovating a kitchen. If you are designing your dream kitchen, then include a combination of ambient, accent, task, and decorative lighting. It is possible only by installing Under Cabinet LED Light in the Kitchen. The frosted Kitchen under cabinet light offered by LEDMyplace is awaiting to adorn your Kitchen and workplace's indoor spaces. This light fixture is easy to install and also provides interchangeable color temperatures. Therefore, switching between the warm, cool, and daylight-white color appearances will allow you to select and set the desired ambiance. The fixture comes with an inbuilt dimming feature and requires an external dimmer to control 0V to 10V. It is available in 3.5 wattage options that offer different lumen outputs. You can use it as a kitchen under-cabinet lighting fixture or in your reading nook and experience an enjoyable lighting ambiance. It operates on a low input voltage and comes with standard safety certifications. So, you can be sure about the energy savings and electrical safety with this lighting product. Furthermore, you can use it as an under cabinet lighting fixture or a plug-in type light by preference. Shop this long-lasting under cabinet light and prepare your eyes to witness an enjoyable ambiance lighting experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250 Lumens</s:tag>
+    <s:tag>3.5 Watt</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>High CRI</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Puck Lights Menu</s:tag>
+    <s:tag>PK005</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626951769</id>
+      <title>3000K (Soft White) / 1-Pack</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-SPK-3W-3PK-T-3K</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626951769</id>
+      <title>3000K (Soft White) / 4-Pack</title>
+      <s:price currency="CAD">350.98</s:price>
+      <s:sku>WEN-SPK-3W-3PK-T-3K.4pk</s:sku>
+      <s:grams>6001</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626951769</id>
+      <title>5000K (Day Light) / 1-Pack</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-SPK-3W-3PK-T-5K</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626951769</id>
+      <title>5000K (Day Light) / 4-Pack</title>
+      <s:price currency="CAD">350.98</s:price>
+      <s:sku>WEN-SPK-3W-3PK-T-5K.4pk</s:sku>
+      <s:grams>6001</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105626919001</id>
+    <published>2019-06-04T15:55:22-04:00</published>
+    <updated>2019-06-04T15:55:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/3-pack-trim-only-for-magnetic-led-puck-light-black"/>
+    <title>3-Pack Trim Only For Magnetic LED Puck Light, Black</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/3-Pack_Trim_Only_For_Magnetic_LED_Puck_Light_Black.jpg?v=1612202427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            19.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Magnetic LED Puck Light comes with a magnetic mounting that ensures the very easy installation of these lights. These lights are using the latest LED technology with an extra slim design, and produce bright lumen output. The beautiful under-light cabinet fixture brings a beautiful look to the indoor spaces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Puck Lights Menu</s:tag>
+    <s:tag>Magnetic LED Puck Light</s:tag>
+    <s:tag>PK004</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Trim Only</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626919001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.48</s:price>
+      <s:sku>WEN-TRIM-BLACK-3-PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105626886233</id>
+    <published>2019-06-04T15:55:21-04:00</published>
+    <updated>2019-06-04T15:55:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/puck-under-cabinet-lighting-3-pack-brushed-nickel-trim-only-for-magnetic"/>
+    <title>Puck Under Cabinet Lighting - 3-Pack - Brushed Nickel, Trim Only For Magnetic</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/3-Pack_Trim_Only_For_Magnetic_LED_Puck_Light_Brushed_Nickel.jpg?v=1618863368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            19.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Magnetic LED Puck Light comes with a magnetic mounting that ensures the very easy installation of these lights. These lights are using the latest LED technology with an extra slim design, and produce bright lumen output. The beautiful under-light cabinet fixture brings a beautiful look to the indoor spaces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Puck Lights Menu</s:tag>
+    <s:tag>Magnetic LED Puck Light</s:tag>
+    <s:tag>PK003</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Trim Only</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626886233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.48</s:price>
+      <s:sku>WEN-TRIM-BRU-NIC-3-PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105626853465</id>
+    <published>2019-06-04T15:55:19-04:00</published>
+    <updated>2019-06-04T15:55:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-under-cabinet-puck-light-420-lumens-3x3-5-watts-3-piece-kit"/>
+    <title>LED Under Cabinet Puck Light, 420 Lumens, 3x3.5 Watts, 3-Piece Kit Direct Plug-In, Dimmable, White Trim</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2_99b3c530-8655-4715-b301-7ad9a2bba3a0.jpg?v=1617292866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            58.48 - 214.48
+            <a href="https://ledmyplace.ca/products/led-under-cabinet-puck-light-420-lumens-3x3-5-watts-3-piece-kit">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layered lighting design crafted carefully acts as a significant component when renovating a kitchen. If you are designing your dream kitchen, then include a combination of ambient, accent, task, and decorative lighting. It is possible only by installing Under Cabinet LED Light in the Kitchen. The frosted Kitchen under cabinet light offered by LEDMyplace is awaiting to adorn your Kitchen and workplace's indoor spaces. This light fixture is easy to install and also provides interchangeable color temperatures. Therefore, switching between the warm, cool, and daylight-white color appearances will allow you to select and set the desired ambiance. The fixture comes with an inbuilt dimming feature and requires an external dimmer to control 0V to 10V. It is available in 9 wattage options that offer different lumen outputs. You can use it as a kitchen under-cabinet lighting fixture or in your reading nook and experience an enjoyable lighting ambiance. It operates on a low input voltage and comes with standard safety certifications. So, you can be sure about the energy-savings and electrical safety with this lighting product. Furthermore, you can use it as an under cabinet lighting fixture or a plug-in type light by preference. Shop this long-lasting under cabinet light and prepare your eyes to witness an enjoyable ambiance lighting experience.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3.5 Watt</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>35000 hours lifespan</s:tag>
+    <s:tag>420 Lumens</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>High CRI</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Puck Lights Menu</s:tag>
+    <s:tag>PK002</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626853465</id>
+      <title>3000K (Soft White) / 1-Pack</title>
+      <s:price currency="CAD">58.48</s:price>
+      <s:sku>WEN-UCL-10P-3PK-3K</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626853465</id>
+      <title>3000K (Soft White) / 4-Pack</title>
+      <s:price currency="CAD">214.48</s:price>
+      <s:sku>WEN-UCL-10P-3PK-3K.4pk</s:sku>
+      <s:grams>1901</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626853465</id>
+      <title>5000K (Day Light) / 1-Pack</title>
+      <s:price currency="CAD">58.48</s:price>
+      <s:sku>WEN-UCL-10P-3PK-5K</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626853465</id>
+      <title>5000K (Day Light) / 4-Pack</title>
+      <s:price currency="CAD">214.48</s:price>
+      <s:sku>WEN-UCL-10P-3PK-5K.4pk</s:sku>
+      <s:grams>1901</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2105626820697</id>
+    <published>2019-06-04T15:55:17-04:00</published>
+    <updated>2019-06-04T15:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-under-cabinet-slim-puck-light-12v-adaptor-3x3-5watts-600-lumens-3-piece-kit-cct-changeable"/>
+    <title>LED Under Cabinet Slim Puck Light, 3x3.5Watts, 600 Lumens, 3-Piece Kit, Wave Sensor Dimming With 12V Adaptor, White Trim, CCT Changeable (3000K/4000K/5000K)</title>
+    <s:type>LED Under Cabinet Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2_d7b8ddfa-ca93-46b5-8bdc-78c329f0b6ca.jpg?v=1617291792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Under Cabinet Lights<br>
+        <strong>Price: </strong>
+            97.48 - 331.48
+            <a href="https://ledmyplace.ca/products/led-under-cabinet-slim-puck-light-12v-adaptor-3x3-5watts-600-lumens-3-piece-kit-cct-changeable">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layered lighting design crafted carefully acts as a significant component when renovating a kitchen. If you are designing your dream kitchen, then include a combination of ambient, accent, task, and decorative lighting. It is possible only by installing Under Cabinet LED Light in the Kitchen. The frosted Kitchen under cabinet light offered by LEDMyplace is awaiting to adorn your Kitchen and workplace's indoor spaces. This light fixture is easy to install and also provides interchangeable color temperatures. Therefore, switching between the warm, cool, and daylight-white color appearances will allow you to select and set the desired ambiance. The fixture comes with an inbuilt dimming feature and requires an external dimmer to control 0V to 10V. It is available in 10.5 wattage options that offer different lumen outputs. You can use it as a kitchen under-cabinet lighting fixture or in your reading nook and experience an enjoyable lighting ambiance. It operates on a low input voltage and comes with standard safety certifications. So, you can be sure about the energy-savings and electrical safety with this lighting product. Furthermore, you can use it as an under cabinet lighting fixture or a plug-in type light by preference. Shop this long-lasting under cabinet light and prepare your eyes to witness an enjoyable ambiance lighting experience.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>200 Lumens</s:tag>
+    <s:tag>3.5 Watt</s:tag>
+    <s:tag>3000K/4000K/5000K Color Switchable</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>600 Lumens</s:tag>
+    <s:tag>CRI 90+</s:tag>
+    <s:tag>Deck Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Puck Lights Menu</s:tag>
+    <s:tag>PK001</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Under Bar Lighting</s:tag>
+    <s:tag>Wine Case Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626820697</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">97.48</s:price>
+      <s:sku>WEN-UTP-4-3PK-W-C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2105626820697</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">331.48</s:price>
+      <s:sku>WEN-UTP-4-3PK-W-C.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/up-down-light-sconce.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-03-23T13:06:50-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4613596217433</id>
+    <published>2021-03-23T13:06:50-04:00</published>
+    <updated>2021-03-23T13:06:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-wall-light-fixture-cylinder-wall-lights-12wx2-ac100-277v"/>
+    <title>LED Wall Light Fixture - Cylinder / Wall Lights, 12WX2, AC100- 277V, Double Side, Light Bronze</title>
+    <s:type>All</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_1024x1024_2x_1024x1024_2x_95be070e-68bf-47cc-b21f-c538493cf85f.jpg?v=1616602713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>All<br>
+        <strong>Price: </strong>
+            83.83 - 788.00
+            <a href="https://ledmyplace.ca/products/led-wall-light-fixture-cylinder-wall-lights-12wx2-ac100-277v">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">In LED Up/Downlights, Silicone and rubber are used for the foundation waterproofing, and epoxy potting is performed with caution for further enhancement. This 2x12W LED Up/Downlights come with premium LED Chips with a CCT of 3000K to 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 100V - 277V  these LED Up/Downlights can easily be installed. It's an ETL, cETLus &amp; RoHS certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 3-years. This Up/Downlighting fixture is a comprehensive lighting fixture that emits light from both ends and is highly durable. These lighting fixtures can be used in Garden lighting, wall lighting, path lighting, area lighting, spread lighting, accent lighting, outdoor walkway lighting, step/stair lighting, and many other places.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900 Lumens</s:tag>
+    <s:tag>1900LM</s:tag>
+    <s:tag>24 Watt</s:tag>
+    <s:tag>24W</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000k</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000k</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>BFCM20</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>cETLus &amp; RoHS certification</s:tag>
+    <s:tag>cETLus listed</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Cylinder</s:tag>
+    <s:tag>ETL</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Outdoor Wall Lighting</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Up and Down Lights</s:tag>
+    <s:tag>WP030</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4613596217433</id>
+      <title>1-Pack / 3000K (Soft White)</title>
+      <s:price currency="CAD">83.83</s:price>
+      <s:sku>WEN-UPD-12X1M-2.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4613596217433</id>
+      <title>1-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">83.83</s:price>
+      <s:sku>WEN-UPD-12X1W-2.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4613596217433</id>
+      <title>10-Pack / 3000K (Soft White)</title>
+      <s:price currency="CAD">788.00</s:price>
+      <s:sku>WEN-UPD-12X1M-2.10pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4613596217433</id>
+      <title>10-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">788.00</s:price>
+      <s:sku>WEN-UPD-12X1W-2.10pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4328549154905</id>
+    <published>2019-11-07T12:21:55-05:00</published>
+    <updated>2019-11-07T12:21:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-square-up-down-wall-light-2x6w-ac100-277v-double-side-ip65-ratedled-square-up-down-wall-light-2x6w-ac100-277v-double-side"/>
+    <title>LED Square Up/Down Wall Light,  2x6W, AC100- 277V, Double Side, IP65 Rated</title>
+    <s:type>Up and Down Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_7c22e587-0df0-47bc-a85e-c6e30a73a3d9.jpg?v=1585690632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Up and Down Lights<br>
+        <strong>Price: </strong>
+            93.58 - 83273.96
+            <a href="https://ledmyplace.ca/products/led-square-up-down-wall-light-2x6w-ac100-277v-double-side-ip65-ratedled-square-up-down-wall-light-2x6w-ac100-277v-double-side">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">In LED Up/Downlights, Silicone and rubber are used for the foundation waterproofing, and epoxy potting is performed with caution for further enhancement. These 2x6W LED Up/Downlights come with premium LED Chips with a CCT of 3000K to 5000K These light fixtures are designed to sustain and function in a voltage ranging between 100V - 277VWith a lumen output of 80-90 Lumens per watt, these LED Up/Downlights can easily be installed. It's an ETL, cETLus &amp; RoHS certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 3-years. This Up/Downlighting fixture is a comprehensive lighting fixture that emits light from both ends and is highly durable. These lighting fixtures can be used in Garden lighting, wall lighting, path lighting, area lighting, spread lighting, accent lighting, outdoor walkway lighting, step/stair lighting, and many other places.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>900 Lumens</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>BFCM20</s:tag>
+    <s:tag>cETLus listed</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Outdoor Wall Lighting</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Up and Down Lights</s:tag>
+    <s:tag>WP029</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328549154905</id>
+      <title>1-Pack / 3000K (Soft White)</title>
+      <s:price currency="CAD">93.58</s:price>
+      <s:sku>WEN-UPD-6X1M-2S.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328549154905</id>
+      <title>1-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">93.58</s:price>
+      <s:sku>WEN-UPD-6X1W-2S.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328549154905</id>
+      <title>12-Pack / 3000K (Soft White)</title>
+      <s:price currency="CAD">1051.03</s:price>
+      <s:sku>WEN-UPD-6X1M-2S.12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328549154905</id>
+      <title>12-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">83273.96</s:price>
+      <s:sku>WEN-UPD-6X1W-2S.12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4328543518809</id>
+    <published>2019-11-07T12:18:48-05:00</published>
+    <updated>2019-11-07T12:18:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/cylinder-led-up-downlight-wall-sconce-2x36w-ac100-277v-up-down-light"/>
+    <title>Cylinder LED Up/Downlight Wall Sconce, 2x36W, AC100- 277V, Up &amp; Down Light, Double Side (Red, Green, Blue)</title>
+    <s:type>Up and Down Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_2ceb9d31-7d73-45c5-a6fc-0e79e10142d4.jpg?v=1585690510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Up and Down Lights<br>
+        <strong>Price: </strong>
+            211.99 - 803.99
+            <a href="https://ledmyplace.ca/products/cylinder-led-up-downlight-wall-sconce-2x36w-ac100-277v-up-down-light">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">In RGB LED Up/Down lights, Silicone and rubber are used for the foundation waterproofing, and epoxy potting is performed with caution for further enhancement. These 2x36 W LED Up/Downlights come with premium LED Chips These light fixtures are designed to sustain and function in a voltage ranging between 100V - 277V With a lumen output of 80-90Lumens per watt, these LED Up/Downlights can easily be installed. It's an ETL, cETLus &amp; RoHS certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 3-years. This Up/Downlighting fixture is a comprehensive lighting fixture that emits light from both ends and is highly durable. These lighting fixtures can be used in Garden lighting, wall lighting, path lighting, area lighting, spread lighting, accent lighting, outdoor walkway lighting, step/stair lighting, and many other places.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>36 Watt</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>cETLus listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>Led wall Pack</s:tag>
+    <s:tag>RGB</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Up and Down Lights</s:tag>
+    <s:tag>WP060</s:tag>
+    <s:tag>Yard Light</s:tag>
+    <s:tag>Yard lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328543518809</id>
+      <title>1-Pack / blue</title>
+      <s:price currency="CAD">211.99</s:price>
+      <s:sku>WEN-UPD-36B-2.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328543518809</id>
+      <title>4-Pack / blue</title>
+      <s:price currency="CAD">803.99</s:price>
+      <s:sku>WEN-UPD-36B-2.4pk</s:sku>
+      <s:grams>30860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328543518809</id>
+      <title>1-Pack / Green</title>
+      <s:price currency="CAD">211.99</s:price>
+      <s:sku>WEN-UPD-36G-2.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328543518809</id>
+      <title>4-Pack / Green</title>
+      <s:price currency="CAD">803.99</s:price>
+      <s:sku>WEN-UPD-36G-2.4pk</s:sku>
+      <s:grams>30860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328543518809</id>
+      <title>1-Pack / Red</title>
+      <s:price currency="CAD">211.99</s:price>
+      <s:sku>WEN-UPD-36R-2.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4328543518809</id>
+      <title>4-Pack / Red</title>
+      <s:price currency="CAD">803.99</s:price>
+      <s:sku>WEN-UPD-36R-2.4pk</s:sku>
+      <s:grams>30860</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4325317574745</id>
+    <published>2019-11-07T11:55:02-05:00</published>
+    <updated>2019-11-07T11:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/cylinder-lights-outdoor-wall-lighting-2x36w-ac100-277v-double-side-white-light"/>
+    <title>Cylinder Lights - Outdoor Wall Lighting - 2x36W, AC100- 277V, LED Up &amp; Down Light, Double Side (White Light)</title>
+    <s:type>Up and Down Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_7d076e59-28ba-4df6-a6d1-1e63bad065f8.jpg?v=1585690391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Up and Down Lights<br>
+        <strong>Price: </strong>
+            211.99 - 803.99
+            <a href="https://ledmyplace.ca/products/cylinder-lights-outdoor-wall-lighting-2x36w-ac100-277v-double-side-white-light">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">In LED Up/Downlights, Silicone and rubber are used for the foundation waterproofing, and epoxy potting is performed with caution for further enhancement. This 2x36W LED Up/Downlights come with premium LED Chips with a CCT of 3000K.To 5000K These light fixtures are designed to sustain and function in a voltage ranging between 100V - 277V  With a lumen output of 80-90 Lumens per watt, these LED Up/Downlights can easily be installed. It's an ETL, cETLus &amp; RoHS certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 3-years. This Up/Downlighting fixture is a comprehensive lighting fixture that emits light from both ends and is highly durable. These lighting fixtures can be used in Garden lighting, wall lighting, path lighting, area lighting, spread lighting, accent lighting, outdoor walkway lighting, step/stair lighting, and many other places.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>36 Watt</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>6480 Lumens</s:tag>
+    <s:tag>cETLus listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Up and Down Lights</s:tag>
+    <s:tag>Wall Sconce</s:tag>
+    <s:tag>Wall Sconce Fixture</s:tag>
+    <s:tag>WP031</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4325317574745</id>
+      <title>1-Pack / 3000K (Soft White)</title>
+      <s:price currency="CAD">211.99</s:price>
+      <s:sku>WEN-UPD-36M-2.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4325317574745</id>
+      <title>4-Pack / 3000K (Soft White)</title>
+      <s:price currency="CAD">803.99</s:price>
+      <s:sku>WEN-UPD-36M-2.4pk</s:sku>
+      <s:grams>30860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4325317574745</id>
+      <title>1-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">211.99</s:price>
+      <s:sku>WEN-UPD-36W-2.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4325317574745</id>
+      <title>4-Pack / 5000K (Day Light)</title>
+      <s:price currency="CAD">803.99</s:price>
+      <s:sku>WEN-UPD-36W-2.4pk</s:sku>
+      <s:grams>30860</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/4332182110297</id>
+    <published>2019-11-06T08:48:19-05:00</published>
+    <updated>2019-11-06T08:48:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-up-down-light-outdoor-2x5w-ac100-277v-half-cylinder-ip65-rated-double-side"/>
+    <title>LED Up Down Light Outdoor, Half Cylinder Wall Light, 2X5W, AC100- 277V, Double Side, IP65 Rated</title>
+    <s:type>Up and Down Lights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_7b5dbbd7-0bff-416f-bbce-ce1d3a868d06.jpg?v=1628017503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Up and Down Lights<br>
+        <strong>Price: </strong>
+            74.00 - 887.23
+            <a href="https://ledmyplace.ca/products/led-up-down-light-outdoor-2x5w-ac100-277v-half-cylinder-ip65-rated-double-side">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In LED Up/Downlights, Silicone and rubber are used for the foundation waterproofing, and epoxy potting is performed with caution for further enhancement. These 2x5W LED Up/Downlights come with premium LED Chips with a CCT of 3000K and 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 100V - 277V With a lumen output of 90 lumens per watt, these LED Up/Downlights can easily be installed. It's an ETL, cETLus &amp; RoHS certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This Up/Downlighting fixture is a comprehensive lighting fixture that emits light from both ends and is highly durable. These lighting fixtures can be used in Garden lighting, wall lighting, path lighting, area lighting, spread lighting, accent lighting, outdoor walkway lighting, step/stair lighting, and many other places.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>900 Lumens</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>cETLus listed</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Up and Down Lights</s:tag>
+    <s:tag>Wall Sconce</s:tag>
+    <s:tag>Wall Sconce Fixture</s:tag>
+    <s:tag>WP028</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4332182110297</id>
+      <title>1-Pack / 3000K</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku>WEN-UPD-5X1M-2S.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4332182110297</id>
+      <title>1-Pack / 5000K</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku>WEN-UPD-5X1W-2S.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4332182110297</id>
+      <title>12-Pack / 3000K</title>
+      <s:price currency="CAD">887.23</s:price>
+      <s:sku>WEN-UPD-5X1M-2S.12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4332182110297</id>
+      <title>12-Pack / 5000K</title>
+      <s:price currency="CAD">887.23</s:price>
+      <s:sku>WEN-UPD-5X1W-2S.12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

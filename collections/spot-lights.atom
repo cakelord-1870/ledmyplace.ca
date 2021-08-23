@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/spot-lights.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-10-08T17:26:00-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/4732055421017</id>
+    <published>2020-10-08T17:26:00-04:00</published>
+    <updated>2020-10-08T17:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/exterior-wall-mounted-spotlights-10w"/>
+    <title>LED Outdoor Spotlight, 10W, 900 Lumens, Dimmable, Textured Black Finish, Wall Mounting, ETL Wet Location</title>
+    <s:type>Spot Lights</s:type>
+    <s:vendor>Ivanees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/RS023_01.jpg?v=1628027759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ivanees<br>
+        <strong>Type: </strong>Spot Lights<br>
+        <strong>Price: </strong>
+            95.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 10-watt outdoor spotlight is ideal for those looking for a lighting fixture that strikes a balance between style and functionality. This lighting fixture is long-lasting thanks to the use of durable surface-mounted (SMD) LED chips. It will run on 120 volts and will produce 90 lumens per watt. As a result, you can rest assured that it is a more energy-efficient alternative than metal halides or other traditional fixtures. These lights are available in two color temperatures: 3000k and 5000k. With clear and dimmable features, these lights are ETL listed. LED Spotlight comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This outdoor LED Spotlight is a complete lighting fixture in itself that is practical, durable, and eco-friendly.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Watt</s:tag>
+    <s:tag>120 Volt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>3000K (Warm White)</s:tag>
+    <s:tag>50000 Life Hours</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>80 CRI</s:tag>
+    <s:tag>900 Lumens</s:tag>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>ALUMINUM+GLASS</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Clear Glass</s:tag>
+    <s:tag>CRI 80</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>ETL - Wet Location</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>LED Wall Spot Lights</s:tag>
+    <s:tag>Outdoor  Wall Spot</s:tag>
+    <s:tag>Outdoor LED Wall Spot Lights</s:tag>
+    <s:tag>Outdoor Spot Light</s:tag>
+    <s:tag>Outdoor Spotlight</s:tag>
+    <s:tag>ROUND</s:tag>
+    <s:tag>RS</s:tag>
+    <s:tag>RS023</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Spot Lights</s:tag>
+    <s:tag>Textured Black</s:tag>
+    <s:tag>WALL MOUNTING</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732055421017</id>
+      <title>3000K (Soft White)</title>
+      <s:price currency="CAD">95.34</s:price>
+      <s:sku>IVA-PL105-30BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/4732055421017</id>
+      <title>5000K (Day White)</title>
+      <s:price currency="CAD">95.34</s:price>
+      <s:sku>IVA-PL105-50BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

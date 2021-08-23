@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/cables-extensions.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2020-02-04T12:43:02-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013200679001</id>
+    <published>2020-02-04T12:43:02-05:00</published>
+    <updated>2020-02-04T12:43:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1ft-integrated-connecting-cable-only-for-30-watt-integrated-tube"/>
+    <title>1ft Integrated Connecting Cable Only For 30 Watt Integrated Tube</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/c8_1024x1024_2x_1fff6d61-6877-46d3-8604-93147c73b98f.jpg?v=1580838291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            5.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1FT Integrated Connecting Cable</s:tag>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>Cable Only For 30 Watt</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>connect 4 in a row</s:tag>
+    <s:tag>Easy Installation</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FOR INTEGRATED TUBES</s:tag>
+    <s:tag>FX040</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013200679001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.03</s:price>
+      <s:sku>30w-con-cable-1ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/420624433183</id>
+    <published>2019-11-12T05:16:49-05:00</published>
+    <updated>2019-11-12T05:16:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/6ft-power-cord-for-integrated-tubes"/>
+    <title>6FT Power Cord For Integrated Tubes</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2020_09_24T20_53_25_905Z.png?v=1601329468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            12.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 6ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED integrated tubes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>cETL &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+*Certifications that set guidelines for SSL usage in Canada.<br>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">6ft power cord for LED integrated tubes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using this 6ft power cord, you can connect the LED integrated tube light where it is needed the most.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED integrated tube lights</li>
+</ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>6 Feet</s:tag>
+    <s:tag>6 ft</s:tag>
+    <s:tag>6FT Power Cord</s:tag>
+    <s:tag>6FT Power Cord For Integrated Tubes</s:tag>
+    <s:tag>6FT Power Cord for tubes</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FX010</s:tag>
+    <s:tag>Integrated tubes power cord</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED Integrated Tubes</s:tag>
+    <s:tag>power cord</s:tag>
+    <s:tag>Power Cord For Integrated Tubes</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420624433183</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.64</s:price>
+      <s:sku>6ft-Power-cord</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/420624367647</id>
+    <published>2019-11-12T05:16:47-05:00</published>
+    <updated>2019-11-12T05:16:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/6ft-integrated-connecting-cable"/>
+    <title>6FT Integrated connecting cable</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/6ft_connecting_cable_image-03_bfce12dc-277a-4a60-ba62-c485560bbcf2.jpg?v=1571708909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            10.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 6ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED integrated tubes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>cETL &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+<p>*Certifications that set guidelines for SSL usage in Canada.</p>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Looking to connect LED Integrated Tubes in a row but wish for them to expand more, leaving space between the fixtures?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">6ft Integrated connecting cables by LEDMyPlace Canada come with a male connector on one side and female connector on the other.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using this, you can easily connect LED integrated tubes- each at a distance of 6ft in a row, thus better covering a vast indoor space with uniform lighting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can connect up to 8 4ft integrated tubes and 3 8ft integrated tubes per power line.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED integrated tube lights</li>
+</ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 per</s:tag>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>6 Feet</s:tag>
+    <s:tag>6 ft</s:tag>
+    <s:tag>6FT Integrated connecting cable</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Connecting Cable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FX009</s:tag>
+    <s:tag>Integrated connecting cable</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED lighting</s:tag>
+    <s:tag>LED Lights</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/420624367647</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.22</s:price>
+      <s:sku>con-cable-6ft</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297251373087</id>
+    <published>2019-11-12T05:16:39-05:00</published>
+    <updated>2019-11-12T05:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/5ft-high-bay-led-connecting-cable"/>
+    <title>5FT high bay LED Connecting Cable</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/5FT_high_bay_LED_Connecting_Cable-2_014d77eb-b5a7-497b-8a5f-7624466a63c6.jpg?v=1571708908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            38.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 5ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED high bays</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>UL, CE, &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+<p>*Certifications that set guidelines for SSL usage in Canada.</p>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<p><span style="font-weight: 400;">5ft connecting cable for LED high bay lights. </span></p>
+<h2>Application</h2>
+<p><span style="font-weight: 400;">LED high bay lights</span></p>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 per</s:tag>
+    <s:tag>5 Ft</s:tag>
+    <s:tag>5 FT high bay LED Connecting Cable</s:tag>
+    <s:tag>5FT high bay LED Connecting Cable</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Listed</s:tag>
+    <s:tag>Connecting Cable</s:tag>
+    <s:tag>FX025</s:tag>
+    <s:tag>high bay</s:tag>
+    <s:tag>high bay LED cable</s:tag>
+    <s:tag>highbay cable</s:tag>
+    <s:tag>LED  High Bay</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>LED high bay cable</s:tag>
+    <s:tag>LED lighting</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297251373087</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.98</s:price>
+      <s:sku>highbay-con-cable</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705077707</id>
+    <published>2019-11-12T05:16:34-05:00</published>
+    <updated>2019-11-12T05:16:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/60w-integrated-connecting-cable"/>
+    <title>3ft Connecting Cable Only for 10W , 22W &amp; 60W Integrated Tube Only</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/3ft_connecting_cable_image-1.jpg?v=1571708905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            5.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Length: 3ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports LED integrated tubes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Built from long-lasting material</span></li>
+<li style="font-weight: 400;">
+<b>cETL &amp; RoHS</b><span style="font-weight: 400;">* approved</span>
+</li>
+</ul>
+*Certifications that set guidelines for SSL usage in Canada.<br>
+<ul></ul>
+<!--Features section end--> <!--Overview section start-->
+<h2>Description</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Looking to connect LED Integrated Tubes in a row but wish for them to expand more, leaving space between the fixtures?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">3ft Integrated connecting cables by LEDMyPlace Canada come with a male connector on one side and female connector on the other.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using this, you can easily connect LED integrated tubes- each at a distance of 3ft in a row, thus better covering a vast indoor space with uniform lighting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can connect up to 8 4ft integrated tubes and 3 8ft integrated tubes per power line.</span></li>
+</ul>
+<h2>Application</h2>
+<ul>
+<li>LED integrated tube lights</li>
+</ul>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>3 ft</s:tag>
+    <s:tag>3FT Integrated Connecting Cable</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Connecting Cable</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FX034</s:tag>
+    <s:tag>LED Fixture</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705077707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.13</s:price>
+      <s:sku>con-cable-3ft-60w</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013212115033</id>
+    <published>2019-08-23T12:15:20-04:00</published>
+    <updated>2019-08-23T12:15:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/3ft-integrated-connecting-cable-only-for-30-watt-integrated-tube"/>
+    <title>3FT Integrated Connecting Cable Only For 30 Watt Integrated Tube</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/30w_integrated_cable-2_grande_1_grande_047d0780-0a16-42c5-8607-5c482b2067a0.jpg?v=1571708976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            5.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Features:</h1>
+<ul>
+<li>US BASED FACTORY DIRECT Pricing; NOTE : REMOVE THE BALLAST OR IT WILL BLOW OFF THE BULB , THESE BULBS DONT NEED BALLAST JUST DIRECT WIRE THESE. Only connect these 4 in a row. </li>
+<li>ETL,CE, ROHS Approved  .</li>
+<li>FOR INTEGRATED TUBES </li>
+<li>Eligible for rebates with SOME of the elctric companies (we can help with paperwork also ) ,</li>
+<li>SPECIAL CONTRACTOR &amp; DISTRIBUTOR PRICING AVAILABLE ; 24/7 Phone Support ; US based Factory Direct Pricing ; 2 years no hassle warranty</li>
+</ul>
+<h1>Overview:</h1>
+<ul>
+<li>Easy Installation,</li>
+<li>Applications: ,</li>
+<li>Widely used in supermarkets, offices , convenience stores , gas stations , warehouse, shops , hotels , motels ,etc.</li>
+<li>Benefits: ,</li>
+<li>LED lighting uses significantly fewer Watts (W) than conventional lighting. But that's not the only Savings you enjoy when selecting LED lighting. ,</li>
+<li>Conventional bulbs have a shorter operating lifetime compared to LED lighting. If you are using conventional bulbs you will be purchasing up to four times as many bulbs or fixtures compared to a single LED replacement with a long operating lifetime. ,</li>
+<li>Buying and using conventional bulbs and fixtures also means that you incur three times more maintenance as well as replacement costs compared to LED lighting. ,</li>
+<li>Just think of the maintenance costs incurred getting to those hard to reach locations. ,</li>
+<li>LED lighting is also free of environmentally harmful Mercury as well as Halogen chemicals. ,</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 per</s:tag>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>3FT Integrated Connecting Cable</s:tag>
+    <s:tag>Cable Only For 30 Watt</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>connect 4 in a row</s:tag>
+    <s:tag>Easy Installation</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FOR INTEGRATED TUBES</s:tag>
+    <s:tag>FX007</s:tag>
+    <s:tag>LED Fixture Accessories</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013212115033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.03</s:price>
+      <s:sku>30w-con-cable</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013200646233</id>
+    <published>2019-07-31T13:16:26-04:00</published>
+    <updated>2019-07-31T13:16:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1ft-integrated-connecting-cable-only-for-22w-60w-integrated-tube"/>
+    <title>1ft Integrated Connecting Cable Only for 22W &amp; 60W Integrated Tube</title>
+    <s:type>LED Fixture Accessories</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/image_2021_03_25T19_45_29_425Z.png?v=1616701923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Fixture Accessories<br>
+        <strong>Price: </strong>
+            5.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Features:</h2>
+<ul style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<li>ETL,CE, ROHS Approved.</li>
+<li>FOR INTEGRATED TUBES ,</li>
+<li>Length : 1 Ft</li>
+<li>SPECIAL CONTRACTOR &amp; DISTRIBUTOR PRICING AVAILABLE; 24/7 Phone Support; US based Factory Direct Pricing; 2 years no hassle warranty</li>
+</ul>
+<h2 style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Overview:</h2>
+<ul style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<li>Easy Installation,</li>
+<li>Applications:</li>
+<li>Widely used in supermarkets, offices, convenience stores, gas stations, warehouse, shops, hotels, motels,etc.</li>
+<li>Benefits:</li>
+<li>LED lighting uses significantly fewer Watts (W) than conventional lighting. But that's not the only Savings you enjoy when selecting LED lighting.</li>
+<li>Conventional bulbs have a shorter operating lifetime compared to LED lighting. If you are using conventional bulbs you will be purchasing up to four times as many bulbs or fixtures compared to a single LED replacement with a long operating lifetime.</li>
+<li>Buying and using conventional bulbs and fixtures also means that you incur three times more maintenance as well as replacement costs compared to LED lighting.</li>
+<li>Just think of the maintenance costs incurred getting to those hard to reach locations.</li>
+<li>LED lighting is also free of environmentally harmful Mercury as well as Halogen chemicals.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1ft</s:tag>
+    <s:tag>1FT Integrated Connecting Cable</s:tag>
+    <s:tag>2 Years warranty</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>Cables And Extensions Menu</s:tag>
+    <s:tag>Connecting Cable</s:tag>
+    <s:tag>Easy Installation</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FOR INTEGRATED TUBES</s:tag>
+    <s:tag>FX039</s:tag>
+    <s:tag>LED Fixture</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013200646233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.29</s:price>
+      <s:sku>con-cable-1ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

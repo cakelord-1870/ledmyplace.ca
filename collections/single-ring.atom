@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/single-ring.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-03-10T10:32:37-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/2132985512025</id>
+    <published>2021-03-10T10:32:37-05:00</published>
+    <updated>2021-03-10T10:32:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/14-round-brushed-nickel-dimmable-flush-mount-single-ring-1700-lumens-power-25w-3-color-switchable-3000k-4000k-5000k"/>
+    <title>14&quot; Round Brushed Nickel Dimmable Flush Mount; Single Ring; 1750 Lumens ; Power: 25W ; 3 Color Switchable (3000K/4000K/5000K)</title>
+    <s:type>Flushmount</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_3ba6a1ea-fa73-4b8e-8733-6d916331177f_1024x1024_2x_1.jpg?v=1615389465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Flushmount<br>
+        <strong>Price: </strong>
+            68.23 - 257.32
+            <a href="https://ledmyplace.ca/products/14-round-brushed-nickel-dimmable-flush-mount-single-ring-1700-lumens-power-25w-3-color-switchable-3000k-4000k-5000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Flush Mount Ceiling Lights are the modern lightings that are perfect for close-to-ceiling lightings. It provides a warm touch to the place and creates a soothing ambiance. The energy-efficient lighting of 25W replaces HPS lights, HID metal-halides, and halogen lamps of 90 watts. By delivering the high-lumen output of 1750 lumens, they are available in three categories: Single Ring, Double Ring, and Mushroom. LED Flush Mount Ceiling Lights are flicker-free and are easily installable. It comes with a lifespan of 50,000 hours and is rebate eligible. It's a UL and Energy Star certified light fixture that is IP20 rated with a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14 Inch</s:tag>
+    <s:tag>1750 Lumens</s:tag>
+    <s:tag>25 Watt</s:tag>
+    <s:tag>3000K/4000K/5000K Color Switchable</s:tag>
+    <s:tag>90W Eq.</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>FL009</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 90 Watt</s:tag>
+    <s:tag>Round</s:tag>
+    <s:tag>Single Ring</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2132985512025</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">68.23</s:price>
+      <s:sku>WEN-CECY142CTDOB-1-YY80-b</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2132985512025</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">257.32</s:price>
+      <s:sku>WEN-CECY142CTDOB-1-YY80-b.4pk</s:sku>
+      <s:grams>13600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013204578393</id>
+    <published>2019-04-08T11:24:02-04:00</published>
+    <updated>2019-04-08T11:24:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/11-in-brushed-nickel-led-ceiling-square-flushmount-light"/>
+    <title>11 in. Brushed Nickel LED Ceiling Square Flushmount Light, 15W (55W Equivalent), 1050 Lumens, 4000K, AC120V, Dimmable</title>
+    <s:type>Flushmount</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_3870afad-522a-4272-9334-a2179760ad99.jpg?v=1585931698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>Flushmount<br>
+        <strong>Price: </strong>
+            58.48 - 226.12
+            <a href="https://ledmyplace.ca/products/11-in-brushed-nickel-led-ceiling-square-flushmount-light">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Flush Mount Ceiling Lights are the modern lightings that are perfect for close-to-ceiling lightings. It provides a warm touch to the place and creates a soothing ambiance. The energy-efficient lighting of 15W replaces HPS lights, HID metal-halides, and halogen lamps of 55 watts. By delivering the high-lumen output of 1050 lumens, they are available in three categories: Single Ring, Double Ring, and Mushroom. LED Flush Mount Ceiling Lights are flicker-free and are easily installable. It comes with a lifespan of 50,000 hours and is rebate eligible. It's a UL, FCC, IC, and Energy Star standard certified light fixture with a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1050 Lumens</s:tag>
+    <s:tag>11 Inch</s:tag>
+    <s:tag>15 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>55W Eq.</s:tag>
+    <s:tag>cULus</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>FL012</s:tag>
+    <s:tag>Modern Flush Mount Ceiling Lights</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 55 Watt</s:tag>
+    <s:tag>Single Ring</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>Square</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013204578393</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">58.48</s:price>
+      <s:sku>WEN-CE00CF11DOBIML-40-JBF</s:sku>
+      <s:grams>2499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013204578393</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">226.12</s:price>
+      <s:sku>WEN-CE00CF11DOBIML-40-JBF.4pk</s:sku>
+      <s:grams>10401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/2013204480089</id>
+    <published>2019-04-08T11:20:12-04:00</published>
+    <updated>2019-04-08T11:20:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/11-inch-round-flush-mount-lights"/>
+    <title>11 inch - Round - Flush Mount Lights, Single Ring-Brushed Nickel Finish, 1050 Lumens, 15W, 3-Color Switchable (3000K/4000K/5000K)</title>
+    <s:type>Flushmount</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_c7b9b89c-930f-49c7-b484-ec6bdd4143df.jpg?v=1585932095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>Flushmount<br>
+        <strong>Price: </strong>
+            58.48 - 226.12
+            <a href="https://ledmyplace.ca/products/11-inch-round-flush-mount-lights">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Flush Mount Ceiling Lights are the modern lightings that are perfect for close-to-ceiling lightings. It provides a warm touch to the place and creates a soothing ambiance. The energy-efficient lighting of 15 W replaces HPS lights, HID metal-halides, and halogen lamps of 55 watts. By delivering the high-lumen output of 1050 lumens, they are available in three categories: Single Ring, Double Ring, and Mushroom. LED Flush Mount Ceiling Lights are flicker-free and are easily installable. It comes with a lifespan of 50,000 hours and is rebate eligible. It's a UL and Energy star certified light fixture with a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1050 Lumens</s:tag>
+    <s:tag>11 Inch</s:tag>
+    <s:tag>15 Watt</s:tag>
+    <s:tag>3000K/4000K/5000K Color Switchable</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>55W Eq.</s:tag>
+    <s:tag>Brushed Nickel</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>FL010</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 55 Watt</s:tag>
+    <s:tag>Round</s:tag>
+    <s:tag>Single Ring</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013204480089</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">58.48</s:price>
+      <s:sku>WEN-CECY112CTDOB-1-YY80-b</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/2013204480089</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">226.12</s:price>
+      <s:sku>WEN-CECY112CTDOB-1-YY80-b.4pk</s:sku>
+      <s:grams>10401</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/10-inch.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2018-09-08T19:40:52-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1488075423833</id>
+    <published>2018-09-08T19:40:52-04:00</published>
+    <updated>2018-09-08T19:40:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/10-inch-led-dimmable-downlight-40w-5000k"/>
+    <title>10-inch LED Dimmable Downlight, 40W,  3000 LM, w/ Junction Box, Recessed Ceiling Light, Living Room Lights</title>
+    <s:type>LED Downlights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_fb642871-f686-4d83-b582-ae0669ba908f.jpg?v=1618497468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Downlights<br>
+        <strong>Price: </strong>
+            83.83 - 311.92
+            <a href="https://ledmyplace.ca/products/10-inch-led-dimmable-downlight-40w-5000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Downlights are the small light fixtures installed on the ceilings so that it emits light in the downward direction. These 40W LED Downlights to come with a CCT of 3000K, 4000K &amp; 5000K. These light fixtures are designed to illuminate Bathrooms, Kitchens, Hallways, Living and Study areas. With a lumen output of 3000 Lumens, these LED Downlights can easily replace 140W fluorescents. It's an ETL and Energy Star certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These lights come with Rebate eligibility and dimmable features. This LED dimmable downlight comes with a junction box that makes the installation process easier by providing an accurate placement option for the downlight and also enables safe wiring and connections.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-pack</s:tag>
+    <s:tag>10 Inch</s:tag>
+    <s:tag>3000 lumens</s:tag>
+    <s:tag>4-pack</s:tag>
+    <s:tag>40 Watt</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>DW001</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Eye Ball (Gumbal)</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting.</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Downlights</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 140 Watts</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>Soffit Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1488075423833</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">83.83</s:price>
+      <s:sku>WEN-D5110-40W-5000.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1488075423833</id>
+      <title>4-Pack</title>
+      <s:price currency="CAD">311.92</s:price>
+      <s:sku>WEN-D5110-40W-5000.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

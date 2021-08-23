@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/5-feet-cooler-tubes.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2021-08-18T12:33:22-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705087051</id>
+    <published>2021-08-18T12:33:22-04:00</published>
+    <updated>2021-08-18T12:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/5ft-t8-led-freezer-and-cooler-tube-32w-5000k-clear-v-shape"/>
+    <title>5ft T8 LED Freezer &amp; Cooler Tube, 32W, 5000K, Clear, V Shape, Walk-in Display Tube Lights</title>
+    <s:type>LED Cooler Tubes</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_fc58a5d2-ad51-4bd3-9500-07bba5303eb2.jpg?v=1584712536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Cooler Tubes<br>
+        <strong>Price: </strong>
+            46.78 - 1333.25
+            <a href="https://ledmyplace.ca/products/5ft-t8-led-freezer-and-cooler-tube-32w-5000k-clear-v-shape">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<p>LED Coler tubes are used in refrigerators to make illumination in a cool environment. In LEDMyplace, cooler tubes are available in a variety of shapes and sizes. These freezer tubes carrying benefits have prompted many commercial and industrial business owners to replace their fluorescent cooler tubes in the recent past. These 5ft LED freezer/cooler comes in T8 size and clear glass. This tube of 32W comes in V shape with 5000K color temperature and a CRI of more than 80. Our Tubes allow its user excellent energy savings, a neutral white-day white light color glow, and more than the standard Color Rendering Index. Commercially these freezer tubes use as the lighting enabled to improve the look of any food merchandise, that otherwise may look dull and unenticing. </p>
+<!--Features section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120W Eq.</s:tag>
+    <s:tag>20 per led</s:tag>
+    <s:tag>32 Watt</s:tag>
+    <s:tag>3840 Lumens</s:tag>
+    <s:tag>5 Feet</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>CT003</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 120 Watt</s:tag>
+    <s:tag>Replaces 80 Watt</s:tag>
+    <s:tag>ROHS Approved</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705087051</id>
+      <title>1-Pack</title>
+      <s:price currency="CAD">46.78</s:price>
+      <s:sku>WEN-T8V5FT32T(5000K).1pk</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705087051</id>
+      <title>30-Pack</title>
+      <s:price currency="CAD">1333.25</s:price>
+      <s:sku>WEN-T8V5FT32T(5000K).30pk</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

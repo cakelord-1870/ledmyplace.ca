@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/150-watt.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:15:20-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1925433524313</id>
+    <published>2019-11-12T05:15:20-05:00</published>
+    <updated>2019-11-12T05:15:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/150w-led-canopy-light-5700k-19000-lumens"/>
+    <title>150W LED Canopy Light, 5700K, 19000 Lumens, AC100-277V, DLC Premium, 525W HPS/HID Replacement, LED Gas Station Lighting</title>
+    <s:type>LED Canopy</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2_6e0fb834-76ef-4e96-8d4c-f94fdb603a00.jpg?v=1614810185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Canopy<br>
+        <strong>Price: </strong>
+            261.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;">Canopy Lights come in a slim and sleek design with a 5700K color temperature giving you bright day-white light for your property. These LED lights consume 150W of energy to replace a fixture that consumes 525W saving you marginally on those hefty utility bills. The product comes with a die-cast aluminum built making the product robust and durable. With 19000 lumens of brightness, the product is a superior luminaire to HIDs and CFLs. Ideal for garage lighting and other commercial or residential applications. The LED garage lighting fixture is an IP65 approved luminaire making it perfect for damp and dusty environments. Save up to 75% on utility bills with LED lights and get peace of mind for your investment with a 5-year limited manufacturer’s warranty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>19000 Lumens</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>525W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>cETLus listed</s:tag>
+    <s:tag>CN001</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>FCC approved</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 525 Watt</s:tag>
+    <s:tag>Soffit Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1925433524313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">261.20</s:price>
+      <s:sku>WEN-CP3B-150WMASA1-WH57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705088075</id>
+    <published>2017-08-03T14:12:19-04:00</published>
+    <updated>2017-08-03T14:12:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/led-canopy-light-150w-15600-lumens-5700-kelvin"/>
+    <title>150W LED Canopy Light For Gas Station, 15600 Lumens, 5700K, DLC Approved</title>
+    <s:type>LED Canopy</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_f1ac3eb3-17ba-4aae-889d-3317120d23cf.jpg?v=1625152057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Canopy<br>
+        <strong>Price: </strong>
+            261.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Features section start-->
+<div>Canopy Lights come in a slim and sleek design with a 5700K color temperature giving you bright day-white light for your property. These LED lights consume 150W of energy to replace a fixture that consumes 525W saving you marginally on those hefty utility bills. The product comes with a die-cast aluminum built making the product robust and durable. With 15600 lumens of brightness, the product is a superior luminaire to HIDs and CFLs. Ideal for garage lighting and other commercial or residential applications. The LED garage lighting fixture is an IP65 approved luminaire making it perfect for damp and dusty environments. Save up to 75% on utility bills with LED lights and get peace of mind for your investment with a 5-year limited manufacturer’s warranty.<br>
+</div>
+<ul></ul>
+<h3></h3>
+<ul></ul>
+<!--Overview section end--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>5 Years Warranty</s:tag>
+    <s:tag>50000 hours Lifespan</s:tag>
+    <s:tag>525W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>cETLus listed</s:tag>
+    <s:tag>CN005</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP65 Rated</s:tag>
+    <s:tag>Lumens 15600</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 525 Watt</s:tag>
+    <s:tag>Soffit Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705088075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">261.20</s:price>
+      <s:sku>WEN-CP-150W-1111-1601</s:sku>
+      <s:grams>15998</s:grams>
+    </s:variant>
+  </entry>
+</feed>

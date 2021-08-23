@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/2x2-led-troffer-lights.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2018-03-16T20:01:51-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/469024833567</id>
+    <published>2018-03-16T20:01:51-04:00</published>
+    <updated>2018-03-16T20:01:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/2x2-led-troffer-lights-30w-5000k-dimmable"/>
+    <title>2x2 LED Troffer Light Fixtures, 30W, 5000K, 2-Pack Dimmable, Perfect Indoor LED Lighting</title>
+    <s:type>LED Troffers</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/2x2_540x540_527e43e3-84cb-4f12-aebc-039ab99c428d.jpg?v=1593804788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Troffers<br>
+        <strong>Price: </strong>
+            171.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">2x2 LED troffer lights to come in square shapes. LED troffer lights work better in modular drop ceilings. These lights are impeccable for educational, hospitality, and other institutions. This 30W LED Troffer Light comes with a CCT of 5000K. These light fixtures will perfectly work at a voltage ranging between 120-277V. LED troffer lights are available with three features: Rebate Eligible, Frosted, and Dimmable that make these lights better than any conventional lights. With a lumen output of 3750 Lumens, these LED Troffer Light Fixtures can easily replace 110W fluorescents. LED troffer lights are a great choice for Ambient Lighting of Interior Commercial Spaces like commercial offices, schools, hospitals, retail merchandising, and many others. It's a UL, DLC, and RoHS certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These LED Troffer Lights are the modern lighting system that not only provides proper lumens but gives a vibrant look to the place. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>110 Watt Replaces</s:tag>
+    <s:tag>110W Eq.</s:tag>
+    <s:tag>2x2</s:tag>
+    <s:tag>30 Watt</s:tag>
+    <s:tag>3750 Lumens</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>DLC</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>DLC Premium Listed</s:tag>
+    <s:tag>Frosted</s:tag>
+    <s:tag>Garage Lighting</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 105 Watt</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>TR001</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/469024833567</id>
+      <title>2-Pack</title>
+      <s:price currency="CAD">171.99</s:price>
+      <s:sku>WEN-TRO6630D[N;P]-50-A.2pk</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+</feed>

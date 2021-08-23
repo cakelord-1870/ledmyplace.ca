@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/60-watt.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2017-08-03T14:11:27-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/9705085515</id>
+    <published>2017-08-03T14:11:27-04:00</published>
+    <updated>2017-08-03T14:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/60w-led-corn-bulb-5700k"/>
+    <title>60W LED Corn Cob Bulb, 5700K, E39 Mogul Base, 100-277 Volt, 210 Watt Equivalent, 6600 Lumens, Outdoor Lighting, LED Corn Bulb</title>
+    <s:type>LED Corn Bulb</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/60_1024x1024_2x_0347bf4e-d2dd-4d1e-bfc4-00ee5179fd5e.jpg?v=1617297723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Corn Bulb<br>
+        <strong>Price: </strong>
+            101.99 - 1205.99
+            <a href="https://ledmyplace.ca/products/60w-led-corn-bulb-5700k">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Amplify the charm of your outdoor with LEDMyplace's Premium Quality LED Corn Bulbs. These LED Corn Bulbs are designed with 360 degrees beam angle that provides light in all directions. This LED Corn Bulb can be used in parking lots, football fields, building perimeters, walkways, car dealerships, stadiums, parks, and most commercial places. These lights are of 60 Watt that gets operated on an AC input of 100-277 Volts. It delivers 6600 lumens with CCT of 5700K that can easily replace the halogen lamp of 210 Watt flawlessly and are perfect for illuminating outdoor spaces. These lights are UL and DLC Certified and are available with an E39 base. You will get some money back in this purchase as they are eligible for the rebate. This long-lasting fixture meets the industry-standard IP 64 rating and comes with a 5-year warranty against manufacturing defects.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>210W Eq.</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>CB004</s:tag>
+    <s:tag>CE Certified</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Corn Bulb</s:tag>
+    <s:tag>DLC</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>E39 Base</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>IP64 Rated</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Corn Bulbs</s:tag>
+    <s:tag>Lumens 6600</s:tag>
+    <s:tag>Pathway Lighting</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 210 Watt</s:tag>
+    <s:tag>RoHS Compliant</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705085515</id>
+      <title>1-pack</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku>corn-bulb-5700k-60w.1pk</s:sku>
+      <s:grams>1501</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705085515</id>
+      <title>4-pack</title>
+      <s:price currency="CAD">401.99</s:price>
+      <s:sku>corn-bulb-5700k-60w.4pk</s:sku>
+      <s:grams>6001</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/9705085515</id>
+      <title>12-pack</title>
+      <s:price currency="CAD">1205.99</s:price>
+      <s:sku>corn-bulb-5700k-60w.12pk</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

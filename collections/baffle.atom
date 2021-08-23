@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/baffle.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2018-09-08T19:43:58-04:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1377166032985</id>
+    <published>2018-09-08T19:43:58-04:00</published>
+    <updated>2018-09-08T19:43:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/8-inch-led-dimmable-downlight-30w-w-junction-box"/>
+    <title>8-inch LED Dimmable Downlight, 30W,  2250 LM, w/ Junction Box, Recessed Ceiling Light, Living Room Lights</title>
+    <s:type>LED Downlights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_9cb37c84-0d49-4099-bb21-50b53386ca1c.jpg?v=1618498064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Downlights<br>
+        <strong>Price: </strong>
+            77.98 - 421.08
+            <a href="https://ledmyplace.ca/products/8-inch-led-dimmable-downlight-30w-w-junction-box">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>LED Downlights are the small light fixtures installed on the ceilings so that it emits light in the downward direction. These 30W LED Downlights to come with a CCT of 3000K, 4000K &amp; 5000K. These light fixtures are designed to illuminate Bathrooms, Kitchens, Hallways, Living and Study areas. With a lumen output of 2250 Lumens, these LED Downlights can easily replace </span><span>10</span><span>5W fluorescents. It's an ETL and Energy Star certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These lights come with Rebate eligibility and dimmable features. This LED dimmable downlight comes with a junction box that makes the installation process easier by providing an accurate placement option for the downlight and also enables safe wiring and connections.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2250 Lumens</s:tag>
+    <s:tag>30 Watt</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>8 Inch</s:tag>
+    <s:tag>Baffle</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>DW007</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Downlights</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replace 105 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>Soffit Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377166032985</id>
+      <title>1-Pack / 4000K</title>
+      <s:price currency="CAD">77.98</s:price>
+      <s:sku>WEN-D528-KT-90-4000.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377166032985</id>
+      <title>6-PacK / 4000K</title>
+      <s:price currency="CAD">421.08</s:price>
+      <s:sku>WEN-D528-KT-90-4000.6pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377166032985</id>
+      <title>1-Pack / 5000K</title>
+      <s:price currency="CAD">77.98</s:price>
+      <s:sku>WEN-D528-KT-90-5000.1pk</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377166032985</id>
+      <title>6-PacK / 5000K</title>
+      <s:price currency="CAD">421.08</s:price>
+      <s:sku>WEN-D528-KT-90-5000.6pk</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1377164525657</id>
+    <published>2018-09-08T19:42:44-04:00</published>
+    <updated>2018-09-08T19:42:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/12-pack-5-6-inch-dimmable-led-downlights-1100-lumens-15w"/>
+    <title>5/6 inch LED Downlight Dimmable  / Can Lights, 15W, 1100 LM, White, Recessed Ceiling Lights</title>
+    <s:type>LED Downlights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_25b3b315-4d6c-42ca-b249-08db43a0175c.jpg?v=1618499804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Downlights<br>
+        <strong>Price: </strong>
+            13.08 - 147.19
+            <a href="https://ledmyplace.ca/products/12-pack-5-6-inch-dimmable-led-downlights-1100-lumens-15w">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LED Downlights are the small light fixtures installed on the ceilings so that it emits light in the downward direction. These 15W LED Downlights come with a CCT of 3000K, 4000K &amp; 5000K. These light fixtures are designed to illuminate Bathrooms, Kitchens, Hallways, Living and Study areas. With a lumen output of 1100 Lumens, these LED Downlights can easily replace 55W fluorescents. It's an ETL and Energy-star certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These lights come with Rebate eligibility and dimmable features. These LED Downlight fixtures are a complete lighting fixture that is practical, long-lasting, and sustainable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1100 Lumens</s:tag>
+    <s:tag>15 Watt</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>5/6 Inch</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>55W Eq.</s:tag>
+    <s:tag>Baffle</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>DW051</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Downlights</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 55 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>Soffit Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>1-Pack / 3000K</title>
+      <s:price currency="CAD">14.31</s:price>
+      <s:sku>WEN-D836-90-3000.1pk</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>1-Pack / 4000K</title>
+      <s:price currency="CAD">14.31</s:price>
+      <s:sku>WEN-D836-90-4000.1pk</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>1-Pack / 5000K</title>
+      <s:price currency="CAD">13.08</s:price>
+      <s:sku>WEN-D836-90-5000.1pk</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>4-Pack / 3000K</title>
+      <s:price currency="CAD">50.62</s:price>
+      <s:sku>WEN-D836-90-3000.4pk</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>4-Pack / 4000K</title>
+      <s:price currency="CAD">50.62</s:price>
+      <s:sku>WEN-D836-90-4000.4pk</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>4-Pack / 5000K</title>
+      <s:price currency="CAD">50.62</s:price>
+      <s:sku>WEN-D836-90-5000.4pk</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>12-Pack / 3000K</title>
+      <s:price currency="CAD">147.19</s:price>
+      <s:sku>WEN-D836-90-3000.12pk</s:sku>
+      <s:grams>5216</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>12-Pack / 4000K</title>
+      <s:price currency="CAD">147.19</s:price>
+      <s:sku>WEN-D836-90-4000.12pk</s:sku>
+      <s:grams>5216</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164525657</id>
+      <title>12-Pack / 5000K</title>
+      <s:price currency="CAD">147.19</s:price>
+      <s:sku>WEN-D836-90-5000.12pk</s:sku>
+      <s:grams>5216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1377164427353</id>
+    <published>2018-09-08T19:41:05-04:00</published>
+    <updated>2018-09-08T19:41:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/4-inch-retrofit-led-downlights-fixture-can-lights-10w-600lm-dimmable"/>
+    <title>4 inch Retrofit LED Downlights Fixture / Can Lights, 10W, 650LM, Dimmable Recessed Ceiling Light, CRI 90+</title>
+    <s:type>LED Downlights</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_5f14e48e-78a0-450d-9401-858b845ef430.jpg?v=1618499949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Downlights<br>
+        <strong>Price: </strong>
+            11.45 - 127.53
+            <a href="https://ledmyplace.ca/products/4-inch-retrofit-led-downlights-fixture-can-lights-10w-600lm-dimmable">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">LED Downlights are the small light fixtures installed on the ceilings so that it emits light in the downward direction. These 10W LED Downlights come with a CCT of 3000K, 4000K &amp; 5000K. These light fixtures are designed to illuminate Bathrooms, Kitchens, Hallways, Living and Study areas. With a lumen output of 650 Lumens, these LED Downlights can easily replace 35W fluorescents. It's an ETL and Energy Star certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. These lights come with Rebate eligibility and dimmable features. These LED Downlight fixtures are a complete lighting fixture that is practical, long-lasting, and sustainable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Watt</s:tag>
+    <s:tag>3000K</s:tag>
+    <s:tag>35W Eq.</s:tag>
+    <s:tag>4 Inch</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>650 Lumens</s:tag>
+    <s:tag>65W Eq.</s:tag>
+    <s:tag>Baffle</s:tag>
+    <s:tag>Bathroom Lighting</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Dimmable</s:tag>
+    <s:tag>DW060</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>ETL Listed</s:tag>
+    <s:tag>FCC Compliant</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>LED Ceiling Lights</s:tag>
+    <s:tag>LED Downlights</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Low Ceiling Lights</s:tag>
+    <s:tag>Office Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 35 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>Soffit Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>1-Pack / 3000K</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku>WEN-D834-90-3000.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>1-Pack / 4000K</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku>WEN-D834-90-4000.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>1-Pack / 5000K</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku>WEN-D834-90-5000.1pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>4-Pack / 3000K</title>
+      <s:price currency="CAD">45.01</s:price>
+      <s:sku>WEN-D834-90-3000.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>4-Pack / 4000K</title>
+      <s:price currency="CAD">45.01</s:price>
+      <s:sku>WEN-D834-90-4000.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>4-Pack / 5000K</title>
+      <s:price currency="CAD">45.01</s:price>
+      <s:sku>WEN-D834-90-5000.4pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>12-Pack / 3000K</title>
+      <s:price currency="CAD">127.53</s:price>
+      <s:sku>WEN-D834-90-3000.12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>12-Pack / 4000K</title>
+      <s:price currency="CAD">127.53</s:price>
+      <s:sku>WEN-D834-90-4000.12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377164427353</id>
+      <title>12-Pack / 5000K</title>
+      <s:price currency="CAD">127.53</s:price>
+      <s:sku>WEN-D834-90-5000.12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

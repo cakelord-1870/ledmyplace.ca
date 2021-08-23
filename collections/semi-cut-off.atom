@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/semi-cut-off.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:15:01-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/1377221771353</id>
+    <published>2019-11-12T05:15:01-05:00</published>
+    <updated>2019-11-12T05:15:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/1-pack-led-wall-pack-semi-cut-off-4000k"/>
+    <title>1-Pack; LED Wall Pack Semi Cut Off ; 4000K</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_e1bfca7e-8f77-4693-bbb3-46010ba75f52.jpg?v=1586554565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            175.48 - 278.83
+            <a href="https://ledmyplace.ca/products/1-pack-led-wall-pack-semi-cut-off-4000k">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Wall Pack Lights are ideal lighting for commercial and security lighting applications that look for an extended period as its quality lighting. These 90W &amp; 150W  LED Wall Pack comes with a dusk-to-dawn photosensor with a CCT of 4000 K. These light fixtures are designed to endure and function in a voltage ranging between 120-277V  With a lumen output of 12893 &amp; 17195 Lumens, these Wall Pack Light Fixtures can easily replace 350W &amp; 450W  fluorescents. It's a UL and DLC certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12893 lumens</s:tag>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>17195 Lumens</s:tag>
+    <s:tag>350W Eq.</s:tag>
+    <s:tag>4000K</s:tag>
+    <s:tag>450W Eq.</s:tag>
+    <s:tag>90 Watt</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Bronze finish</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>IP65</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Parking lot lighting</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Rebate Eligible</s:tag>
+    <s:tag>Replaces 350 Watt</s:tag>
+    <s:tag>Replaces 450 Watt</s:tag>
+    <s:tag>Security lighting</s:tag>
+    <s:tag>semi cut off</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:tag>Without Photocell</s:tag>
+    <s:tag>WP011</s:tag>
+    <s:tag>Yard lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377221771353</id>
+      <title>90-Watt</title>
+      <s:price currency="CAD">175.48</s:price>
+      <s:sku>WEN-WP090NNXH-C(4000K).1pk</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377221771353</id>
+      <title>150-Watt</title>
+      <s:price currency="CAD">278.83</s:price>
+      <s:sku>WEN-WP150NNXH-C(4000K).1pk</s:sku>
+      <s:grams>6577</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/1377220493401</id>
+    <published>2018-09-20T16:28:22-04:00</published>
+    <updated>2018-09-20T16:28:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/semi-cut-off-led-wall-pack-lights-5700k"/>
+    <title>Semi Cut Off LED Wall Pack Lights, 5700K, Waterproof IP65, cULus, DLC approved</title>
+    <s:type>LED Wall Pack</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_d8cc06c6-5c7f-45db-b914-8b0d9c803fa5.jpg?v=1586554273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Wall Pack<br>
+        <strong>Price: </strong>
+            132.58 - 278.83
+            <a href="https://ledmyplace.ca/products/semi-cut-off-led-wall-pack-lights-5700k">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Wall Pack Lights are ideal lighting for commercial and security lighting applications that look for an extended period as its quality lighting. This LED Wall Pack comes with a dusk-to-dawn photosensor with a CCT of 5700 K. These light fixtures are designed to endure and function in a voltage ranging between 120-277V With a lumen output of 127 Lumens/Watt<b> </b>Lumens, these Wall Pack Light Fixtures  It's a UL and DLC certified light fixture that comes with a lifespan of 50,000 hours and a manufacturer warranty of 5-years. This wall-pack lighting fixture is a complete lighting fixture in itself that is practical, durable, and eco-friendly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>120 Watt</s:tag>
+    <s:tag>120V - 277V</s:tag>
+    <s:tag>12893 lumens</s:tag>
+    <s:tag>14769 lumens</s:tag>
+    <s:tag>150 Watt</s:tag>
+    <s:tag>17195 Lumens</s:tag>
+    <s:tag>175W Eq.</s:tag>
+    <s:tag>250W Eq.</s:tag>
+    <s:tag>350W Eq.</s:tag>
+    <s:tag>40 Watt</s:tag>
+    <s:tag>400W Eq.</s:tag>
+    <s:tag>450W Eq.</s:tag>
+    <s:tag>5456 lumens</s:tag>
+    <s:tag>5700K</s:tag>
+    <s:tag>60 Watt</s:tag>
+    <s:tag>8610 lumens</s:tag>
+    <s:tag>90 Watt</s:tag>
+    <s:tag>Arena Lighting</s:tag>
+    <s:tag>Backyard Lighting</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>DLC Listed</s:tag>
+    <s:tag>Garden Lighting</s:tag>
+    <s:tag>Gas Station Lighting</s:tag>
+    <s:tag>Instant On</s:tag>
+    <s:tag>IP65</s:tag>
+    <s:tag>LED Area Lighting</s:tag>
+    <s:tag>LED lighting</s:tag>
+    <s:tag>LED Security Lights</s:tag>
+    <s:tag>Playground Lighting</s:tag>
+    <s:tag>Replaces 175 Watt</s:tag>
+    <s:tag>Replaces 250 Watt</s:tag>
+    <s:tag>Replaces 350 Watt</s:tag>
+    <s:tag>Replaces 400 watt</s:tag>
+    <s:tag>Replaces 450 Watt</s:tag>
+    <s:tag>semi cut off</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Warranty</s:tag>
+    <s:tag>waterproof</s:tag>
+    <s:tag>Without Photocell</s:tag>
+    <s:tag>WP013</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377220493401</id>
+      <title>40-Watt</title>
+      <s:price currency="CAD">132.58</s:price>
+      <s:sku>WEN-WP040NNXH-C(5700K).1pk</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377220493401</id>
+      <title>60-Watt</title>
+      <s:price currency="CAD">148.18</s:price>
+      <s:sku>WEN-WP060NNXH-C(5700K).1pk</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377220493401</id>
+      <title>90-Watt</title>
+      <s:price currency="CAD">175.48</s:price>
+      <s:sku>WEN-WP090NNXH-C(5700K).1pk</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377220493401</id>
+      <title>120-Watt</title>
+      <s:price currency="CAD">253.48</s:price>
+      <s:sku>WEN-WP120NNXH-C(5700K).1pk</s:sku>
+      <s:grams>6577</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/1377220493401</id>
+      <title>150-Watt</title>
+      <s:price currency="CAD">278.83</s:price>
+      <s:sku>WEN-WP150NNXH-C(5700K).1pk</s:sku>
+      <s:grams>6577</s:grams>
+    </s:variant>
+  </entry>
+</feed>

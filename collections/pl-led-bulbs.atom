@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ledmyplace.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ledmyplace.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ledmyplace.ca/collections/pl-led-bulbs.atom"/>
+  <title>LEDMyplace Canada</title>
+  <updated>2019-11-12T05:14:55-05:00</updated>
+  <author>
+    <name>LEDMyplace Canada</name>
+  </author>
+  <entry>
+    <id>https://ledmyplace.ca/products/297245376543</id>
+    <published>2019-11-12T05:14:55-05:00</published>
+    <updated>2019-11-12T05:14:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/800-lumens-led-light-bulbs-gx23-pl-1-pack-9w-2-pin-9w-5000k"/>
+    <title>800 Lumens - LED Light Bulbs, GX23 - PL, 1-Pack, 9W, 2-Pin, 9W, 5000K (Daylight White)</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_f90e72b9-a5f4-4e3c-af5d-c62ad7f71e72.jpg?v=1619123113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace Canada<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            18.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This LED light Bulb fixture is a simple, classy, and stylish design that will bring an indoor space's style elements together. This LED Light Fixture is available on base: GX23 2-Pin. These lights can lighten up the home and office environment. These 9W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 800 Lumens, these LED Light Bulb Fixtures can easily replace 35W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly long-lasting and very lucrative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>35W Eq.</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>800 Lumens</s:tag>
+    <s:tag>9 Watt</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL045</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>GX23 2-Pin</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Non Dimmable</s:tag>
+    <s:tag>PL</s:tag>
+    <s:tag>PL LED Bulbs</s:tag>
+    <s:tag>Replaces 35 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297245376543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.41</s:price>
+      <s:sku>WEN-PL-9W-GX23-2PIN-5K</s:sku>
+      <s:grams>9498</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ledmyplace.ca/products/297245769759</id>
+    <published>2019-11-12T05:14:53-05:00</published>
+    <updated>2019-11-12T05:14:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ledmyplace.ca/products/12w-led-pl-bulb-1-pack-5000k-1100-lumens-gx24q-4pin"/>
+    <title>12W - LED PL BULB, 1-Pack, 5000K, 1100 Lumens (Daylight White), GX24Q 4Pin</title>
+    <s:type>LED Bulbs</s:type>
+    <s:vendor>LEDMyplace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2242/2739/products/1_61f9392e-a24b-403b-bddb-82206d0c7c7d.jpg?v=1619123210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEDMyplace<br>
+        <strong>Type: </strong>LED Bulbs<br>
+        <strong>Price: </strong>
+            24.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Light bulbs are standard among interior designers and home decorators. These bulbs are mostly used in showrooms, retail stores, and track lights, etc. These 12W LED Light Bulbs come in several varieties with a CCT of 5000K. These light fixtures are designed to sustain and function in a voltage ranging between 120-277V. With a lumen output of 1100 Lumens, these LED Light Bulb Fixtures can easily replace 45W fluorescents. It's a UL and Energy Star certified light fixture that comes with a lifespan of 15,000 hours and a manufacturer warranty of 3-years. This LED Light Bulb lighting fixture is a modern lighting fixture that is highly durable and very cost-effective.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1100 Lumens</s:tag>
+    <s:tag>12 Watt</s:tag>
+    <s:tag>3 Years Warranty</s:tag>
+    <s:tag>45W Eq.</s:tag>
+    <s:tag>5000K</s:tag>
+    <s:tag>Bedroom Lighting</s:tag>
+    <s:tag>BL046</s:tag>
+    <s:tag>Commercial Lighting</s:tag>
+    <s:tag>Convenience Store Lighting</s:tag>
+    <s:tag>Energy Star Certified</s:tag>
+    <s:tag>GX24Q 4-pin Base</s:tag>
+    <s:tag>Gym Lighting</s:tag>
+    <s:tag>Kitchen Lighting</s:tag>
+    <s:tag>Living Room Lighting</s:tag>
+    <s:tag>Non Dimmable</s:tag>
+    <s:tag>PL</s:tag>
+    <s:tag>PL LED Bulbs</s:tag>
+    <s:tag>Replaces 45 Watt</s:tag>
+    <s:tag>Residential Lighting</s:tag>
+    <s:tag>Shop Lighting</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>UL Listed</s:tag>
+    <s:tag>Workshop Lighting</s:tag>
+    <s:variant>
+      <id>https://ledmyplace.ca/products/297245769759</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.55</s:price>
+      <s:sku>WEN-PL-12W-GX24Q-4PIN-5K</s:sku>
+      <s:grams>9498</s:grams>
+    </s:variant>
+  </entry>
+</feed>
